@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IST Syllabus</string>
+    <string name="developer">
+        <b>Md. Al-Amin opu</b>
+        \n
+        <i>@alaminopu</i>
+        \n App Developer
+
+    </string>
+    <string name="designer">
+        <b>Saeef Minhaz Shovon</b>
+        \n UI Designer
+    </string>
+    <string name="cse">CSE</string>
+    <string name="ece">ECE</string>
+    <string name="bba">BBA</string>
+    <string name="credit">Credit</string>
+    <string name="close_app">Close App</string>
+    <string name="ist_logo">IST LOGO</string>
+</resources>

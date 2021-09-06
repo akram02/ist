@@ -1,0 +1,2264 @@
+/usr/bin/python3.8 /home/a/Desktop/scraping/cse.py
+
+
+
+
+
+
+
+
+
+NATIONAL UNIVERSITY
+First Year Syllabus
+Department of Computer Science and Engineering
+Four Year B.Sc. Honours Course
+Effective from the Session: 2017-2018
+
+
+
+
+National University
+Subject: Computer Science and Engineering
+Syllabus for Four Year B.Sc. Honours Course
+Effective from the Session: 2017-2018
+Year wise courses and marks distribution
+FIRST YEAR
+Semester I
+Course Code
+Course Title
+Credit Hours
+510201
+Structured Programming Language
+3.0
+510202
+Structured Programming Language Lab
+1.5
+510203
+Electrical and Electronic Circuit
+3.0
+510204
+Electrical and Electronic Circuit Lab
+1.5
+510205
+Calculus
+3.0
+510207
+Physics
+3.0
+510209
+English
+3.0
+Total Credits in 1st Semester
+18.0
+Semester II
+Course Code
+Course Title
+Credit Hours
+510221
+Digital Systems Design
+3.0
+510222
+Digital Systems Lab
+1.5
+510223
+Discrete Mathematics
+3.0
+510225
+Linear Algebra
+3.0
+510227
+Statistics and Probability
+3.0
+510229
+History of the Emergence of Independent Bangladesh
+3.0
+Total Credits in 2nd Semester
+16.5
+Page 2 of 11
+
+
+
+
+Detailed Syllabus
+First Semester
+Course Code :  510201
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Structured Programming Language
+Computer Programming Techniques:
+Overview of Structured Programming Language concept;  algorithm , flowchart and pseudo
+code; Constants, variables and data types; Operator & Expression; Managing Input & Output
+Operations; Decision making and branching; Looping; Arrays; Handling of character strings;
+User-defined  functions;  parameter  passing  conventions,  scope  rules  and  storage  classes,
+recursion; Structure and union; Pointers;  File management; header files; preprocessor; library
+functions; error handling;
+Reference language: C
+Reference Books:
+1)
+Shaum’s Outline of Theory and Problems of Programming with C, B. S. Gottfried, McGraw
+Hill, 3rd Edition.
+2)
+Teach Yourself C, Herbert Schildt, Published by Osborne, 3rd Edition.
+Course Code : 510202
+Marks : 40
+Credits : 1.5
+Class Hours : ---
+Course Title :
+Structured Programming Language Lab
+Objectives: Laboratory classes are based on course CSE 510201. The goal of  this lab is to
+provide students with the skills needed to effectively design, develop, implement, debug, test, and
+maintain programs and more generally to solve problems in C programming language using a
+computer. Students will be asked to solve various problems in a regular basis to increase their
+programming ability. At the end of  the course, students will have to develop a simple real-life
+programming project.
+Course Code :  510203
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Electrical and Electronic Circuit
+AC Fundamentals
+: Basic Principles of AC Generators, Alternating Voltages and Currents,
+Frequency, Amplitude and Phase, RMS and Average Value, Form Factor,  Resistance, Inductance,
+Capacitance, RLC Series Connection and Resonance, Parallel Resonance.
+Network theorem: KVL, KCL, Superposition theorem, Thevenin’s theorem, Norton’s theorem,
+Maximum power transfer theorem.
+Introduction to Semiconductors: Semiconductors and their properties, Intrinsic and extrinsic
+semiconductors.
+Page 3 of 11
+
+
+
+
+Semiconductor Diodes and Special Purpose Diodes: The p-n junction formation, properties
+and V-I characteristics, Basic constructions, characteristics, operations and uses of  special diodes,
+Light emitting diode (LED), Zener diode.
+Regulated Power Supply: Voltage regulation, rectifiers, half-wave and full-wave rectifiers,
+Voltage regulator circuits- Zener diode and transistor voltage regulator.
+Bipolar Junction Transistors: npn and pnp transistors, Amplifying and switching actions of
+transistor,  Transistor  characteristics  in  CB,  CE  and  CC  configurations,  Operating  point,
+Transistor load line analysis, BJT Biasing.
+Field Effect Transistors: Classification of  FET, Construction, operation and characteristics of
+JFET, Operation and characteristics curves of  MOSFET, DC biasing of  JFET.
+Feedback Techniques and Op-amps: Negative and positive feedback, characteristics and gain
+with negative voltage and current feedback, Emitter Follower, Basic Op-amps- characteristics,
+inverting, non-inverting, integrators, differentiators, summing amplifiers.
+Reference Books:
+1)  A Textbook of  Electrical Technology, Volume I, B.L. Theraja and A.K. Theraja
+2)  Electronic Devices and Circuit Theory, Robert L. Boylestead and Louis Nashelsky
+Course Code :  510204
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Electrical and Electronic Circuit Lab
+Objectives: Laboratory classes are based on CSE 510203. Verification of ohm’s law and
+measurement of Resistivity of a Metallic wire, To verify Kirchhoff’s Current law and kirchhoff’s
+Voltage  law,  To  verify  Thevenen’s  theorem,  To  verify  Norton’s  theorem,  To  verify
+Superposition theorem, To study R-C circuit and to find out the time constant, To study the R-
+L-C series Resonance circuit. I-V Characteristics of diode, Input and Output Characteristics of
+BJT:   Common-Base   Configuration(CB),   Common-Emitter   Configuration
+(CE),   I-V
+characteristic of Zener diode.
+Course Code :  510205
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Calculus
+Differential Calculus
+Function and their graphs (polynomial and rational functions, logarithmic and exponential
+functions, trigonometric functions and their inverses, hyperbolic functions and their inverses,
+combination of such functions).
+Limits of Functions: Definition. Basic limit theorems with proofs: limit at infinity and infinite
+limits, Continuous functions. Algebra of continuous functions. Properties Continuous functions
+on closed and boundary intervals (no proof required).
+Differentiation
+: Tangent lines and rates of change. Definition of derivative. One-sided
+derivatives. Rules of differentiation (proofs and applications). Successive differentiation.
+Leibnitz theorem. Related rates. linear approximations and differentials.
+Rolle’s theorem: Lagrange’s and Cauchy’s mean value theorems. Extrema of functions.
+problems involving maxima and minima. Concavity and points of inflection.
+Taylor’s theorem with general form of the remainder ; Lagrange’s and Cauchy’s forms the
+remainder. Taylor’s series. Differentiation and integration of series. Validity of Taylor expansions
+and computations and computations with series. indeterminate forms. L-Hospital’s rules.
+Page 4 of 11
+
+
+
+
+Integral Calculus
+Integrals:   Antiderivatives   and   indefinite-integrals.   Techniques   of    Integration.   Definite
+Integration using antiderivatives. Definite Integration using Riemann sums.
+Fundmental theorems of  Calculus, Basic properties of  Integration. Integration by reduction.
+Application of  Integration: Plane areas. Solids of  revolutions. Volumes by cylindrical shells
+volumes by cross-sections. Arc length and Surface of  revolution.
+Improper integrals. Gamma and Beta functions.
+Graphing in polar co-ordinates. Tangents to polar curves. Area and length in polar coordinates.
+Reference Books:
+1)  Differential Calculus, B. C. Das, B. N. Mukherjee
+2)  Integral Calculus, Dr. Abdul Matin
+3)  A Text Book on Differential Calculus, Mohammad, Bhattacharjee and Latif
+Course Code :  510207
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Physics
+Charge, Electric field & Gauss’s Law: Simple phenomena in electrostatics; Electrostatic
+induction and charge density; Coulomb’s law; Electric field & field strength; Point charge in an
+electric field; dipole in an electric field; Electric flux; Gauss’s law and some applications; Electric
+potential; Potential due to a point charge; Equipotential surfaces; Potential energy; Potential
+gradient; Capacitance and its calculation; Parallel plate capacitor with dielectric; Dielectric &
+Gauss’s law; Electric vectors; Energy stored in an electric field.
+Electric current, Simple circuits and Electrical Measurements: Current and Ohm’s law;
+E.M.F.  and  potential  difference;  Whetstone  bridge;  Simple  RC  and  RL  circuits,  The
+potentiometer; Moving coil galvanometer; Ammeter; Voltmeter; Multimeter; Wattmeter.
+Magnetic Field & force on Current: Coulomb’s law; Magnetic field and field strength;
+Magnetic force on current; Directions of current and field; Maxwell’s screw rule; Fleming’s left
+hand rule; Magnetic field near long wire; Magnetic field for solenoid; Fleming’s right hand rule;
+Magnetic properties of matter: Poles and dipoles; Coulomb’s law for magnets & Gauss’s
+theorem of magnetism; Dia-magnetism, Para-magnetism and Ferro-magnetism. Magnetomotive
+force and field intensity; concept of self and mutual inductance; The coefficient of magnetic
+coupling; Rise of current and decay of current in inductive circuit; Energy in magnetic field;
+Inductance in series and parallel; Hysteresis and eddy current losses.
+Reference Books:
+1.  David Halliday and Robert Resin, Physics Part-II
+2.  Boylested, Introductory Circuit Analysis
+3.  B. L. Theraja, A Text book of Electrical Technology
+Page 5 of 11
+
+
+
+
+Course Code :  510209
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+English
+This course adopts an integrative approach to teaching the four basic skills: speaking, listening,
+reading and writing. Special emphasis will be given to the development of  reading and writing
+skills. To ensure maximum benefit from this course, 30% of  the total marks will be allotted to
+class work in reading and writing.  Speaking: Students will focus on developing speaking which
+will include strategies for communication and an acquaintance with phonetics. Effective oral
+presentation. Tasks will include making statements, requests, inquiries, disagreeing, complaining
+and apologizing, discussing, and other oral presentations. Listening: Students will practice
+listening to spoken English and taking useful notes. Reading: Extracts from literary and general
+essays will be used to develop comprehension as well as an understanding of  the nature of
+literary communication. Students will develop the following reading strategies: Grammar in
+Use: While grammar will generally be taught in context, some attention to grammar may be
+necessary a this stage. The following aspects may be taught: articles, verb patterns, sentence
+combining-subordination and coordination, conditional sentences, the infinitive, gerund, and
+participle, subject-verb agreement. Writing: Paragraph, précis and analytical writings, writing on
+current affairs, Scientific writing. Commercial Correspondences: Defining context, feedback
+and semantic gap. Different types of  commercial and business letter writing, tender-notice and
+pre-qualification notice writing. Writing of  different types of  reports on specific topics.
+Reference Books:
+1)  College Writing Skills with Readings, John Langan.
+2)  The Craft of  Business Letter Writing, Matthew M Monippally, Tata McGraw-Hill Publishing
+Company Limited.
+3)  Advanced Learners’ Degree General English, Chowdhury and Hossain.
+Page 6 of 11
+
+
+
+
+Second Semester
+Course Code :  510221
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Digital Systems Design
+Introduction: Introductory concepts, Number System and  code, Logic gates and Boolean
+algebra.
+Combinatorial  Logic:  Combinational  Circuits  design  using  logic  gates,  universal  gates.
+Minimization  of   switching  functions,  algebraic  simplification,  the  Karnaugh  map,  Prime
+Implement.
+Sequential Logic: NAND and NOR latches. Clocked SR. JK D and T flip-flops. FF timing
+consideration. Master-slave FF.
+Complex Sequential logic: Frequency division and counting troubleshooting. Asynchronous
+ripple up and down counters, counters with any MOD numbers asynchronous IC counters,
+propagation delay. Parallel up down and up/down counters. Presentable counters. The 74193
+counter.  Decoding  a  counter.  Cascading  counters.  Shift  registers,  IC  shift,  digital  clock,
+troubleshooting case studies. MSI logic circuits: BCD-to-Decimal decoders, BCD-to-7 segment
+decoder/drivers. Encoders.
+Multiplexer   and   Demultiplexer:   Multiplexer   and   their   applications,   Demultiplexers,
+Troubleshooting   case   studies,   Analog-to-Digital   conversion,   digital-ramp,   successive
+approximation, flash ADC, Digital-to-Analog  conversion: circuits, specifications, Sample and
+hold circuits, Analog multiplexers, Data acquisition, digital voltmeter.
+Memory Devices: Semiconductor memory technologies ROM architecture timing and type of
+ROM, EPROM, EEPROM, ROM applications. RAM architecture static and dynamic RAM,
+DRAM structure operation and refreshing. Expanding word size and capacity. Magnetic bubble
+and CCD memories trouble shooting case studies. Introduction to sequential circuits, formal
+representation of  sequential circuits.
+Arithmetic circuits: The half-adder, full adder, parallel adders, 2’s complement addition and
+troubleshooting case studies.
+Reference Books:
+1)  Digital Systems: Principles and Applications, Ronald J. Tocci, Neal S. Wildmer.
+2)  Hand Book of  Modern Digital Electronics, G. Moazzam and M. Shorif  Uddin.
+3)  Modern Digital Electronics, R P Jain.
+4)  An Engineering Approach to Digital Design, William I. Fletcher.
+Course Code : 510222
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Digital Systems Lab
+Objectives: Minimize and Implementation of Boolean Functions Using Logic Gates, Design
+Half Adder and Full Adder, Design Half Subtractor and Full Subtractor, Verify the Truth Table
+of S-R, T, D Flip-Flop, Verify the Truth Table of J-K, Prepare Different Type Shift Resister and
+Check Its Operation, Design Synchronous Counter, Design Asynchronous Counter, Design
+Ripple Counter, Design Johnson and Ring counter, Verify the Operation of Encoder and
+Decoder, Verify the Operation of Multiplexer, De-Multiplexer, Verify the Operation of D/A
+and A/D Converter.
+Page 7 of 11
+
+
+
+
+Course Code : 510223
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Discrete Mathematics
+Set Theory, Relations, Functions, Graph Theory, Planer Graph and Trees, Direct graphs and
+Binary Trees, Algebraic Systems, Ordered sets and lattices, Propositional Calculus, Boolean
+Algebra, Lattices, group theory, cyclic groups, permutation groups, symmetry groups, quotient,
+homomorphism,  Basic  structure  theory,  Prepositional  and  Predicate  logic,  Mathematical
+reasoning and program techniques. Theories with induction. Counting and countability. Graph
+and trees. Morphisms, Algebraic structures.
+Reference Books:
+1)  Discrete Mathematics And Its Applications, Kenneth H. Rosen
+2)   Theory and Problems of  Discrete Mathematics, Schaum’s Outlines, Lipschutz S., Lipson M.,
+TATA McGraw-Hill.
+3)  O. Nicodemi, Discrete Mathematics CBS, 1989
+4)  J. C. Molluzzo and F.Buckley( Waveland Press, reprinted 1997) ISBN 0-8833-9407
+Course Code :  510225
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Linear Algebra
+Vectors in Rn and Cn. Review of  Geometric  vectors on R2 and R3  space. Vectors in Rn and Cn.
+Inner product. Norm and distance in Rn and Cn.
+Matrices and Determinants: Notion of  matrix, Types of  matrices, Matrix operation of  matrix
+Algebra, Determinant function, Properties of  determinants, Minors, Cofactors, Expansion and
+evaluation of  determinants, Elementary row and column operation and row-reduces echelon
+matrices, Invertible matrices, Block matrices.
+System of  Linear  Equations: Linear equations, System of  linear equations (homogeneous and
+non-homogeneous) and determinants for solving system of  linear equations.
+Linear Transformations: Linear transformation, Kernel and image of a linear transformation
+and their properties, Matrix representation of linear transformation, Change of basis.
+Eigenvalues   and   Eigenvectors
+:   Eigenvalues   and   eigenvectors,   Diagonalization   and
+application.
+Reference Books:
+1)  Elementary Linear Algebra, Howard Anton, Chris Rorres
+2)  Linear Algebra, Abdur Rahman
+Course Code :  510227
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Statistics and Probability
+Statistics - Definition and scope: past  and present, its nature and characteristics, population
+and sample, descriptive and inferential statistics, scope and applications of statistics, abuse of
+statistics, sources of statistical data, primary and secondary sources. Data collection tools, types,
+etc. Construction of questionnaire and other field problems of data collection. Types of data,
+cross sectional, longitudinal, follow-up and panel data.
+Page 8 of 11
+
+
+
+
+Processing of data: measurement scales, variables, attributes, classification, characteristic and
+basis  of  classification,  array  formation,  tabulation,  different  types  of  tables,  frequency
+distribution.
+Presentation of data: graphical presentation of data, details of different types of graphs and
+charts with their relative merits and dements, concept of explorative data analysis, stem-and-leaf
+plot, schematic plots, extremes and median, hinges, outliers and 5 number summaries.
+Characteristics of statistical data: measures of location, dispersion, skewness, kurtosis and
+their properties, moments, box -and- whiskers plots, trimean, trimmed mean, interpretation of
+data with these measures.
+Correlation analysis: bivariate data, scatter diagram, simple correlation, rank correlation,
+correlation ratio, multiple and partial correlations, intraclass and biserial correlation.
+Regression analysis: basic concept of regression, regression model, estimation of parameters
+(OLS method) in regression model, properties of estimators, interpreting the constants, some
+ideas of polynomial regression, 3-variable regression, estimation of parameters, standard error
+and other properties.
+Association of attributes: concepts of independence, association and disassociation, contingency
+table, measure of association for nominal and data in contingency tables, partial association:
+different forms of correlation table.
+Reference Books:
+1)  Statistics for Business and Economics, Paul Newbold, William Carlson, Betty Thorne.
+2)  Business Statistics, Md. Abdul Aziz.
+3)  An Introduction to Statistics, M. Nurul Islam.
+Course Code :  510229
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+History of the Emergence of Independent Bangladesh
+Introduction: Scope and description of the emergence of Independent Bangladesh.
+1.  Description of  the country and its people.
+a.  Geographical features and their influence.
+b.  Ethnic composition.
+c.  Language.
+d.  Cultural syncretism and religious tolerance.
+e.  Distinctive identity of Bangladesh in the context of undivided Bangladesh.
+2.   Proposal for undivided sovereign Bengal and the partition of  the Sub Continent,
+1947.
+a.  Rise of communalism under the colonial rule,
+b.  Lahore Resolution 1940.
+c.  The proposal of  Suhrawardi and Sarat Bose for undivided Bengal : consequences
+d.  The creation of  Pakistan 1947.
+3.   Pakistan: Structure of  the state and disparity.
+a.  Central and provincial structure.
+b.  Influence of  military and civil bureaucracy.
+C.   Economic, social and cultural disparity
+Page 9 of 11
+
+
+
+
+4.  Language Movement and quest for Bengali identity
+a.  Misrule by Muslim League and struggle for democratic politics.
+b.  Foundation of  Awami League, 1949
+c.  The Language Movement: context and phases.
+d.  United front of  Haque - Vasani - Suhrawardi: election of  1954, consequences.
+5.  Military rule: the regimes of  Ayub Khan and Yahia Khan (1958-1971)
+a.  Definition of military rules and its characteristics.
+b.  Ayub Khan’s rise to power and  characteristics of  his rule
+(Political repression, Basic
+democracy, Islamisation)
+c.  Fall of Ayub Khan and Yahia Khan’s rule (Abolition of one unit, universal suffrage, the
+Legal Framework Order)
+6.  Rise of  nationalism and the Movement for self-determination.
+a. Resistance against cultural aggression and resurgence of  Bengali culture.
+b. The Six Point Movement of  Sheikh Mujibur Rahman
+c. Reactions, importance and significance of  the Six Point Movement.
+d. The Agortola Case 1968.
+7.  The mass-upsurge of  1969 and 11 Point Movement:
+a.  Background
+b.  Program significance and consequences.
+8.  Election of  1970 Non-cooperation movement of  March 1971 and the Declaration  of
+Independence by Bangabondhu
+a.  Election result and centres refusal to comply
+b.  The Non Co-operation Movement, the 7th March Address of  Bangabondhu, Operation
+Searchlight
+c.  Declaration of Independence by Bangobondhu and his arrest
+9.  The War of  Liberation 1971
+a.  Genocide, repression of women, refugees
+b.  Formation of  Bangladesh government and proclamation of  Independence
+c.  The spontaneous early  resistance and subsequent organized resistance (MuktiFouz, Mukti
+Bahini, guerillas and the frontal warfare)
+d.  Publicity Campaign in the war of  Liberation (Shadhin Bangla Betar Kendra, the  Campaigns
+abroad and formation of  public opinion)
+e.  Contribution of  students, women and the masses (Peoples war)
+f.   The role of  super powers and the Muslim states in the Liberation war.
+g.  The Anti-liberation activities of the occupation army, the Peace Committee, Al-  Badar,   Al-
+Shams, Rajakars, pro Pakistan political parties and Pakistani Collaborators, killing of  the
+intellectuals.
+h.   Trial of  Bangabondhu and reaction of  the World Community.
+i.
+The contribution of  India in the Liberation War
+Page 10 of 11
+
+
+
+
+j.
+Formation of   joint command and the Victory
+k.  The overall contribution of Bangabondhu and his leadership in the Independence struggle.
+10. The Bangabondhu  Regime 1972-1975
+a.   Homecoming
+b.   Making of  the constitution
+c.   Reconstruction of the war ravaged country
+d.   The murder of  Bangabondhu and his family and the ideological turn-around.
+Reference Books:
+1)  History of  the Emergence of  Independent Bangladesh, Professor Dr. Muntasir Mamun
+2)  History of  the Emergence of  Independent Bangladesh, Professor Md. Mozammel Haque
+3)  History of  the Emergence of  Independent Bangladesh, Md. A Salam, S M Nasir, Md. Nazrul
+Islam.
+Page 11 of 11
+
+
+
+
+NATIONAL UNIVERSITY
+Second Year Syllabus
+Department of Computer Science and Engineering
+Four Year B.Sc. Honours Course
+Effective from the Session : 2017-2018
+
+
+
+
+National University
+Subject: Computer Science and Engineering
+Syllabus for Four Year B.Sc. Honours Course
+Effective from the session: 2017-2018
+Year wise courses and marks distribution
+SECOND YEAR
+Semester III
+Course Code
+Course Title
+Credit Hours
+520201
+Data Structure
+3.0
+520202
+Data Structure Lab
+1.5
+520203
+Object Oriented Programming
+3.0
+520204
+Object Oriented Programming Lab
+1.5
+520205
+Computer Architecture
+3.0
+520207
+Ordinary Differential Equation
+3.0
+520209
+Fundamental of Business Studies
+3.0
+Total Credits in 3rd Semester
+18.0
+Semester IV
+Course Code
+Course Title
+Credit Hours
+520221
+Database Management System
+3.0
+520222
+Database Management System Lab
+1.5
+520223
+Microprocessor and Assembly Language
+3.0
+520224
+Microprocessor and Assembly Language Lab
+1.5
+520225
+Design and Analysis of Algorithms
+3.0
+520226
+Design and Analysis of Algorithms Lab
+1.5
+520227
+Numerical Analysis
+3.0
+Total Credits in 4th Semester
+16.5
+Page 2 of 10
+
+
+
+
+Detailed Syllabus
+Third Semester
+Course Code : 520201
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Data Structure
+Introduction:  Basic  Terminology;  Elementary  Data  Organization;  Data  Structures;  Data
+Structure  Operations;  Control  Structures;  Algorithms:  Complexity,  Time-Space  Tradeoff,
+Mathematical Notation and function,  String Processing: String Operations, word processing,
+and Pattern Matching Algorithms.
+Arrays, Records and Pointers: Linear Arrays; Representation of linear array in memory;
+Traversing linear arrays, Inserting and Deleting; Sorting; (Bubble sort), Searching (linear, binary),
+Multidimensional Arrays; Pointer Arrays; Record Structures;  Matrices.
+Linked lists:  Representation of Linked lists in memory, Traversing a linked list, Searching a
+linked list, insertion, deletion; Header and two-way lists.
+Stacks, Queues, Recursion: Array Representation of Stacks, Polish Notation; Quicksort,
+Recursive  definition;  Towers  of  Hanoi,  Implementation  of  Recursive  procedures,  Queue
+Dequeue, Priority Queues.
+Trees: Binary Trees; Representing Binary Trees in memory, traversing binary tree, Header
+Nodes; Threads , binary search trees, Heap tree, heap sort, Huffman’s Algorithm.
+Graphs:  Sequential  Representation  of  Graph;  Adjacency  Matrix;  Path  Matrix;  Warshall’s
+Algorithm; Linked representation of Graphs.
+Reference languages: C/C++.
+Reference Books:
+1)  Seymour Lipschutz ( Schaum’s  outline series), Data Structure (International Edition)
+2)  Ellis Horowitz & Sartaj Sahni, Data Structure and Algorthm.
+3)  Robers L Kruse, Data Structure & Programming Design, 2nd Ed.
+4)  Nell Dale, C++ Plus Data Structure, Published by Jones and Bartlett Publishers Inc,
+5th
+Edition.
+5)  Seymour Lipschutz, Theory and Problems of Data Structure, Published by McGraw Hill Inc.
+Course Code : 520202
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Data Structure Lab
+Laboratory classes are based on course CSE 520201. Students will be able to implement different
+data structures, like array, string, linked list, tree and graph using C/C++ programming language.
+They will be introduced with different sorting algorithms and advanced data structures such as
+heap, Fibonacci heap, storage management.
+Page 3 of 10
+
+
+
+
+Course Code :  520203
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Object Oriented Programming
+Principles of Object-Oriented Programming; Beginning with C++; Tokens, Expressions and
+Control Structure; Functions in C++; Classes and objects; Constructors and Destructors;
+Operator Overloading and Type conversions; Inheritance: Extending classes; Pointers, Virtual
+Functions and Polymorphism; Managing console I/O operations; Working with Files; Exception
+Handling; Template functions and classes; Multi-threaded Programming.
+Introduction to java, comparison between java and c++, Applets and Servlets, basic of java.lang,
+java.util and java.io;.
+Reference languages: C++ or  Java.
+Reference Books:
+1)   E Balagurusamy  “Object- oriented programming with C++”
+2)  Robert  Lafore,  Object  Oriented  Programming,  Published  by  MacMillan  Computer
+Publishing, 3rd Edition.
+3)  Herbert Schildt, Teach Yourself C++, Published by McGraw Hill, 3rd Edition.
+4)  Paul Deitel and Harvey Deitel, JavaTH How to Program, Published by Prentice Hall, 9th
+Edition.
+5)  Cay S. Horstmann and Gary Cornell, Core JavaTH Volume 1 & 2, Published by Prentice
+Hall, 9th Edition.
+Course Code :  520204
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Object Oriented Programming Lab
+Laboratory classes are based on course CSE 520203. The goal of  this lab is to provide students
+with the skills needed to effectively design, develop, implement, debug, test, and maintain object
+oriented programs and more generally to solve problems using C++ or Java programming
+languages. They will exercise different advanced programming techniques of  C++ and JAVA, like
+swing, socket programming, and windows programming.  At the end of  the course, students will
+have to develop a simple real-life programming project.
+Course Code :  520205
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Computer Architecture
+Introduction: Organisation and Architecture, Instruction sets- formats, cycle, timing etc;
+Addressing modes; Types of Instruction; RISC characteristics; CISC characteristics.
+Computer System: System Buses, Components, Functions, Bus Interconnection,
+Computer Arithmetic: Different types of data representation; Addition and Subtraction;
+Multiplication Algorithms; Division Algorithms.
+Memory  Organization:  Main  memory,  Auxiliary  memory,  Associative  memory,  Cache
+memory, Virtual memory, Memory management requirements and hardware.
+Page 4 of 10
+
+
+
+
+Input-Output  Organization:  Input-Output  Interfaces;  Data  transfer,  Interrupts;  Direct
+Memory Access (DMA); Input-Output channel.
+Central Processing Unit(CPU): ALU, CPU structure and Functions
+Control Unit: Control Unit operation, Micro-operation, Control of processor, Hardwired
+Implementation.
+Fundamentals of parallel processing: Parallel processing; Pipelining; Vector processing;
+Multiprocessors; Array processor, Bit-slice processor Interconnection structures
+Reference Books:
+1. William Stallings, Computer Organisation and Architecture
+2. V. Hamcher, Z.Vranesic and S.Zaky, Computer Organisation
+3. J.P. Hayes, Computer Architecture and Organisation
+4. Dr. M. Rafiquzzaman, Fundamentals of Computer System Architecture
+Course Code : 520207
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Ordinary Differential Equation
+Ordinary differential equations and their solutions : Classification of  differential equations.
+Solutions. Implicit solutions. Singular solutions. Initial value problems, boundary value problems.
+Basic existence and uniqueness theorems (statement and illustration only). Direction fields. phase
+line.
+Solution of  first order equations : Separable equations and equations reducible to this form.
+Linear equations, exact equations, Special integrating factors, Substitutions and transformations.
+Modeling with first order differential equations: Constructions of  differential equations as
+mathematical models (exponential growth and decay, heating and cooling, mixture of  solutions,
+series  circuit,  logistic  growth,  chemical  reaction,  falling  bodies).  model  solutions  and
+interpretation of  results. orthogonal and oblique trajectories.
+Solutions of  higher order linear differential equations : Linear differential operators. Basic
+theory of  linear differential equations. Solution space of  homogeneous systems. Reduction of
+order. Homogeneous linear equations with constant coefficient. Non homogeneous equation.
+Method  of   undetermined  coefficient.  Variation  of   parameters.  Euler-cauchy  differential
+equations.
+Modeling with second-order equations: Vibration of  a mass on a spring, free and undamped
+motion, free and damped motion, forced motion, resonance phenomena, electric problems,
+motion of  a rocker.
+Reference Books:
+1.  Abu Yusuf, Differential Equations.
+2.  Dr. Abdul Matin, Differential Equations.
+3.  Kuddus, Hafiz, Ordinary Differential Equation, Titas Publications.
+Page 5 of 10
+
+
+
+
+Course Code : 520209
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Fundamental of Business Studies
+The  Business  Enterprise:  Foundation  of   Business,  Forms  of   Business  Ownership,
+Entrepreneurship, Franchising and Small Business, International Business.
+The Environment of Business: Social responsibility and Business Ethics, Business Law and
+Government.
+Management and Organization: Fundamentals of Management, Organization of Business,
+Managing production and operation.
+Human Resources: Human Relations and Motivation, Managing Human Resources, Labor
+Management Relations.
+Marketing: Marketing Strategies, Product and Price, Distribution and Promotion,
+Financial Management: Money and Banking, Financial Management, Investment and Personal
+Finance, Risk Management and Insurance.
+Accounting   and   Information   Systems:   Accounting   Fundamentals,   Computer   and
+Management Information Systems.
+Reference Books:
+1.  Harman, Edwards and Maher, Accounting a Business Perspective.
+2.  Prof. Md. Khalequzzaman and Prof. Mosharraf H Chowdhury, Introduction to Business.
+3.  Md. Hafiz Uddin, Basic Accounting (English Version), The Angel Publications.
+Page 6 of 10
+
+
+
+
+Fourth Semester
+Course Code : 520221
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Database Management System
+Introduction:  Database system concept, Purpose of Database system; View of data: Data
+abstraction; Data models: Relational model, Network model, Hierarchical model; Database
+languages:  DDL,  DML;  Conventional  file  processing;  Transaction  management;  Storage
+management; Database Administrator; Database users; Overall system structure.
+Database model:  Entity-Relationship  model;  Attributes; Mapping Cardinalities; Existence
+Dependencies; Weak entity set & Strong entity set; Relational model and its language (Relational
+algebra and SQL).
+Database  design:  Decomposition;  Normalization;  Object-oriented  Databases;  Centralized
+systems;   Distributed Databases; Data Fragmentation; Parallel Databases.
+Integrity Constraints: Domain constraints, Referential constraints, Functional Dependencies.
+Indexing: Basic concept; Ordered index; Primary index; Dense index and Sparse index;
+Multilevel index; Secondary index.
+Reference Books:
+1.  Abraham Silberschatz, Henry F. Korth, S. Sudarshan, Database System Concepts.
+2.  R. Ramakrishnan, Database Management System.
+3.  James Martin, Principles of  Database Management.
+Course Code : 520222
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Database Management System Lab
+Objectives: Database labs are based on the theory course CSE 520208. One large or several
+small database applications will be developed in the lab. Student will be given the ER model or
+description of a real problem. Based on the description they will design the ER model or convert
+the ER model to relational model using the features of relational database design(such as
+functional dependency, normalization etc) and finalize the relational model. After finalizing the
+relational model, student will go for implementation. In the implementation phases they should
+design the sql statements, stored procedure, trigger, views etc. whatever is required to complete
+the implementation. In the implementation phase should also be the main concern about query
+optimization, transaction, recovery and backup. Any database such as Oracle/MySql/PostGress
+SQL can be used.
+Page 7 of 10
+
+
+
+
+Course Code :  520223
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Microprocessor and Assembly Languages
+Microprocessors:  Evolution  of  microprocessors,  register  base  and  accumulator  based
+microprocessor, programmable logic devices; main memory array design, memory management
+concepts, input/ Out techniques, internal architecture of microprocessor: 8085, 8086, addressing
+mode, instruction format, instruction set, pin configuration and function, maximum/ minimum
+mode, read/write cycle, memory bank, interrupt and interrupt handling, interrupt controller,
+DMA.
+Advanced   microprocessors:Internal   architecture,   memory   management,   protection,   an
+overview of Intel
+80186, 80286, 80386, 80486, Pentium microprocessors, RISC processor,
+Coprocessor, Alpha processor.
+Assembly Language: Programming with 8086 instruction, conditional and unconditional jump,
+string instruction, stacks operation, procedure, reentrant and recursive procedure, macro.
+Reference Books:
+1. D.V Hall, Microprocessors and Interfacing, McGraw-Hill
+2. M. Rafiquzzaman, Microprocessors and Microprocessor Based System Design
+3. Y. Liu and G.A. Ginson, Microcomputer System: 8086/8088 Family
+Course Code : 520224
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Microprocessor and Assembly Languages Lab
+Objectives: Laboratory classes are based on CSE 520210. Firstly, students will be introduced
+with Assembly Language and Assembler (NASM, TASM and/or MASM). Several experiments
+will  be  performed  with  the  assemblers:  I/O  operations,  Integer  programming,  String
+programming, Graphics programming, etc.
+Display message (n) times in different line; simple arithmetic operation; Convert a lowercase
+letter to an uppercase letter and  vice versa; Display all alphabetic characters; Input two numbers,
+compare them and display the smaller one and vice versa; Accept a string from keyboard and
+display the string in reverse order; Find the largest element from an array and vice versa; perform
+bubble sort; display first ten numbers by Fibonacci Series; Calculate sum and average of  few
+numbers; Convert hexadecimal number to binary equivalent; If  a character is “y” or “Y”, Display
+it,  otherwise  terminate;  Calculate  the  following  expression=M+N-P+1(Using  Subroutine);
+Calculate following operation: if x>y then (M/N) +P else (M-N)*P ;(IF-ELSE Statement).
+Reference Books:
+1. Marut, Assembly Language Programming
+2. Richard C. Detmer, Assembly Language Programming
+3. Vanugopal, Assembly Language Programming
+4. Alan R. Miller, Techniques for the IBM PC
+Page 8 of 10
+
+
+
+
+Course Code : 520225
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Design and Analysis of Algorithms
+Introduction  to  algorithm:  Analysis  of  algorithm,  design  of  algorithm,  mathematical
+foundation of algorithm, asymptotic notations, summations, recurrences, sets etc.
+Divide and Conquer: General method, Binary Search, Finding the Maximum and Minimum,
+Quick Sort, Selection.
+The Greedy method: General method, Knapsack problem, Minimum cost spanning trees,
+Single Source Shortest path.
+Dynamic programming: General method, Multistage Graphs, All pair’s shortest paths, Single
+Source Shortest path, Knapsack problem, Optimal Binary search Tree, Traveling salesperson.
+Basic Traversal & Search technique: Techniques for Binary trees, Techniques for Graphs
+Backtracking: General method, The 8-Queens problem, Sum of subsets, Graph Coloring
+Branch and Bound: The method, 0/1 Knapsack problem, Traveling salesperson
+NP-hard and NP-complete problems: Basic concept, NP-hard graph problems, NP-hard
+scheduling problems, NP-hard code generation problems.
+Reference Books:
+1.   Ellis  Horowitz,  Sartaj  Sahni  and  Sanguthevar  Rajasekaran,  Fundamentals  of   Computer
+Algorithms, Published by Galgotia Publications Pvt. Ltd, 2nd Edition.
+2.   How to Solve it by Computer, R.G.Dromey.
+3.   Data Structure & Programming Design, Robert L. Kruse.
+4.   Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein, Introduction to
+Algorithms, Published by The MIT Press, 3rd Edition.
+Course Code :  520226
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Design and Analysis of Algorithms Lab
+Laboratory classes are based on the course CSE
+520212. Students will be given various
+algorithmic problems on different domains. By solving those problems students will gain
+knowledge on algorithmic techniques and their relative performances.
+Divide and conquer: Binary Search, finding the maximum and minimum.
+Performance measurement using time Function: quick sort and marge sort, marge sort and
+Bubble sort, Quick sort and Heap sort.
+Greedy Method: Knapsack problem, Minimum cost spanning tree, Prim’s algorithm, Single
+source shortest path.
+Dynamic  Programming:  All  pair  shortest  path,
+0/1  kanpsack  problem,  the  traveling
+salesperson problem.
+Backtracking: the 8 Queens Problem, Graph coloring problem.
+Page 9 of 10
+
+
+
+
+Course Code :  520227
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Numerical Analysis
+Solutions of  equation in one variable: Bisection algorithm. Method of  false position. Fixed
+point  iteration,  Newton-Raphson  method,  Error  Analysis  iteration  for  iterative  method,
+Accelerating limit of  convergence.
+Interpolation  and  polynomial  approximation
+:  Taylor  polynomial,  interpolation  and
+Lagrange polynomial. Iterated Interpolation. Extrapolation.
+Differentiation  and  Integration
+:  Numerical  differentiation.  Richardson’s  extrapolation.
+Elements  of   Numerical  integration.  Adaptive  quadrature  method,  Romberg’s  integration,
+Gaussian quadrature.
+Solutions of  linear system, pivoting strategies, L U decomposition method.
+Reference Books:
+1)  Vatista, Numerical Analysis
+2)  S. S. Sastry, Introductory Methods of  Numerical Analysis
+3)  J.H. Mathews, Numerical Methods for Computer Science, Engineering and Mathematics, Prentice-
+Hall, 1987.
+4)  B. Irons and N.G. Shrive, Numerical Methods in Engineering and Applied Science, Ellis Horwood,
+1987.
+Page 10 of 10
+
+
+
+
+NATIONAL UNIVERSITY
+Third Year Syllabus
+Department of Computer Science and Engineering
+Four Year B.Sc. Honours Course
+Effective from the Session: 2017-2018
+
+
+
+
+National University
+Subject: Computer Science and Engineering
+Syllabus for Four Year B.Sc. Honours Course
+Effective from the Session: 2017-2018
+Year wise courses and marks distribution.
+THIRD YEAR
+Semester V
+Course Code
+Course Title
+Credit Hours
+530201
+Peripheral and Interfacing
+3.0
+530202
+Peripheral and Interfacing Lab
+1.5
+530203
+Data and Telecommunications
+3.0
+530204
+Data and Telecommunications Lab
+1.5
+530205
+Operating System
+3.0
+530206
+Operating System Lab
+1.5
+530207
+Economics
+3.0
+Total Credits in 5th Semester
+16.5
+Semester VI
+Course Code
+Course Title
+Credit Hours
+530219
+Software Engineering
+3.0
+530220
+Software Engineering Lab
+1.5
+530221
+Computer Networking
+3.0
+530222
+Computer Networking Lab
+1.5
+530223
+Embedded System Programming
+3.0
+530224
+Embedded System Programming Lab
+1.5
+530225
+Theory of Computation
+3.0
+Total Credits in 6th Semester
+16.5
+Page 2 of 8
+
+
+
+
+Detailed Syllabus
+Fifth Semester
+Course Code : 530201
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Peripheral and Interfacing
+Interfacing techniques: Interfacing for Memory; Communication system; System overhead
+(DMA and Programmed data transfer); I/O ports and Control; Parallel and Serial Interfacing
+devices; Timing considerations; Noise considerations; Application of PPI, PIC, DMAC, PCI etc.
+Digital Interfacing: Programmable parallel ports and handshake input/output
+(IC
+8255),
+Interfacing a Microprocessor to keyboards, X-lat, Display-Alphanumeric and multiplexed LED
+(Interfacing with IC 7447), Relay, Stepper motor, Incremental Encoder, Optical motor shaft
+encoder.
+Modern data-entry devices: Scanners overview; Bar code reader; Optical mark reader (OMR);
+Optical  Character  Reader
+(OCR);  Tape  Reader;  Digitizer:  Reading  technique,  Capacitive
+Electrostatic scanning digitizer.
+Display devices: CRT; Basic CRT operations; Timing and frequencies; CRT controller ICs;
+LCD technologies; Passive and active matrix; LCD reliability; Electroluminescent display.
+Printers: Impact printers; Serial and line printing; Laser printing; Ink-Jet printing; Color printing;
+Plotters.
+Storage devices: Floppy disk; Floppy disk controller (IC 8272) ; Magnetic hard disk and
+controller; Compact disk, magnetic tape storage.
+Data Communication and Network: Introduction to asynchronous serial data
+communication, RS-232 C serial data standard, USART(IC 8251A) word format, Null Modem
+configuration, The GPIB, HPIB, IEEE 488 Bus.
+Reference Books:
+1. Microprocessor and Interfacing by Andrew Hall
+2. Computer Peripherals (Part B) by Barry Wilkinson
+Course Code : 530202
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Peripheral and Interfacing Lab
+Laboratory works based on CSE 530201.Understand SDK 86 board, write and execute a
+program in an SDK 86, Understand RS-232 standard, Connections and Cabling.  Communicate
+between two Computers using parallel ports (Printer Port). Observe and manipulate Null
+modem Configuration. Communicate between two Computers using serial ports. Drive a single 7
+segment LED display with 7447. Understand the basic characteristics of IC 8255.
+Course Code : 530203
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Data and Telecommunications
+Data communication model: TCP/IP and OSI; data communication network components;
+different types of networks: circuit switching, packet switching networks, ATM, HDLC and X.25;
+signal and random processes; review of Fourier transformation and Hilbert transformation;
+Page 3 of 8
+
+
+
+
+Introduction to modulation techniques; continuous wave modulation: AM, PM, FM; sampling
+theorem; pulse modulation: PAM, PDM, PPM, PCM; companding; delta modulation; different
+PCM; multiple access techniques: TDM, FDM; quantization; digital modulation: ASK, FSK, PSK,
+BPSK,  QPSK;  constellation;  bit  error  rate
+(BER),  noise;  echo  cancellation;  intersymbol
+interference; probability of error for pulse systems; concepts of channel coding and capacity;
+asynchronous and synchronous communications; hardware interfaces, multiplexers, concentrators
+and buffers; communication media; fiber optics; wireless transmission: propagation, path loss,
+fading, delay spread; spread spectrum: frequency hopping spread spectrum and direct sequence
+spread spectrum; CDMA; High speed digital access: DSL, SONET, SDH; error detection and
+correction techniques: parity check, CRC, block code and hamming code; flow and error control
+techniques:   sliding   window,   stop   and   wait,   ARQ   and   HDLC   protocols;   modes   of
+communications: simplex, half-duplex and full duplex.
+Reference Books:
+1)  Behrouz A. Forouzan, Data Communications and Networking, 4th Edition.
+2)  William Stallings, Data and Computer Communications, Published by Pearson, 8th Edition.
+Course Code : 530204
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Data and Telecommunications lab
+Laboratory classes are based on the course CSE 530203. Upon successful completion of  this laboratory,
+students should have knowledge about various communication protocols in physical layers, be able to
+identify different transmission media based on their characteristics and can apply different signal encoding
+schemes and analyze their performance. They can handle different error detection and error control
+mechanism as well as different flow control mechanism and quantitatively analyze their performance.
+Having experience on serial communication, they can also implement the NULL modem communication.
+They can also use different types of  multiplexing in a real or simulated environment.
+Course Code :  530205
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Operating System
+Introduction: Operating system overview, computer system structure, structure and components
+of  an operating system. System calls: class of  system calls and description. Process and
+threads: process and thread model, process and thread creation and termination, user and kernel
+level thread, scheduling, scheduling algorithms, dispatcher, context switch, real time scheduling.
+Concurrency and synchronization: IPC and inter-thread communication, critical region, critical
+section problems and solutions. Resource management: introduction to deadlock, ostrich
+algorithm, deadlock detection and recovery, deadlock avoidance, deadlock prevention, starvation.
+File management: File Naming and structure, file access and attributes, system calls, file
+organization: OS and user perspective view of  file, memory mapped file, file directories
+organization, File System Implementation: implementing file, allocation strategy, method of
+allocation,  directory  implementation,  UNIX  i-node,  block  management,  quota.  Memory
+management:  basic  memory  management,  fixed  and  dynamic  partition,  virtual  memory,
+segmentation, paging and swapping, MMU. Virtual memory management: paging, page table
+structure, page replacement, TLB, exception vector, demand paging and segmentation, thrashing
+and performance. Disk I/O management: structure, performance, low-level disk formatting,
+Disk arm scheduling algorithm, error handling, stable storage.
+Reference Books:
+1) Andrew S. Tanenbaum, Modern Operating Systems,
+2) Abraham Silberschatz, Peter Baer Galvin, Greg Gagne, Operating System Concepts.
+Page 4 of 8
+
+
+
+
+Course Code :  530206
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Operating System Lab
+Lab based on the course CSE 530205. Source code of  OS161 operating system and required tools
+developed by Harvard University, based on R3000 architecture will be used in the lab. Students
+will be asked to add operating system module such as memory management, system call, file
+system, drivers etc. In the lab for such modules problems will defined elaborately. The laboratory
+also train students in debugging using gdb based on R3000.
+Course Code :  530207
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Economics
+Introduction: Definition, Microeconomics vs. macroeconomics, scope of  economics, meaning
+of  economic theory, some basic concepts- product, commodity, want, utility, consumption,
+factors of  production.
+Demand: Law of  demand, factors determining demand, shifts in demand, demand functions,
+deriving demand curves, substitution and income effects, deriving aggregate demands, various
+concepts of  demand elasticity and measurements, discussion on the method of  estimating
+demand functions and demand functions and demand forecasting.
+Supply: Law of  supply and supply function, determination of  supply, shifts in supply, elasticity
+of  supply, market equilibrium.
+Economic  Theory  of   Consumer  Behavior:  reasons  for  consumption,  Principle  of
+diminishing marginal utility, indifference Curves, Budget Constraint, Utility Maximization and
+Consumer Equilibrium.
+Consumer Demand: Change in Budget Constraints, Price Consumption Curve, Income
+Consumption Curve, Consumer Demand, market Demand, Engel Curve.
+Production: Production functions, total, average and marginal products, law of  diminishing
+marginal  physical  products,  production  isoquants,  marginal  rate  of   technical  substitution
+(MRTS), optimal combination of  inputs, expansion path, returns to scale, estimation of
+production function and estimation of  cost function.
+Cost: concepts of  cost, short-run costs, relation between short-run costs and production, long
+run costs, economies and diseconomies of  scale, relation between short run and long run costs,
+cost function and estimation of  cost function.
+Markets and Revenue: Meaning of  market, different forms of  market, concepts of  total,
+average and marginal revenue, relation between average revenue and marginal revenue curves,
+relation between different revenues and elasticity’s of  demand, equilibrium of  the firm.
+Price and Output: Price and output determination under perfect competition, monopoly,
+monopolistic competition and oligopoly, profit maximization, price discrimination, plant shut
+down decision, barriers to entry.
+Reference Books:
+1.  Samuelson and Nordhaus : Economics.
+2.  Bilsa: Microeconomic Theory.
+3.  Koutsoyiannis: Modern Micro-economics.
+4.  Dornburg and McDougall: Macro-economics.
+Page 5 of 8
+
+
+
+
+Sixth Semester
+Course Code : 530219
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Software Engineering
+Software  Engineering  Paradigms:  Definition  of  S/W  Eng.;  The  classical  life  cycle;
+Prototyping fourth generation technique; The product and the process model, Generic view of
+software engineering, Boehm's spiral model, Measurement and Matrices.
+Requirements  Analysis  Fundamentals:  Analysis  principle;  Feasibility  Study,  Software
+Prototyping Specification; Requirement Analysis Methodologies; Structured and object oriented
+analysis; Data Flow-oriented analysis methods.
+Software Design Fundamentals: Design process; Design fundamentals: S/W architecture,
+Program structure, Data structure, S/W procedure, Modularity, abstraction; Effective modular
+design; Procedural design; Data flow-oriented Design; Top-down and bottom-up design; Design
+process considerations; Transform analysis; Transaction analysis; Data structure-oriented design:
+Logical construction of programs and systems, Data structured systems development; Object-
+oriented design; Design concepts; Methods; strategy. Real-time Design; Coding style: Code
+documentation, Data declaration, statement construction, Input/output, Software reliability.
+Software   Testing   Techniques   and   Strategies:   Software   Testing   method,   Testing
+fundamentals & strategies; White box testing; Basis path testing; Loop testing; Black Box testing.
+Verification and validation; Organization for software testing; Defect testing; Integration testing;
+Validation testing; System testing; The art of debugging.
+Software  Management  and  Maintenance  Technique:  Maintenance  process,  System
+documentation, Maintenance cost, Configuration management & planning, Change management,
+person & release management, Software cost estimation technique, Algorithmic cost modeling,
+The COCOMO model, Software quality assurance & activities, McCall’s quality factor, Software
+reuse, Software re-engineering, Computer Aided Software Engineering (CASE) tool.
+Reference Books:
+1)   Ian Sommerville, Software Engineering.
+2)  Roger S. Pressman, Software Engineering: A Practitioner’s Approach.
+3)   Martin L. Shooman, Software Engineering
+Course Code : 530220
+Marks : 40
+Credits :1.5
+Class Hours : --
+Course Title :
+Software Engineering Lab
+(Based on Software Engineering Theory Course CSE 530208)
+Course Code : 530221
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Computer Networking
+Page 6 of 8
+
+
+
+
+Introduction:  Basic  computer  network  concept;  Network  structure;  Network  software;
+Reference model; Example networks; OSI Model, TCP/IP Model, X.25 Networks.
+Frame Relay: Introduction to frame relay, advantages and disadvantages, role of frame relay,
+frame relay operations, virtual circuits, DLCIs inside the network,
+,frame relay layers; physical
+layer , data link layer.
+ATM  Network:  Packet  networks,  mixed  network  traffic,  cell  networks,  asynchronous
+TDM,virtual connection, identifiers, cell, connection establishment and release, Application
+Adoptions Layer(AAL),ATM layers, Physical layer, ATM WANs, ATM LANs.
+Medium  Access  sub-layer:  Multiple  Access  Protocols:  ALOHA;  CSMA/CD  Protocol;
+Collision-Free protocols;CDMA Limited contention protocol; Wavelength division multiple
+access protocols; Wireless LAN protocols; IEEE standard 802 for LANs and MANs; Bridges;
+High-speed LANs;Wireless LANs,Mobile telephony and Satellite Networks.
+Network  Layer:  Network  layer  design  issues;  Routing  algorithms;  Congestion  control
+Algorithms; Inter networking; Network layer in the internet; IPv4 and introduction to IPv6.
+Transport Layer: The transport service; Elements of transport protocols; The internet transport
+protocols; The ATM AAL layer protocols;
+Optical Fiber Network: SONET and SDH.
+Application Layer: Network security; DNS-Domain Name system; SNMP: Simple Network
+Management protocol; Electronic Mail; The World Wide Web; Multimedia.
+Reference Books:
+1.  Tannenbaum ,Computer Networks.
+2.  W. Stallings, Data & Computer Communication.
+3.  Behrouz & Forouzen, Data Communication & Networking.
+Course Code :  530222
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Computer Networking Lab
+Laboratory classes are based on course CSE 530210. Starting with application layer, students will
+configure different services at different layers and examine their messaging techniques. Students
+will also develop some experiments to work transport layer services such as TCP and UDP.
+Course Code :  530223
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Embedded System Programming
+Concept of visual programming; system programming concepts; general machine structures;
+Internet  programming; environments;  multiple  document  interfaces;  ActiveX  controls  and
+ActiveX components; API; apache server;  OLE automation; database programming and Active
+data objects; introduction to the web; scripting objects; active server pages; database connectivity
+to web applications; adding dynamic content to web applications; programming common gateway
+interfaces;  programming  the  user  interface  for  the  web  applications;  programming  with
+concurrency  and  multithreading;  service-oriented  software  development;  XML  and  related
+technologies: XML schema XSLT, XPath, DOM, SAX; web-based application development and
+state management; Kernel programming; programming for memory management; VFS handling;
+interrupt handling; Linux module programming; assembler: basic functions, machine dependent
+and independent assembler, one vs. multipass assembler; linker: dynamic lining and linking
+editors, loaders: machine dependent and independent loader, bootstrap loaders, development of
+system software and web-based applications for different devices.
+Page 7 of 8
+
+
+
+
+Reference Languages: Android, J2ME, C++.
+Reference Books:
+1.  William Green and John D. Olson, PowerBuilder 9: Internet and Distributed Application
+Development, Published by Sams Publishing.
+2.  Randall A. Maddox, Distributed Application Programming in C++, Published by Prentice
+Hall.
+3.  Luke Welling and Laura Thomson, PHP and MySQL Web Development, Published by
+Addison-Wesley Professional, 4th Edition.
+4.  Robin Nixon, Learning PHP, MySQL, JavaScript an CSS: A Step-by-Step Guide to Creating
+Dynamic Websites, Published by O’Reilly Media, 2nd Edition.
+Course Code :  530224
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Embedded System Programming Lab
+Laboratory classes are based on course CSE 530212. Students will get knowledge for developing
+some system tools based on various system calls. Linux module programming will be an
+important part of  this lab. They will be asked to develop device drivers and applications programs
+for different devices.
+Course Code :  530225
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Theory of Computation
+Language theory; finite automata: deterministic finite automata, nondeterministic finite automata,
+equivalence and conversion of deterministic and nondeterministic finite automata, pushdown
+automata; regular expressions and its properties: Chomsky hierarchy, regular grammar and
+regular language; context free languages; context free grammars; Pumping lemma and its
+applications; Turing machines: basic machines, configuration, computing with Turing machines,
+combining Turing machines;  Mealy machine and Moore machine; undecidability: diagonalization
+method, halting problem, undecidable problems from language theory and reducibility; recursive
+theorem;
+Reference Books:
+1)  Michael Sipser, Introduction to Theory of Computation, Published by Thomson,
+2nd
+Edition.
+2)  John C. Martin, Introduction to Languages and Theory of Computation, Published by
+McGraw-Hill, 3rd Edition.
+Page 8 of 8
+
+
+
+
+NATIONAL UNIVERSITY
+Fourth Year Syllabus
+Department of Computer Science and Engineering
+Four Year B.Sc. Honours Course
+Effective from the Session: 2017-2018
+
+
+
+
+National University
+Subject: Computer Science and Engineering
+Syllabus for Four Year B.Sc. Honours Course
+Effective from the Session: 2017-2018
+Year wise courses and marks distribution
+FOURTH YEAR
+Semester VII
+Course Code
+Course Title
+Credit Hours
+540201
+Artificial Intelligence
+3.0
+540202
+Artificial Intelligence Lab
+1.5
+540203
+Compiler Design and Construction
+3.0
+540204
+Compiler Design Lab
+1.5
+540205
+Computer Graphics
+3.0
+540206
+Computer Graphics Lab
+1.5
+540207
+E-Commerce and Web Engineering
+3.0
+540208
+E-Commerce and Web Engineering Lab
+1.5
+Total Credits in 7th Semester
+18.0
+Semester VIII
+Course Code
+Course Title
+Credit Hours
+Major Theory Courses
+540219
+Network and Information Security
+3.0
+540220
+Network and Information Security Lab
+1.5
+540221
+Information System Management
+3.0
+Project/Industry Attachment
+540222
+Project/Industry Attachment
+6.0
+Optional Course (any one)
+3.0
+540223
+Simulation and Modeling
+540225
+Parallel and Distributed Systems
+540227
+Digital Signal Processing
+540229
+Digital Image Processing
+540231
+Multimedia
+540233
+Pattern Recognition
+540235
+Design and Analysis of VLSI Systems
+540237
+Micro-controller and Embedded System
+540239
+Cyber Law and Computer Forensic
+540241
+Natural Language Processing
+540243
+System Analysis and Design
+540245
+Optical Fiber Communication
+540247
+Human Computer Interaction
+540249
+Graph Theory
+Page 2 of 18
+
+
+
+
+Optional Course Lab (Any one)
+1.5
+540224
+Simulation and Modeling Lab
+540226
+Parallel and Distributed Systems Lab
+540228
+Digital Signal Processing Lab
+540230
+Digital Image Processing Lab
+540232
+Multimedia Lab
+245034
+Pattern Recognition Lab
+540236
+Design and Testing of VLSI Systems Lab
+540238
+Micro-controller and Embedded System Lab
+540240
+Cyber Law and Computer Forensics Lab
+540242
+Natural Language Processing Lab
+540244
+System Analysis and Design Lab
+540246
+Optical Fiber Communication Lab
+540248
+Human Computer Interaction Lab
+540250
+Graph Theory Lab
+Total Credits in 8th Semester
+18.0
+Page 3 of 18
+
+
+
+
+Detailed Syllabus
+Seventh Semester
+Course Code : 540201
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Artificial Intelligence
+Overview of  AI, AI programming language: Prolog, Environment Types, Agent Types, Agent
+Model, Reactive Agents, Problem solving and searching: 8-puzzle problem, N-queen problem,
+general search, Review of  Uninformed Search Strategies: breadth first search, uniform cost
+search, depth-first search, iterative deepening, bidirectional search; Informed search algorithms:
+best-first search, A* search, Heuristic searching, Memory Bounded Search (e.g. IDA*); Local
+Searches:  Hill  Climbing,  Simulated  Annealing,  Constraint  Satisfaction  Problems.  Genetic
+Algorithm. Motion planning: motion planning search, configuration, action and obstacle, Road
+map, Game Theory: motivation, minmax search, resource limits and heuristic evaluation, α-β
+pruning, stochastic games, partially observable games, Perceptron: Neurons - Biological and
+Artificial,
+Perceptron   Learning,   Linear   Separability,   Multi-Layer   Neural   Networks,
+Backpropagation, Variations on Backprop, Cross Entropy, Weight Decay, Momentum, Machine
+Learning: Supervised Learning, Reinforcement Learning, General concepts of  Knowledge,
+Knowledge representation, frame problem, representing time, events and actions, Logic in
+general—models and entailment, Propositional (Boolean) logic, Equivalence, validity, satisfiability,
+Inference rules and theorem proving, forward chaining, backward chaining, resolution, First
+Order Logic: Universal and Existential Quantifiers, Keeping Track of  Change, Inference in first
+order logic Planning.
+Reference Books:
+1.  Stuart J. Russel, Peter Norvig, Artificial Intelligence: A Modern Approach,
+2.  Stamations V. Katalopoulos, Understanding Neural Networks and Fuzzy Logic.
+3.  Barr and Feigenbaum, Handbook of  Artificial Intelligence Vol. I , William Kaufmann
+4.  Ivan Bratko, Programming for Artificial Intelligence.
+Course Code : 540202
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Artificial Intelligence Lab
+Objectives: Laboratory assignments will be based on the Course CSE 540201. Lab assignments
+include basic AI technologies and algorithms using non procedural programming languages, e.g.,
+LISP and/or PROLOG.
+Course Code :  540203
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Compiler Design and Construction
+Introduction to compiler: Compiler, Analysis of the source Program, the phases of compiler,
+of the compiler, compiler construction tools.
+A simple one pass compiler: syntax definition, CFG, parse tree, ambiguity, associativity of
+operators, lexical analysis.
+Lexical analysis: the role of the lexical analyzer, input buffering, specification tokens, finite
+automaton, Thompson’s construction, conversion of regular expression to DFA.
+Page 4 of 18
+
+
+
+
+Basic parsing technique: Parser Bottom-up parsing, operator precedence parsing, operator
+precedence grammar, Top down parsing, Predictive parsing, LL1 grammar, LR parser (SLR,
+LALR).
+Intermediate code generation: Intermediate languages, three address code.
+Code generation: issues in the design of a code generator, target machine, basic block flow
+graph, code generator algorithm, DAG, peephole optimization.
+Code optimization: Function preserving  optimization, optimization of basic block loop
+optimization.
+Error detection: reporting errors, Sources of error, syntactic error, semantic error, dynamic
+error, plan of error diction.
+Reference Books:
+1.  Alfred V. Aho, Ravi Sethi, Jeffery D. Ullman, Compilers, Techniques and tools.
+2.  Alfred V. Aho,  Jeffery D. Ullman, Principles of Compiler Design.
+3.  A.J Holub, Compiler Design in C.
+Course Code :  540204
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Compiler Design Lab
+Laboratory classes will be based on the Course CSE 540203.
+Lex   specification   to   recognize   the   following   verb:   is,   am,   are
+,were,   was,   be,
+being,been,do,does,did,will,would,should,can,could,has,have,had,go.
+Lex   specification   to
+recognize
+the
+following
+words    as    different    parts
+of
+speech:
+is,
+am,
+are,were,go,very,simply,quickly,
+gently,to,from,behind,between,if,then.   Lex   specification   to
+recognize different keyword. Lex specification to recognize the identifier. Lex specification to
+recognize real numbers. Lex specification to recognize integer. Lex specification to recognize
+float. Lex specification to recognize for the positive and negative integer and float number. Lex
+specification to recognize different punctuation  symbol. Lex specification to recognize digit. Lex
+program to eat up comments. Lex program to find out user name. Lex program to recognize
+different types of operator. Checking the validity of an arithmetic expression using CFG.
+Converting Regular Grammar into Regular expression. Parsing any string using a CFG
+Course Code :  540205
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Computer Graphics
+Graphics   Input,   storage,   Output   and   Communications:   Graphics   input,   storage,
+Communication Devices, Common Display devices, Raster Scan CRT.
+Scan Conversion: Scan converting a Point, Line, Circle, Ellipse, Arcs, Rectangle, Region filling,
+Side Effects of Scan Conversion.
+Two-dimensional   and   three-dimensional   Graphics   Transformation:   Geometric
+Transformations,  Co-ordinate  Transformations,  Composite  Transformations,  and  Instance
+Transformation.
+Two-dimensional and three-dimensional Viewing and Clipping: Viewing Transformations,
+Clipping Algorithms.
+Mathematics of Projection:  Perspective projection, Parallel projection.
+Geometric   representations:   Wire   frame   model,   Curve   Design,   Interpolation   and
+Approximation.
+Hidden Surfaces: Depth comparisons, Z-Buffer algorithm, The Painter’s algorithm, Scan line
+algorithm.
+Color and Shading models: Light and color, the phong model, Interpolative shading methods,
+texture.
+Page 5 of 18
+
+
+
+
+Reference Books:
+1)  Roy A. Plastock and Gordon Kalley, Schaum’s Outline of Theory and Problems of Computer
+Graphics, published by McGraw-Hill, 2nd Edition.
+2) Foley and VanDam, Computer Graphics Principles and Practice, Published by Pearson, 2nd
+Edition.
+3)  Schaum’s Outline series, Computer graphics
+4)  Steven and Harrington, Computer graphics: a programming approach.
+Course Code :  540206
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Computer Graphics Lab
+Laboratory classes will be designed based on CSE 540205 course.
+Scan Convention Lines, Scan Converting Circles, Scan Converting Ellipses, Filling Rectangles,
+Filling Polygons, Filling Ellipse Arcs, Pattern Filling, Clipping Lines, Clipping Circles and
+Ellipses, Clipping Polygons 2D Transformation, the window to View port Transformation
+Computer Graphics Programming: Open GL.
+Course Code :  540207
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+E-Commerce and Web Engineering
+Introduction to e-commerce:  E-commerce Business Models and Concepts , E-Commerce
+Payment Systems, E-Commerce Marketing Techniques, E-Commerce Applications: Business-to-
+Consumer
+(B2C),   Consumer-to-Consumer
+(C2C),   Business-to-Business(   B2B),   Digital
+Government, Vision and mission of e-Government Web Security.
+Introduction to Web Engineering
+:  Web Browser and Web Server, Google, Basic concepts
+of Google products: Search, Maps, Translate, Chrome, YouTube, Android Phones, Gmail,
+Google Allo, Google Duo, Google+, Contacts, Calendar, Drive, Docs, AdWords, AdSense,
+Analytics, Google Classroom.  Basic concepts of Google Algorithms: Hummingbird, Panda,
+Pigeon, Pirate and Penguin, etc. Basic concepts of SEO: on-page SEO, off-page SEO.
+HTML and HTML5:  HTML tag syntax, Basic HTML tags: !DOCTYPE,  Title , Meta  tags,
+Heading tags, Link, API, Image, Table, List, Audio, Video, iframe, Form and Form elements,
+Text Formatting tags.
+CSS and CSS3: Basic concepts of CSS, CSS syntax, CSS Colors, CSS Box Model,
+Java Scripts:  Basic Java Scripts variable, array, object, functions.
+PHP and MySQL: PHP programming basics: variables, array, decisions making, looping,
+function. PHP scripts to inputs in forms. PHP Connect to MySQL, MySQL query and functions,
+PHP Queries: Create Database, Create Tables, Insert Data, Select Data, Update Data, Delete
+Data in MySQL, using PHP Forms to manipulate data in the database, Data Validation, Session,
+Security.
+Reference Books:
+1.   Dave Chaffey, E-Business and E-Commerce Management: Strategy, Implementation and Practice,
+published by Prentice Hall, 5th Edition.
+2.  Efraim Turban, David King and Judy Lang, Introduction to Electronic Commerce, published by
+Prentice Hall, 3rd Edition.
+Page 6 of 18
+
+
+
+
+3.  Beginning Php
+5 (Programmer to Programmer) by Chris Lea, Wankyu Choi,Allan
+Kent,Ganesh Prasad,Chris Ullman.
+4.  Surid Sharkar, CSS/Java Script.
+4.  Web Design Complete Reference by Thomas A. Powell
+5.  Creating Web Pages with HTML Simplified
+Sherry Willard Kinkoph
+6.  Web Design in a Nutshell (O’RELLY)
+Jennifer Niederst
+Course Code :  540208
+Marks : 40
+Credits : 3
+Class Hours : --
+Course Title :
+E-Commerce and Web Engineering Lab
+Introduction:
+Introduction to CPanel, Introduction to WHM, SSL, DNS: Primary DNS server and Secondary
+DNS server, Domain registration and Hosting.
+HTML:
+1.   HTML editor, HTML Layouts,
+2.   Designing a simple HTML Document to show an article (using html, body head/title, meta
+content tags, different HTML tags to format Body contents).
+3.   Text alignment in table, introduction to form elements
+(textbox, checkbox, radio, submit,
+password, color, date, date time-local, email, month, number, range, search, tel, time, url, week,
+etc.), input restrictions and designing simple feedback/contact forms.
+CSS and CSS3:
+1.   CSS website layout and responsive layout.
+2.   Using CSS to apply formatting text, forms, tables and link styles.
+Java Scripts:
+3.   Use Java Scripts to create web pages containing custom welcome message (Date-time).
+4.   Use different control statements in Java Scripts to execute simple mathematical expressions (if-
+else, Switch-case, for, while, do-while).
+5.   Java Scripts form validation.
+PHP and MySQL:
+6.   Installing Apache (XAMPP), PHP 4/5 and integrating into windows platform, creating PHP
+documents with simple tags, installing My-SQL and connection between PHP and My-SQL.
+7.   Inserting data into My-SQL database using PHP forms.
+8.   PHP form validation.
+Project: Design and develop a Complete Dynamic website with HTML, PHP and My-SQL
+having forms and also a flexible navigation menu which has links to all available section on the
+site.
+Page 7 of 18
+
+
+
+
+Eighth Semester
+Course Code :  540219
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Network and Information Security
+Fundamentals   on   information   system   security;   Remote   access   technologies   and
+vulnerabilities; accessibility; security for communication protocols; security for operating
+systems and mobile programs; security for electronic commerce, passwords and offline attacks;
+AAA, cryptography; network security applications: authentication, e-mail, IP and web; system
+security: intruders, malicious software and firewalls; PKI, smart cards, secure multipurpose
+internet mail extensions; security models; wireless security, sandboxing, router security strategies;
+security standards: data encryption standard (DES), RSA, digital signature algorithm (DSA),
+SHA, secure sockets layer(SSL), CBC, IPSec, AES and SET; denial of service (DOS) and
+distributed DOS attacks; steganography; implementing VPN; Security policy and management;
+network security assessment.
+Reference Books:
+1.  William Stallings, Network Security Essentials Applications and Standards, published by
+Prentice Hall, 5th Edition.
+2.  Eric Cole, Network Security Bible, published by Wiley.
+Course Code :  540220
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Network and Information Security Lab
+(As per theory course)
+Course Code :  540221
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Information System Management
+Information systems management: importance of information systems (IS) management, key
+trends  that  impacts  IS  Management,  changes  in  organizational  environment,  changes  in
+technology environments, IS organizational models, IS management's leadership role, New Roles
+of IT, Cox Model for IT management, Roger Woolfe’s Federal Model for outsourcing, CIO
+roles in leading, governing, investing and managing, strategic uses of IT in B2E, B2C, B2B, G2P,
+IS planning, IS planning paradox, differences between strategic, tactical and operational planning,
+today’s sense and response strategy, different planning techniques including stages of growth,
+critical success factors, competitive forces model, value chain analysis, internet value matrix,
+linkage analysis planning and scenario planning;
+Managing essential technologies: attributes of distributed systems, different types of distributed
+systems including host-based hierarchy, decentralized standalone systems, peer-to-peer system,
+hybrid enterprise wide systems, client-server systems, internet based computing and web
+services,   Four   levels   of   IT   infrastructure,   managing   telecommunications,   changes   of
+infrastructure in telecommunications, transformation of telecommunication industries, wireless
+technology, managing information resources, managing data, giving shape to corporate data,
+enterprise  resource planning,  managing information  resources, types of information,  data
+warehouses, document management, content management, managing operations, outsourcing IS
+functions, information security, business continuity planning;
+Managing system development: foundation of system development, structured development,
+fourth generation language, software prototyping, computer-aided software engineering, object
+oriented  development,  ERP  systems  integration,  middleware  inter-organizational  system
+Page 8 of 18
+
+
+
+
+development, project management, key issues of IS system management, designing motivational
+works, rethinking maintenance works, improving legacy systems, measuring benefits of IS system
+as investment;
+Systems for supporting knowledge work: supporting decision-making, decision support systems,
+data  mining,  executive  information  systems,  expert  systems,  real  customer  relationship
+management,  real-time  enterprise  management,  managing  different  types  collaboration,
+groupware, virtual workforce, virtual organizations, knowledge management, intellectual capital
+issues, computer ethics and legal jurisdiction, information privacy, online contracting;
+Acquisition of hardware, software, networks, and services: request for proposal, acquisition
+methods (buy, rent, or lease) of software acquisition and analysis of alternatives among in-house
+development, outsourcing, purchasing and renting;
+People and technology: new work environment, organizing principles including self-organizing
+rather than designed, processes rather than functions, communities rather than groups, virtual
+rather than physical, learning organization, Internet mindset, value of role of networks, rules of
+networks, understanding users, executives understanding of IT, Technology camel.
+Reference Books:
+1.  Information Systems Management in Practice, 8th Edition, B McNurlin, R Sprague and T Bui.
+Course Code :  540222
+Marks : 200
+Credits : 6
+Class Hours :--
+Course Title :
+Project/Industry Attachment
+Course Code :  540223
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Simulation and Modeling
+Systems- System environment and System components; System models and Simulation -
+types  of  System  model  and  simulation
+-  Discrete  and  Continues,  Static  and  Dynamic,
+Deterministic  and  Stochastic;  Discrete  Event  driven  simulation
+-  Components  and
+Organization, Event Scheduling/ Time Advance approach and Process Interaction approach,
+Event lists and List processing. Basics of Parallel and Distributed Simulation; Simulation
+Languages and Packages - Process approach to simulation, application oriented and
+general purpose simulation language and software: GPSS, SSF API for JAVA and C++, Arena,
+Extend, SIMUL8 etc. Probability and Statistical concepts in simulation - Random variable
+and its probability distributions, Stochastic process
+- e.g. Poisson process, Non stationary
+Poisson process, Compound Poisson process and their properties. Basics of Estimation,
+Hypothesis tests: Confidence Intervals and t-distribution. Queuing Models - Queuing Systems,
+Queuing behavior (e.g. balk, renege and jockey) and Queuing disciplines, Arrival process, Inter-
+arrival time distributions and Service time distributions. Long run measures of performance,
+Little’s formula, Analysis of different Single-server and Multi-Server queuing systems, Queuing
+networks  and  their  analysis,  Jackson’s  theorem;  Inverse  transformation  technique  for
+generating random variables, other techniques: Acceptance-Rejection, Special properties,
+Convolution  etc.  Random  Number  generation:  Linear  Congruent  method,  composite
+generators, Random number streams; Testing for random numbers - frequency test and test for
+autocorrelation; Input modeling: identifying input model with data - Histograms, Q-Q plots,
+selecting the family of distribution, parameter estimation and Goodness-of-fit tests; selecting
+input model without data, multivariate and time-series input models, Models of arrival processes.
+Verification and Validation of simulation models
+- face validity, validation of model
+assumptions, input-out transformation and input output validation using historical input data.
+Output data analysis - types of simulation with respect to output analysis, stochastic nature of
+output data, measure of performance and their estimators, output analysis for terminating the
+Page 9 of 18
+
+
+
+
+simulation and for steady state simulations. Techniques for comparison of alternative system
+design through simulation. Simulation and queuing models of computer systems: CPU,
+memory simulation; Traffic modeling and simulation of computer networks and network
+protocols, using queuing network analysis.
+Reference Books:
+1.  System Simulation by Geoffery Grodon, Prentice Hall
+2.  Discrete-event System Simulation by Banks J and Carson JS, Prentice Hall.
+3.  Simulation Modeling with Pascal, Prentice Hall.
+4.  System Simulation with Digital Computer, Narsing Deo.
+Course Code :  :  540224
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Simulation and Modeling Lab
+(As per theory course)
+Course Code :  540225
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Parallel and Distributed Systems
+Parallel Processing: Parallel Computer Models: The state of computing, Multiprocessors and
+Multicomputers, Multivector and SIMD Computers, PRAM and VLSI Models; Program and
+Network Properties: Conditions of Parallelism, Program Partitioning and Scheduling, Program
+Flow  Mechanisms,  System  Interconnect  Architecture;  Processors  and  Memory  Hierarchy:
+Advanced  Processor  Technology,  Superscalar  and  Vector  Processors,  Memory  Hierarchy
+Technology, Virtual Memory Technology.
+Distributed Systems :Fundamentals: Definitions of Distributed Computing Systems, Evolution
+of Distributed Computing System, Distributed Computing System  Models, Why are Distributed
+Computing Systems Gaining Popularity, Definition of Distributed Operating System, Issues in
+Designing   a   Distributed   Operating   System;   Synchronization:   Introduction,   Clock
+Synchronization , Event Ordering, Mutual Exclusion, Deadlock, Election Algorithms; Remote
+Procedure Calls: Introduction, The RPC Model, Transparency of RPC, Implementing RPC
+Mechanism; Distributed File System: Introduction, Features of  Distributed File System, File
+Services  Interface,  Directory  Server  Interface,  Semantics  of  File  Sharing,  File  Systems
+Implementation, Caching, Stateful File Server, Stateless File server,  NFS Architecture; Fault
+Tolerance: Component Faults, System Failures, Use of Redundancy, Fault Tolerance Using
+Active Replication, Fault Tolerance Using Primary Backup;
+Reference Books:
+1.  Advanced Computer Architecture- Kai Hwang
+2.  Distributed Operating Systems, Concepts and Design- P.K. Sinha
+3.  Distributed Operating System-  Andrew S. Tanenbaum
+Course Code :  :  540226
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Parallel and Distributed Systems Lab
+(As per theory course)
+Page 10 of 18
+
+
+
+
+Course Code :  540227
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Digital Signal Processing
+Introduction to Digital Signal Processing (DSP): Introduction; Digital Signal Processing;
+Sampling and Analog-to-Digital Conversion; Discrete Time Signals; Ambiguity in Digital signals;
+Discrete Time Systems; Application areas for DSP; Keys of  DSP operations: Convolution,
+Correlation,   Digital   Filtering,   Discrete   Transformation,   Modulation;   System   Design:
+Methodology  & Implementation Methodology.
+Discrete Fourier transform: Fourier series, one dimensional Fourier transforms, discrete
+Fourier Transform (DFT) and its properties, Fast Fourier Transform (FFT) and its algorithm,
+Inverse discrete Fourier transformation.
+The Z-Transform :Introduction to z-Transform; General Results of  z-transform; Inverse z-
+Transform:  Partial  Fraction  Expansion,  Power  Series  Expansion,  Contour  Integration;
+Comparison of  inverse z-transform method; Properties of  z-transform; Complex Convolution
+Theorem and Parseval's Relation.
+Implementation of  Discrete-Time Systems: Introduction; Block Diagram and Signal Flow
+Graph Representation of  Digital Networks; Matrix Representation of  Digital Networks; Basic
+Structures of  IIR Systems: Direct Form, Cascade forms, Parallel Form; Transposed Forms; Basic
+Structures of  FIR Systems; Finite Precision Effects.
+Design of Digital Filters: Introduction to Digital Filters; Types of Digital Filters: FIR and IIR;
+Choosing between FIR and IIR Filters: Digital Filter Design Steps; Design of FIR Filters: Design
+of FIR Filters by Windowing, Design of Optimum Equiripple Linear-Phase FIR Filters, Design
+of IIR Filters: Classical Continuous-Time Low-Pass Filter Approximations, Conversion of
+Transfer Functions from Continuous to Discrete Time, Frequency Transformations of Low pass
+Filters, Adaptive digital filters: concepts of adaptive filtering, basic wiener filter theory, the basic
+LMS adaptive algorithm, recursive least square algorithm.
+Reference Books:
+1.  Emmanuel C. Ifeachor, Barrie W. Jervis, Digital Signal Processing.
+2.  John G. Proakis, Dimitris G. Manolakis, Digital Signal Processing - Principles, Algorithms
+and Applications.
+3.  Alan V. Oppenheim, Ronald W. Schafer, John R. Buck, Discrete-Time Signal Processing.
+Course Code :  :  540228
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Digital Signal Processing Lab
+(As per theory course)
+Course Code :  540229
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Digital Image Processing
+Introduction to image processing: Representation of image, A basic image processing system,
+Relationship to human visual system, Example of fields that use digital image processing,
+Digital  Image  Fundamentals:  Image  formation  in  the  eye,  Light  and  electromagnetic
+spectrum, Image sensing and acquisition, Image sampling, Image quantization, Some basic
+relationships between pixels Neighbors of a pixel, Adjacency, connectivity, region, Boundaries,
+Distance measures
+Page 11 of 18
+
+
+
+
+Image enhancement: Some basic gray level transformations, Histogram processing, Histogram
+equalization,   Histogram   matching,   Image   negatives,   log   transformation,   Power   law
+transformation, Basics of spatial filtering, Smoothing spatial filters, Homomorphic filtering,
+Correspondence between   the spatial and frequency domain filtering.
+Image Restoration: A model of the image degradation/ Restoration process, Noise models,
+Restoration in the presence of noise only spatial filtering.
+Color Image processing: Color fundamentals, Color models, the RGB color model The CMY,
+CMYK   color   Model,   HIS   color   Model,   Basics   of   full-color   transformation,   Color
+transformations, formulation.
+Image  Compression:  Image  compression  fundamentals,  Coding  redundancy,  Inter  pixel
+redundancy
+Psychovisual redundancy, Image compression models, The source encoder and decoder, The
+channel encoder and decoder.
+Image Segmentation: Edge detection, line detection, point detection, Boundary Detection,
+Thresholding, Region based segmentation.
+Reference Books:
+1.  Rafael C. Gonzalez, Richard E. Woods, Digital Image Processing.
+2.  Anil K. Jain, Fundamentals of Digital Image Processing.
+3.  M A Sid-Ahmed, Image Processing Theory, Algorithms and Architectures.
+Course Code :  540230
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Digital Image Processing Lab
+(As per theory course)
+Course Code :  540231
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Multimedia
+Introduction  to  Multimedia:  Design  Concepts,  Preproduction  and  Presentation  Graphics:
+Presentation Graphics Design, Preproduction, Typefaces and Graphics. Desktop Publishing,
+Production Planning and Design, User Interface Design, Hypermedia Authoring Concepts,
+Multimedia Sound,  File Compression, Video Production, Digital Video, Animation,  HTML &
+Web-Based Multimedia, Designing Web-based Multimedia, Producing Multimedia, Content &
+Legal  Considerations  for  Multimedia,  Content  &  Legal  Considerations  for  Multimedia,
+Multimedia Distribution, Networking Multimedia.
+Reference Books:
+1.  Olu Lafe,"Cellular Automata Transforms: Theory and Applications in Multimedia Compression,
+Encryption, and Modeling", Kluwer Academic Publishers, 1st edition, 2000.
+2.  Barry G. Haskell, Atul Puri, Arun N. Netravali,"Digital Video : An introduction to
+MPEG-2 (Digital Multimedia Standards Series)", Springer, 1st edition, 1996.
+Page 12 of 18
+
+
+
+
+Course Code :  540232
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Multimedia Lab
+(As per theory course)
+Course Code : 540233
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Pattern Recognition
+Introduction to Pattern Recognition: Classification Statistical Methods, Structural Methods and
+Hybrid method. Introduction to passen grammar and languages. Applications to character
+recognition medical imaging area. feature detection, classification, Review of  probability and some
+linear   algebra.   Bayesian   Decision   Making,   linear   discriminants,   separability,   multi-class
+discrimination; quadratic classifiers, Fisher discriminant, sufficient statistics, coping with missing
+or noisy features, Bayesian estimation; non-parametric estimation; Non-parametric classification,
+density estimation, Parzen estimation, training methods, maximum likelihood, Bayesian parameter
+estimation, MAP. Linear discriminant functions.. Template-based recognition, eigenvector analysis,
+feature extraction, Eigen vector analysis. Clustering, unsupervised learning, vector quantization,
+K-means and E/M, neural nets. Sequence analysis, HMMs. k-nearest-neighbor classification,
+Mixture modeling, Optimization by Expectation, Maximization, Hidden Markov models, Viterbi
+algorithm, Baum-Welch algorithm, Linear dynamical systems, Kalman filtering and smoothing,
+Bayesian networks, independence diagrams, Decision trees, Multi-layer Perceptrons.
+Reference Books:
+1.  Richard O. Duda, Peter E. Hart, David G. Stork,"Pattern Classification", Wiley-
+Interscience, 2nd edition, 2000.
+Course Code :  540234
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Pattern Recognition Lab
+(As per theory course)
+Course Code : 540235
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Design and Analysis of VLSI Systems
+Introduction to MOS technology: POMS, NMOS and CMOS, transistors, CMOS Fabrication
+Design Approaches: Fabrication steps, steps stick diagrams, design rules and layout, contact
+cuts, double metal MOS process rules. MOS circuits, Delay Analysis: Inverter delay and its
+analysis, delay of  different sequential and combinational circuit. Sequential System: Super
+buffer, Dynamic MOS circuits, Scaling of  MOS circuits. Scaling factors and device parameters.
+Subsystem design and layout. Switch logic: pass transistors and transmission gates. Gate logic:
+The inverter, Two input nMOS, CMOS and BiCMOS gate design. Design of  parity generator and
+multiplexers. Registers, Counters and memory realizations, One transistor and three transistors
+dynamic RAM cell design. Hierarchical view of  VLSI System Design: Behavioral description
+High level Synthesis Scheduling, allocation and data path synthesis. Logic synthesis: multilevel
+minimization,   PLA   reduction   regular   structure   circuits,  Synthesis  of    FSM-ASM  chart
+representation and realization, Layout synthesis, Placement and routing, Testing of  VLSI, Testing
+of  stuck-at fault, Testing of  PLAs RAM. Introduction to Reversible Logic: Theory of
+reversibility, Reversible gates, reversible circuits, reversible logic synthesis. FPGA: Introduction to
+Page 13 of 18
+
+
+
+
+FPGA and FPGA programming using VHDL.
+Reference Books:
+1.  Basic VLSI Design System and Circuits, Douglas A. Pucknell, KAMRAN
+Eshraghiam, Prentice Hall International Inc. Second Edition.
+2.  Modern VLSI Design by Wayne Wolf.
+Course Code : 540236
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Design and Testing of VLSI Systems Lab
+(As per theory course)
+Course Code :  540237
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Microcontroller and Embedded System
+Introduction to the Embedded Systems, Embedded System Design Specifications, Embedded
+System Hardware and Hardware/Software Co-design, 8051/8052 family of Microcontrollers, C
+programming for Microcontrollers,  I/O ports Programming, Timer/Counter hardware and Its
+Device Driver, Serial communication interface and Its Device Driver, Interrupts Programming,
+Embedded  Software  Development  Cycle  and  the  Integrated  Development  Environment,
+Debugging Techniques for Embedded Software and the Role of Cross Simulators, Real World
+Interfacing Case Studies: LCD, Sensors, stepper motor, keyboard, PC, Design of Device Driver
+for Serial Devices,  Concept of Finite State Machines and Examples -  Stop Watch, Stepper
+Motor Control through PC, Remote Control of Systems using IR Remotes Used in Commercial
+TV Remote Control Modules, Simple Multi Drop Communication Networks With Examples,
+Simple Wireless Communication With Examples.
+Reference Books:
+1. Introduction to Embedded Systems Using Microcontrollers and the MSP430 : Jiménez,
+Manuel, Palomera, Rogelio, Couvertier, Isidoro
+2.  The 8051 Microcontrollers and Embedded Systems : Muhammed Ali Mazidi
+3.  The 8051 Microcontrollers Architecture, Programming & Applications : Kenneth J. Ayala
+Course Code :  540238
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Micro-controller and Embedded System Lab
+(As per theory course)
+Course Code : 540239
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Cyber Law and Computer Forensic
+Overview of Cybercrime: Samples of cybercrime, Unique Characteristics of Cybercrime, Cyber-
+attacks and attackers. Cybercrime Law. Computer Intrusions and Attacks: computer trespass,
+unauthorized access, relationship between acceptable use policies ("AUP"), terms of service
+("TOS"), and criminal law. Hacking: Hacking for Grades, Hacking for harrassment ("swatting"),
+URL hacking, WiFi Mooching. Computer Viruses, Time Bombs, Trojans, Malicious Code,
+malware, Spam, Botnets, Logic Bomb, Rootkits. Online Fraud and Identity Theft: Intellectual
+Page 14 of 18
+
+
+
+
+Property Theft; Virtual  Crime. Online Vice: Gambling;  Pornography; Child  Exploitation.
+International   Aspects   and   Jurisdiction,   Infrastructure   and   Information   Security;   Risk
+Management, Investigating Cybercrime: Interception: Search and Seizure, and Surveillance.
+Information Warfare: Cyberterrorism and Hacktivism. Terrorism, Radicalization, and the War of
+Ideas. Trade Secret Theft and Economic Espionage. National Security. Computer Forensic:
+overview of the forensic relevance of encryption, the examination of digital evidence for clues,
+and the most effective way to present evidence and conclusions in a court of law.
+Reference Books:
+1.  Computer Forensics and Cyber Crime: An Introduction, 3rd Edition, Marjie T. Britz
+2.  Digital Evidence and Computer Crime, 3rd Edition, Eoghan Casey
+Course Code :  540240
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Cyber Law and Computer Forensics Lab
+(As per theory course)
+Course Code : 540241
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Natural Language Processing
+Words, Parts of Speech, Syntax, Grammars, Semantics, Language Modeling in General and the
+Noisy  Channel  Model.,  Linguistics:  Phonology  and  Morphology
+Word  Classes  and
+Lexicography. Mutual Information.  The t-score. The Chi-square test.  Hidden Markov Models
+(HMMs). The Trellis & the Viterbi Algorithms. HMM Tagging (Supervised, Unsupervised).
+Evaluation methodology
+(examples from tagging). Precision,  Recall,  Accuracy.    Statistical
+Transformation Rule-Based Tagging. Maximum Entropy Tagging. Feature Based Tagging.
+Results  on  Tagging  Various  Natural  Languages.  Non-statistical  Parsing  Algorithms
+(An
+Overview). Simple top-down parser with backtracking. Probabilistic Parsing. Introduction.
+Statistical Machine Translation (MT).
+Reference Books:
+1.  Daniel Jurafsky, James H. Martin,"Speech and Language Processing: An Introduction to Natural
+Language Processing, Computational Linguistics and Speech Recognition", Prentice Hall, 1st
+Edition, 2000.
+2.  Christopher D. Manning, Hinrich Schtze,"Foundations of  Statistical Natural Language
+Processing", The MIT Press; 1st edition, 1999.
+Course Code :  540242
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Natural Language Processing Lab
+(As per theory course)
+Page 15 of 18
+
+
+
+
+Course Code :  540243
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+System Analysis and Design
+Introduction to general systems theory, Players in the Systems Game, Information Systems
+Building Blocks. Information Systems Development, Project Management. Systems Analysis,
+Requirements  Discovery,  Deliverables,  Data  Modeling  and  Analysis,  Process  Modeling,
+Feasibility  Analysis  and  System  Proposal,  Systems  Design,  Applications  Architecture  and
+Modeling, Database Design, Output Design and Prototyping, Input Design and Prototyping,
+User Interface Design, Systems Construction and Implementation, Systems Operations and
+Support, Object-Oriented Analysis and Modeling, Object-Oriented Design and Modeling.
+Reference Books:
+1.  Modern Systems Analysis and Design, Jefrey A. Hoffer, Pearson Education Asia.
+2.  Systems Analysis and Design, Shin Yen Wu, West Publishing Company.
+Course Code :  540244
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+System Analysis and Design Lab
+(As per theory course)
+Course Code :  540245
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Optical Fiber Communication
+History of optical communication, advantages and limitations of fiber communication. Theory of
+light: reflection, refraction, critical incident angle, total internal reflection. Electromagnetic
+waves, Maxwell’s equation, damping waves, wavefront, propagation constant, phase velocity,
+group velocity. Basics of optical fiber: acceptance angle, numerical aperture, fiber structure,
+comparison with copper, meridional rays, skew rays, v number of a fiber, modes in a planar
+guide, Evanescent field, single mode fiber, multimode fibers. Fabrication of optical fibers: Vapor
+phase  deposition  techniques:  OVD,  MCVD,  PCVD,  VAD,  coating.  Optical  sources:
+requirements , energy band diagram,  LED: (principle of action, internal quantum efficiency,
+homostructure  and  heterostructure  of  LEDs),  Laser:
+(principle  of  action,  properties  of
+stimulated radiation, positive feedback, population inversion, lasing effect, properties of laser
+beam, types of lasers: QW, Fabry-Perot, DFB, VCSEL), Superluminescent diodes (SLD), blocks
+of optical transmitter. Photo detectors: principle of action, responsivity, quantum efficiency,
+modes  of  operation,  advantages  of  reverse  biasing,  sensitivity,  efficiency  of  light-current
+conversion, p-i-n photodiodes: (features, types, advantages), avalanche photodiode: working
+principle, noise sources in photodiode, blocks of receiver. Losses in fiber: Material absorption
+loss, Linear scattering loss, Nonlinear scattering loss, Fiber bend loss, Coupling loss, Dispersion,
+Polarization loss. Fiber optic cables, optical connectors:
+(basic structure, preparation, types,
+characteristics), fiber splices: (splicing procedure, mechanical splice, fusion splice, PAS, PAT).
+Optical  network:  OTDM,  WDM  and  DWDM:  (lasers,  transmitter  requirements,  receiver
+requirements, add/drop problem, repeaters), Tunable lasers:
+(characteristics, external cavity,
+DBR, integrated cavity lasers). Optical amplifiers: advantages, types, SOA:
+(types: FPA and
+TWA, principle of operation, advantages, and disadvantages). EDFA: (principle of operation,
+characteristics,  structure, advantages, noise, DBFA,  EBFA). Optical switches, Wavelength
+converters, Couplers/splitters, WDM mux and demux, filters, Isolators, Circulators, Attenuators.
+Optical layer: sections, sublayers, services. Protection and restoration techniques.
+Page 16 of 18
+
+
+
+
+Reference Books:
+1.  Fiber-Optic Communications Systems, Third Edition. Govind P. Agrawal, John Wiley &
+Sons, Inc.
+2.  Optical Fiber Communications, Fourth Edition, Gerd Keiser, Tata McGraw Hill.
+Course Code : 540246
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Optical Fiber Communication Lab
+(As per theory course)
+Course Code :  540247
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Human Computer Interaction
+Foundations   of   Human   Computer   Interaction:   Humans   and   Machines,   Interaction,
+Collaboration. Models in HCI: Cognitive Models, Socio-organizational Issues and Stakeholder
+Requirements. Importance of cognitive abilities. Design Process: Interaction Design Basics, HCI
+in Software Process, Design Rules, Universal Design, User Center Design. Design. Prototyping,
+Task Analysis, GOMS and other key HCI methods. Lifecycle Models. User Interfaces: Interfaces
+Basics, Interaction Techniques, System Control of Interfaces, Human Factors and Strategies in
+Designing Interfaces. Evaluation and User Support: Evaluation, Evaluation of Interfaces, User
+Support. Tasks Models and Dialogs: Analysing  the  Task,  Dialog Notations and Design.
+Groupware, Ubiquitous Computing, Virtual and Augmented Reality. Social-Cultural Contexts of
+HCI.
+Reference Books:
+1.  Andy Downton,"Engineering the Human-Computer Interface(Essex Series in Telecommunications
+and Information Systems)", McGraw Hill, 1993.
+Course Code :  540248
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Human Computer Interaction Lab
+(As per theory course)
+Course Code : 540249
+Marks : 80
+Credits : 3
+Class Hours : 45
+Course Title :
+Graph Theory
+Fundamental concepts, varieties of graphs, path, cycles and components, degrees and distances,
+clique. Trees: Properties, spanning trees, forests, centroids, generation of trees and cycles, ent
+cycles and co-cycles. Connectivity: Vertex and edge connectivity, blocks, eccentricity, Menge’s
+Theorem. Traversability: Eulerian graphs, kuratowski’s theorem, embedding graphs on surfaces,
+genus,  thickness  and  crossing  number.  Graph  Coloring:  Vertex  coloring,  edge  coloring,
+chromatic number, five color theorem, four color conjecture, critical graph. Homomorphism
+Digraph: Different connectedness, oriented graphs-tournaments, network flows and related
+algorithms. Groups, polynomials and graph enumeration, matching and factorization, perfect
+graphs,  Ramsey  number  and  Ramsey  theorem,  forbidden  graph  theory,  miscellaneous
+applications.
+Page 17 of 18
+
+
+
+
+Reference Books:
+1.  V.K. Balakrishnan,"Schaum's Outline of  Graphs Theory: Including Hundreds of  Solved Problems",
+Schaum's.
+2.  Douglas B. West,"Introduction to Graph Theory", Prentice Hall, 2nd edition, 2000.
+Course Code :  540250
+Marks : 40
+Credits : 1.5
+Class Hours : --
+Course Title :
+Graph Theory Lab
+(As per theory course)

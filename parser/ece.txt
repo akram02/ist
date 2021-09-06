@@ -1,0 +1,2194 @@
+/usr/bin/python3.8 /home/a/Desktop/scraping/ece.py
+
+
+
+
+
+
+
+
+
+GENERAL INFORMATION, RULES AND REGULATIONS FOR
+UNDERGRADUATE PROGRAMME IN
+ELECTRONICS AND COMMUNICATION ENGINEERING
+Session: 2019-2020
+1. Introduction:
+National University pursues a policy of continuous updating and improving the four-year course
+curriculum having
+8 (eight) semesters and carrying
+144 credits for bachelor`s degree in
+Electronics and Communication Engineering (B. Sc). This is to take into account the modern
+developments in the field of Electronics and Communication Engineering, where ideas and
+concepts move too fast. Detailed syllabuses for all the courses have been framed keeping in view
+the objective of National University in this regard. Electronics and Communication Engineering
+discipline is to be considered in a special way, as it has got a professional backing and a large
+employer group needs the services of its graduates.
+2.Admission:
+Students will be admitted in the first semester, first year of Electronics and Communication
+Engineering (ECE) in affiliated colleges/Institutes as per rules of the National University.
+Students passing HSC in the current year or one year ago with minimum GPA 2.0 in SSC and
+HSC (Science/Diploma in Engineering/Equivalent) examination and having at least “C” grade in
+Physics and Mathematics can apply. Students passing General Certificate Examination (GCE) in
+at least 5 subjects in “O” level and 2 in “A” level and having at least “C” grade in physics and
+Mathematics can apply. A one year break of study is acceptable.
+3.  Duration of Each Semester:
+The duration of each will be 19 weeks whose breakdown is as follows:
+Classes
+15 weeks
+Recess before semester final examination
+2 weeks
+Semester final examination (approximately)
+2 weeks
+Total
+19 weeks
+4.  Course Designation System:
+Each course is designated by a three-letter code identifying the department offering it, followed
+by a three-digit number having the following interpretation:
+   The first digit indicates years.
+   The second and third digits indicate courses.
+5.  Assignment of Credits:
+The assignment of credits to a theoretical course follows a different rule from that of a practical
+course.
+   Theoretical Courses: One lecture of 1-hour duration per week per semester is equivalent
+to 1.0 credit.
+
+
+
+
+   Practical Courses: One lab session of
+3-hour duration per week per semester is
+equivalent to 1.5 credits. 1 credit is equivalent to two hours of lab work per semester per
+week.
+   Project: The project work must be initiated in 7th Semester.
+6. Types of courses:
+In ECE, there are two types of courses: (i)Core Courses, which form the nucleus of the B. Sc.
+degree program and (ii) General Education (GED) Courses, the study of which will be useful for
+the students to grow as a good citizen with social values and norms. A student has to complete
+the entire designated course for the award of degree.
+7.  The Grading System:
+The total performance of a student in a given course is based on a scheme of continuous
+assessment. For theory courses, continuous assessment is made through a set of quizzes, class
+evaluation, class participation, homework assignment and a semester final examination. The
+assessment in laboratory/practical courses is made through observation of the student at work
+during the class, viva-voce during laboratory hours and quizzes.
+Each course has a certain number of credits, which describes its corresponding weight. A letter
+grade with  a specified number of  grade points  is  awarded to  each course. A  student’s
+performance is measured both by the number of credits completed satisfactorily and by the
+weighted average of the grade points earned. A minimum grade point average (GPA) is essential
+for satisfactory progress. A minimum number of credits have to be earned in order to qualify for
+the degree requirements. Letter grades and corresponding grade points (as approved by the
+University Grants Communication of Bangladesh) will be awarded in accordance with the
+provision shown below:
+Letter Grade
+Grade Point
+Numerical Grade
+A+
+4.00
+80% and above
+A
+3.75
+75% to less than 80%
+A-
+3.50
+70% to less than 75%
+B+
+3.25
+65% to less than 70%
+B
+3.00
+60% to less than 65%
+B-
+2.75
+55% to less than 60%
+C+
+2.50
+50% to less than 55%
+C
+2.25
+45% to less than 50%
+D
+2.00
+40% to less than 45%
+F*
+0.00
+less than 40%
+*Subject in which the student gets F grades shall not be counted towards credit hours
+requirements and for the calculation of Grade Point Average (GPA) or Cumulative GPA
+(CGPA).
+8.  Examination Rules:
+There will be at least two in-course examinations to be conducted by the college/Institute for
+each course and marks along with the grades be submitted to the controller of examinations of
+the National University before the final examination. Semester final examinations will be
+conducted by the National University on a six months basis for each semester. Semester final
+
+
+
+
+examination of each theoretical course will be held for 3 hours and there will be 7 questions in
+which 5 questions must be answered. Each question carrying 16 marks should contain two or
+more  parts
+(e.g.
+1(a),
+1(b),
+1(c),  etc.).  Two  examiners  will  evaluate  the  semester  final
+examination scripts separately. If the variation of marks of the two examiners is 20% or more, a
+third examiner will be appointed to re-examine the scripts. The marks will be finalized by
+averaging of minimum variation two examiners.
+9.  Distribution of Marks for Theoretical Courses:
+Twenty percent (20%) of marks of all theoretical courses shall be allotted to two in-course
+examinations each for 7.5%. The answer scripts of in-course examinations may be sent to the
+Controller of Examination of the National University if required.The rest of the marks (80%) for
+each theoretical course will be allotted to the semester final examination, which will be
+conducted centrally by the National University. There are internal and external examiners for
+each course in the Semester final examination.
+Distribution of marks for a given theoretical course is as follows:
+In the case of in-course assessment 5% marks out of the allocated 20% will be awarded on the
+basis of attendance as follows:
+90% and above
+5%
+85% to less than 90%
+4%
+80% to less than 85%
+3%
+75% to less than 80%
+2%
+60% to less than 75%
+1%
+Less than 60%
+0%
+In-course examination
+7.5%+7.5%+5%
+=20%
+Semester final examination (3 hour duration)
+=80%
+Total Marks
+=100%
+10.  Distribution of Marks for Practical Courses:
+The Practical semester final examinations have to be conducted by internal and external
+examiners. The practical final examination that is conducted centrally by the National University
+will be held on 60 marks for each course. Marks distribution of each practical course is stated
+below:
+In-course examinations (Practical)
+=40%
+Semester final examination (3 hours)
+=60%
+Total
+=100%
+Distribution of 60% practical marks:
+Electronics/Hardware/
+Percentage of
+Programming/ Software/
+Percentage of
+Communication/
+total
+Equivalent Other Labs
+total
+Equivalent Other Labs
+
+
+
+
+Design
+15%
+Algorithm
+15%
+Circuit Implementation
+20%
+Coding
+20%
+Result
+15%
+Result
+15%
+Experiment Related Viva
+10%
+Experiment Related Viva
+10%
+11.  Evaluation of Project Work:
+The project work will convey 200 marks. The evaluation of the project work for grading will be
+as follows:
+a.  Project Defense
+50% Marks
+b.  Project Report
+50% Marks
+A panel of examiners appointed by the National University will conduct the project defense and
+also examine the project report. The project evaluation can be conducted by one or more centers,
+selected by the National University. At least two members for the panel of examiners must be
+present for project defense and evaluation.
+12.  Calculation of GPA and CGPA:
+Grade point average (GPA) is the weighted average of the points obtained in all the courses
+passed/completed by a student. For example, if a student passes/completes courses in a semester
+having  credits  of  C1,  C2,…………Cn  and  his/her  grade  points  in  these  courses  are  G1,
+G2,………..Gn respectively, then
+n
+∑C
+i
+* G
+i
+i=1
+GPA =
+n
+∑C
+i
+i=1
+The cumulative Grade point average (CGPA) is the weighted average of GPA obtained in all the
+semesters passed/completed by a student. For example, if a student passes/completes n semester
+having total credits of TC1, TC2, …………TCn and his/her GPA in these semester are GPA1,
+GPA2, ………..GPAn respectively, then
+n
+∑
+TC 1 * GPA i
+i=1
+CGPA =
+n
+∑
+TC i
+i-1
+
+
+
+
+13.  Numerical Example of Computing GPA and CGPA
+13.1. Example for Computing GPA
+Suppose a student has completed eight courses in a term and obtained the following grades:
+Course
+Credits, Ci
+Grade
+Grade Points, Gi
+Ci*Gi
+ECE-101
+2.00
+A+
+4.00
+8.000
+ECE-102
+3.00
+A+
+4.00
+12.000
+ECE-103
+1.50
+A
+3.75
+5.625
+ECE-104
+3.00
+B
+3.00
+9.000
+ECE-105
+1.50
+A-
+3.50
+5.250
+ECE-106
+3.00
+A+
+4.00
+12.000
+ECE-107
+4.00
+A
+3.75
+15.000
+ECE-108
+1.50
+A-
+3.50
+5.250
+Total
+19.50
+72.125
+GPA = 72.125/19.50 = 3.7
+13.2. Example for Computing CGPA
+Suppose a student has completed four semesters and obtained the following GPA:
+Semester
+Credit hours Earned, TC1
+GPA Earned, GPAi
+GPAi * TC1
+I
+19.50
+3.70
+72.150
+II
+20.50
+3.93
+80.565
+III
+21.25
+3.96
+84.150
+IV
+20.25
+4.00
+81.000
+Total
+81.50
+317.865
+CGPA = 317.865/81.50 = 3.90
+14.  Promotion to the Next Year:
+A student has to take the required courses for a particular year, appear at the annual examination
+and score a minimum specified GPA/CGPA to be promoted to the next year.
+Promotion to the next year will be given if a student scores minimum GPA as follows:
+1st year to 2nd year: GPA 2.00 (D)
+2nd year to 3rd year: CGPA 2.00 (D)
+3rd year to 4th year: CGPA 2.00 (D)
+
+
+
+
+15.  Minimum Earned Credit and CGPA Requirement for the degree:
+I. The minimum CGPA requirement for the Bachelor Degree in Electronics and Communication
+Engineering is 2.00 and having no F grade in any course (except viva-voce).
+II. A student must attend the viva-voce (4th Semester) and the grads earned must be shown in the
+Transcript. However, the grades earned for viva-voce will not be taken into account for CGPA
+calculation.
+16.  Time Limits for the Completion of Bachelor’s Degree:
+A student must complete his studies for a Bachelor’s Degree within maximum period of six
+academic years.
+17.  Improvement
+A student may be allowed to sit for the improvement examination in order to improve his/her
+grade point in a particular course provided  he/she has completed that course and appeared at the
+examination in that course and earned a grade “C” or bellow. However, the following constraints
+will be operative.
+I)
+A student is allowed to sit for improvement examination within one academic year.
+II)
+A student is allowed to retake 25% of the total courses of a particular year.
+III)
+A student need not attend classes for improving courses.
+IV)
+A student is allowed to improve only the score of final examination. The original
+scores of in-course examination, continuous assessment of laboratory courses and
+marks of oral examination will be retained.
+V)
+For improving final results (after completing fourth year final examination) a student
+is allowed to sit for improvement examination within one academic year. S/He is
+allowed to retake 25% for the total courses of 4th year.
+VI)    It is not necessary to cancel the original results before appearing improvement
+examination. If the results are not improved, the original results will be retained.
+VII)   For improvement examinations, the fees will be twice the normal fees.
+VIII)   Retake of the courses will be mentioned in the transcripts issued.
+18.  Readmission:
+I)  A student who is not promoted to the next higher year may seek re-admission in the
+present year and may continue studies as a regular student.
+II) Marks of in-course assessment and laboratory performance assessment in the previous
+year may be retained by students seeking re-admission, if they do not get the opportunity
+to repeat the courses due to late admission.
+III) A student must complete his BSc degree program within six consecutive academic years.
+IV) A student will not be allowed re-admission twice in the same year.
+19.  Drop Out
+A student failing to earn yearly CGPA for promotion from one year to the next year after taking
+improvement/readmission in any year shall be dropped out of the program.
+
+
+
+
+20.  Dean’s Award
+As a recognition of excellent performance, the name of students obtaining an average CGPA of
+3.75 or above in an academic year without appearing any improvement examination may be
+published in the list of Dean’s Award of the Faculty.
+21.  Other General Regulation
+For any matter not carried in this guideline, rules for Graduation program of National University
+will be applicable.
+
+
+
+
+National University
+Syllabus for B. Sc in
+Electronics and Communication Engineering(ECE )
+Session: 2019-2020
+The B. Sc. in Electronics and communication Engineering (ECE) is designed to produce skilled
+graduates in the field to meet the growing demands of electronics and communication engineers
+in Bangladesh and abroad. The program consisting of 144 credits and normally extends for eight
+semesters, that is, four academic years.
+Each 3 credit theoretical course requires 3 class hours per week for 15 weeks that is, a total of 45
+hours in each semester. Each credit of laboratory work requires at least15 lab sessions (each of at
+least 2 hours duration). Each 3 credits theory course carrying 100 marks are allocated for in-
+course assessment of class work (class test, presentations, etc) and the remaining 80% marks are
+reserved for the final examination. The duration of the final examination for each 3 credit
+theoretical course is 3 hours.
+The duration of the final examination for each laboratory course will be at least 3 hours and the
+marks for each laboratory course (1.5 credits) will be 50, of which 40% marks are allocated for
+in-course assessment and the remaining marks are reserved for the Lab Final examination. Each
+viva-voce examination will be conducted for 50 marks by a committee appointed by the National
+University.
+The minimum CGPA requirement for the bachelor’s degree in Electronics and Communication
+Engineering is
+2.00 or above and having no F grade in any course. The grading system
+introduced by the University Grants Commission (UGC) of Bangladesh will be followed of
+evaluation of the performance of the students.
+(Please consult the General Rules for the
+undergraduate program for admission requirements, semester duration, grading system, project
+evaluation and other relevant information.)
+
+
+
+
+Semester-wise course distribution:
+1st Semester (Year 1):
+Course Code
+Course Title
+Credits
+510801
+English
+3.0
+510803
+Physics(Electricity, Magnetism and Optics)
+3.0
+510804
+Physics Lab
+1.5
+510805
+Differential and Integral Calculus
+3.0
+510807
+Electrical Circuits
+3.0
+510808
+Electrical Circuits Lab
+1.5
+510809
+Structured Programming Language
+3.0
+510810
+Structured Programming Language Lab
+1.5
+Semester Total Credits
+19.5
+2nd  Semester (Year 1):
+Course Code
+Course Title
+Credits
+510821
+Linear Algebra
+3.0
+510823
+History of the Emergence of Independent Bangladesh
+3.0
+510825
+Modern Physics, Heat and Thermodynamics
+3.0
+510827
+Electronic Circuits-I
+3.0
+510828
+Electronic Circuits-I Lab
+1.5
+510829
+Digital Electronics
+3.0
+510830
+Digital Electronics Lab
+1.5
+Semester Total Credits
+18
+3rd  Semester (2nd Year)
+Course Code
+Course Title
+Credits
+520801
+Differential Equations and Complex Variables
+3.0
+520803
+Electrical Circuits-II
+3.0
+520804
+Electrical Circuits-II Lab
+1.5
+520805
+Electronic Circuits-II
+3.0
+520806
+Electronic Circuits-II Lab
+1.5
+520807
+Instrumentation and Measurements
+3.0
+520809
+Statistics and Probability
+3.0
+Semester Total Credits
+18
+
+
+
+
+4th  Semester (Year 2):
+Course Code
+Course Title
+Credits
+520821
+Engineering Mathematics (Fourier, Laplace and Vector Analysis)
+3.0
+520823
+Fundamentals of Communications
+3.0
+520824
+Fundamentals of Communications Lab
+1.5
+520825
+Signals and Systems
+3.0
+520827
+Computer Organization and Architecture
+3.0
+520828
+Engineering Design using AutoCAD
+1.5
+520829
+Numerical Analysis
+3.0
+Semester Total Credits
+18
+5th  Semester (Year 3):
+Course Code
+Course Title
+Credits
+530801
+Electromagnetic Fields and Waves
+3.0
+530803
+Digital Signal Processing
+3.0
+530805
+Microprocessors and Assembly Language
+3.0
+530806
+Microprocessors and Assembly Language Lab
+1.5
+530807
+Data Communications
+3.0
+530808
+Data Communications Lab
+1.5
+530809
+Electronic Materials
+3.0
+Semester Total Credits
+18
+6th  Semester (Year 3):
+Course Code
+Course Title
+Credits
+530821
+Optical Fiber Communication
+3.0
+530823
+Microwave Engineering
+3.0
+530825
+Power Electronics
+3.0
+530826
+Power Electronics Lab
+1.5
+530827
+Antenna and Propagation
+3.0
+530829
+Computer Peripherals and Interfacing
+3.0
+530830
+Computer Peripherals and Interfacing Lab
+1.5
+Semester Total Credits
+18
+
+
+
+
+7th  Semester (Year 4):
+Course Code
+Course Title
+Credits
+540801
+Multimedia Communication
+3.0
+540803
+Mobile and Wireless Communication Systems
+3.0
+540805
+Control Systems
+3.0
+540806
+Control Systems Lab
+1.5
+540807
+Computer Networks
+3.0
+540808
+Computer Networks Lab
+1.5
+540809
+Industrial Management and Professionalism
+3.0
+540810
+Project (to be started)
+1.5
+Semester Total Credits
+19.5
+8th  Semester (Year 4):
+Course Code
+Course Title
+Credits
+540821
+Computer Network Security
+3.0
+540823
+Information Systems Management
+3.0
+Optional Courses [Any two]
+540825
+Neural Networks and Deep Learning
+3.0
+540827
+Digital Image Processing
+3.0
+540829
+Information Theory and Coding
+3.0
+540831
+Biomedical Instrumentation
+3.0
+540833
+Radar and Navigation
+3.0
+540835
+Radio and Television Engineering
+3.0
+540837
+VLSI Technology
+3.0
+540839
+Bioinformatics
+3.0
+540840
+Project
+3.0
+Semester Total Credits
+15
+The total number of credits for the Bachelor’s program in Electronics and Communication
+Engineering is 144.
+
+
+
+
+Course Contents:
+For Electronics and Communication Engineering (ECE)
+1st Semester
+Year 1
+Course Code :
+510801
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+English
+1.   Reading  and  Comprehension:  Thematic  structure,  vocabulary,  cohesive  and  rhetorical
+devices, grammatical items, intention/attitude of the writer, précis (i) comprehension (ii)
+paragraph (iii) précis (iv) essay (v) amplification (vi) dialogue-writing.
+2.   Structures:
+The sentence:
+i)
+Normal group- a) determiners b) adverb c) adjective d) non-adjective e) headword f)
+prepositional phrase g) infinitive phrase h) participle phrase i) appositive
+ii)
+Verbal group- a) the tenses b) the modal auxiliaries c) phrasal verbs
+iii)
+Verb Modifiers- a) adverbials of time b) adverbials of place c) adverbials of manner
+d)adverbials of duration, Completing sentences, correction of sentences, transformation
+of sentences, framing of which questions.
+3.   Notions and Functions: i) emotion attitudes ii) moral attitudes iii) suasion iv) intellectual
+attitudes v) socializing.
+4.   Letters: Application, Request, Enquiries, Quotations, Tender to newspaper, Formal and
+informal, Advertisements, etc.
+5.   Translations: English to Bengali and Bengali to English.
+6.   Technical Writing: Projects, reports and thesis.
+Recommended Books:
+1.   Advanced Learners functional English by Chowdhury and Hossain.
+2.   Oxford English for Computing by Boeckner, Keith and Brown.
+3.   High School English Grammar and Composition by Warenand Martin.
+Course Code :
+510803
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Physics (Electricity, Magnetism and Optics)
+Electrostatics: Electronic charge, Conservation & quantization of charge, Coulomb’s law,
+Electric field and field strength, Lines of force, Point charge and dipole in an electric field,
+Electric flux & Gauss’s law, Applications of Gauss’s law, Electric potential and field strength,
+Potential due to a point charge, Group of point charges, Potential due to continuous charge
+distribution, Electric potential energy.
+Capacitance and Dielectrics: Capacitance, calculation of capacitance, Parallel plate capacitor
+with an without dielectric, Dielectric- an atomic view, Gauss’s law for capacitor, The three
+electric vectors, Energy storage in an electric field.
+
+
+
+
+Magnetism and Electromagnetism: The magnetic field, Definition of B, permeability of a
+medium, Magnetic force on a current, Torque on a current loop, Circulating charges, Ampere’s
+law, Lines of magnetic induction, Force between two parallel current carrying conductors, B for a
+solenoid, Biot-Savart’s law, Faraday’s law of electromagnetic inductance; Magnetic properties of
+matter- paramagnetism, diamagnetism, ferromagnetism, Intensity of magnetization, Intensity of
+magnetization, Magnetization curve, Hysteresis, the three magnetic vectors, Gauss’s law of
+magnetism, Magnetic induction and susceptibility, Magnetic circuit, Ampere turns, Comparison
+between magnetic and electric circuits.
+Optics: Optical interference, Young’s experiment, Coherence, Intensity in Young’s experiment,
+Thin Film interference, Newton’s rings, Michelson’s interferometer, Diffraction, Diffraction
+grating, Polarization, Double refraction, Optical activity.
+Recommended Books:
+1.   Physics Part-II by David Halliday and Robert Resnick
+2.   Fundamentals of Physics by Halliday and Robert Resnick
+Course Code :
+510804
+Credits : 1.5
+Class Hours: ------ hrs.
+Course Title :
+Physics Lab
+Based on the course ECE-102
+Course Code :
+510805
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Differential and Integral Calculus
+Differential Calculus: Differential Calculus: Limits, Continuity and differentiability; Successive
+differentiation of various types of functions; Leibnitz’s theorem; Rolle’s theorem; Mean value
+theorem in finite and infinite forms; Lagrange’s form of remainders; Cauchy’s form of remainder;
+Evaluation of indeterminate forms by L Hospitals rule; Partial differentiation; Euler’s Theorem;
+Maximum and minimum values of functions of single variable.
+Integral Calculus: Definitions of integration; Integration by the method of substitutions;
+Integration by part; Standard integrals; Integration by the method of successive reduction;
+Definite integrals and its properties and use in summing series;. Beta function and Gamma
+function;
+Recommended Books:
+1.   Integral Calculus by Anton
+2.   Integral Calculus by Abdul Matin
+3.   Integral Calculus by Khose Mohammad
+4.   Integral Calculus by B. C. Das and B. N. Mukharjhee
+5.   Differential Calculus by B. C. Das and B. N. Mukharjhee
+
+
+
+
+Course Code :
+510807
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Electrical Circuits
+Electric Current and Ohm’s Law: Modern electron theory of electricity, Effect of temperature
+of resistance, EMF and potential difference, Ohm’s law, Electric power and energy, Heating
+effect of current, Concept of alternating current (AC), AC waveforms, Average and effective
+values of AC signals.
+Law of DC Circuit: Kirchhoff’s voltage and current laws, Series and parallel networks; Network
+analysis- methods of branch and loop currents, Mesh analysis, nodal analysis, Bridge networks,
+Delta-Way conversion; Thevenin’s and Norton’s theorems, Maximum power transfer theorem,
+Millman’s theorem, Reciprocity theorem.
+Capacitive and Inductive Circuits: Capacitance and dielectrics, Capacitors in series and
+parallel, Energy storage, Transients in RC circuits, Initial values; Magnetic field, Flux density,
+Permeability, reluctance, Ohm’s law for magnetic field, Magnetizing force, Inductance, Induced
+voltage, RL transients, Initial values, Inductors in series and parallel, RLC circuits with DC
+source.
+Recommended Books:
+1.   Introductory circuit Analysis by Robert L. Boylestad, 10th edition.
+2.   Introductory of Electric Circuitsby Richard C. Dorf.
+3.   Electric Circuits Fundamentals by Thomas L. Floyd.
+4.   Electrical Circuit Analysis, Hayt and Kemmerly, Published by McGraw Hill.
+5.   A text Book of Electrical Technologies by B. L. Theraja.
+Course Code :
+510808
+Credits : 1.5
+Class Hours: ----- hrs.
+Course Title :
+Electrical Circuits Lab
+Based on the course ECE-105
+Course Code :
+510809
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Structured Programming Language
+Overview of Structured Programming Language concept;  Algorithm, Flowchart and Pseudo code;
+Constants, Variables and Data types; Operator & Expression; Managing Input & Output Operations;
+Decision making and branching; Looping; Arrays; Handling of character strings; User-defined functions;
+Parameter passing conventions, Scope rules and storage classes, Recursion; Structure and union; Pointers;
+File management; Header files; Preprocessor; Library functions; Error handling;
+Reference language: C
+
+
+
+
+Recommended Books:
+1)
+Shaum’sOutline :Theory and Problems of Programming with C by B. S. Gottfried, McGraw
+Hill.
+2)
+Teach Yourself C, Herbert Schildt, Published by Osborne.
+Course Code :
+510810
+Credits : 1.5
+Class Hours: ----- hrs.
+Course Title :
+Structured Programming Language Lab
+Objectives: Laboratory classes are based on the course ECE 108. The goal of this lab is to provide
+students with the skills needed to effectively design, develop, implement, debug, test, and maintain
+programs and more generally to solve problems in C programming language using a computer. Students
+will be asked to solve various problems in a regular basis to increase their programming ability. At the end
+of the course, students will have to develop a simple real-life programming project.
+Recommended Books:
+1.   The C Programming Language by Brian W. Kernighan and Dennis M. Ritchie.
+2.   Absolute Beginner’s Guide to C by Greg Perry.
+3.   C Programming for the Absolute Beginner by Michael Vine.
+4.   C Programming: A Modern Approach by K. N. King.
+
+
+
+
+2nd Semester
+1st Year
+Course Code :
+510821
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Linear Algebra
+Vectors in Rn, Different operations on vectors, Dot product and Cross product, Norm and distance in Rn,
+Cauchy Schwartz theorem, Minkowshi’s inequality.
+Linear equations and system of linear equations, Solution of linear equations.
+MatrixRepresentation, Different operations on matrix, Transpose matrix, square matrix, Inverse matrix,
+symmetric matrix.
+Vector space and subspace,Linear dependence and independence on vector space, Basis and dimensions,
+Rank of matrix, Coordinates.
+Linear mapping, Different types of mapping, Kernel and image of linear mapping, Singular and non-
+singular mappings, Isomorphism.
+Eigenvalues and Eigenvectors,Diagonalization and Application.
+Recommended Books:
+1)   Elementary Linear Algebra, Howard Anton, Chris Rorres
+2)   Linear Algebra, Abdur Rahman
+Course Code :
+510823
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+History of the Emergence of Independent Bangladesh
+Introduction: Scope and description of the emergence of Independent Bangladesh.
+1.  Description of the country and its people.
+a.   Geographical features and their influence.
+b.   Ethnic composition.
+c.   Language.
+d.   Cultural syncretism and religious tolerance.
+e.   Distinctive identity of Bangladesh in the context of undivided Bangladesh.
+2.
+Proposal for undivided sovereign Bengal and the partition of the Sub Continent, 1947.
+a.   Rise of communalism under the colonial rule,
+
+
+
+
+b.  Lahore Resolution 1940.
+c.   The proposal of  Suhrawardi and Sarat Bose for undivided Bengal : consequences
+d.  The creation of Pakistan 1947.
+3.
+Pakistan: Structure of the state and disparity.
+a.   Central and provincial structure.
+b.  Influence of military and civil bureaucracy.
+C.   Economic, social and cultural disparity
+4.  Language Movement and quest for Bengali identity
+a.   Misrule by Muslim League and struggle for democratic politics.
+b.  Foundation of Awami League, 1949
+c.   The Language Movement: context and phases.
+d.  United front of Haque - Vasani - Suhrawardi: election of 1954, consequences.
+5.  Military rule: the regimes of Ayub Khan and Yahia Khan (1958-1971)
+a.   Definition of military rules and its characteristics.
+b.  Ayub Khan’s rise to power and  characteristics of his rule (Political repression, Basic  democracy,
+Islamisation)
+c.   Fall of Ayub Khan and Yahia Khan’s rule (Abolition of one unit, universal suffrage, the
+Legal Framework Order)
+6.  Rise of nationalism and the Movement for self-determination.
+a. Resistance against cultural aggression and resurgence of Bengali culture.
+b. The Six Point Movement of Sheikh MujiburRahman
+c. Reactions, importance and significance of the Six Point Movement.
+d. The Agortola Case 1968.
+7.  The mass-upsurge of 1969 and 11 Point Movement:
+a.   Background
+b.   Program significance and consequences.
+8.  Election of 1970 Non-cooperation movement of March 1971 and the Declaration  of
+Independence by Bangobondhu
+a.   Election result and centres refusal to comply
+b.  The   Non   Co-operation   Movement,   the
+7th   March   Address   of   Bangabondhu,
+Operation
+Searchlight
+c.   Declaration of Independence by Bangobondhu and his arrest
+9.  The War of Liberation 1971
+a.   Genocide, repression of women, refugees
+b.  Formation of Bangladesh government and proclamation of Independence
+c.   The spontaneous early  resistance and subsequent organized resistance (MuktiFouz, Mukti
+Bahini, guerillas and the frontal warfare)
+
+
+
+
+d.  Publicity Campaign in the war of Liberation (Shadhin Bangla Betar Kendra, theCampaigns
+abroad and formation of public opinion)
+e.   Contribution of  students, women and the masses (Peoples war)
+f.   The role of super powers and the Muslim states in the Liberation war.
+g.  The Anti-liberation activities of the occupation army, the Peace Committee, Al-Badar, Al-Shams,
+Rajakars, pro Pakistan political parties and Pakistani Collaborators, killing of the  intellectuals.
+h.   Trial of Bangabondhu and reaction of the World Community.
+i.
+The contribution of India in the Liberation War
+j.
+Formation of  joint command and the Victory
+k.  The overall contribution of Bangabondhu and his leadership in the Independence struggle.
+10. The Bangabondhu Regime 1972-1975
+a.   Homecoming
+b.   Making of the constitution
+c.   Reconstruction of the war ravaged country
+d.   The murder of Bangabondhu and his family and the ideological turn-around.
+Recommended Books:
+1)   History of the Emergence of Independent Bangladesh, Professor Dr. Muntasir Mamun
+2)   History of the Emergence of Independent Bangladesh, Professor Md. Mozammel Haque
+3)   History of the Emergence of Independent Bangladesh, Md. A Salam, S M Nasir, Md. Nazrul
+Islam.
+Course Code :
+510825
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Modern Physics, Heat and Thermodynamics
+Properties of Matter:Atoms, Molecules and forces between them, Bonds- ionic, covalent, metallic,
+Hydrogen bond and Van Der Walls force, Crystals and their types, Defects and deformations.
+Atomic Physics: Wave particle duality, Photoelectric effect, Quantum theory of light, X-rays and X-ray
+diffraction,  Compton  effect,  De  Broglie  waves,  Phase  and  group  velocities,  Particle  diffraction,
+Uncertainty principle.
+Atomic Structure: Rutherford model of atom, Electron orbits, Atomic spectra, Bohr atom, Energy levels
+and spectra, Atomic excitation.
+Quantum Mechanics: Wave function & wave equation, Time dependent Schrodinger’s equation,
+Particle in a box, Reflection and transmission by a barrier.
+Heat and thermodynamics: Temperature and thermometry, Thermal expansions and calorimetry, Heat
+transfer,  First  law  and  Second  law  of  thermodynamics  with  simple  applications,  Properties  of
+thermodynamic substances.
+Recommended Books:
+1.   Concepts of Modern Physics by Arthur Beiser
+2.   Fundamentals of Classical Thermodynamics, Richard E. Sonntag, Claus Borgnakke and
+Gordon V. Van Wylen., John Wiley & Sons.
+3.   Engineering Thermodynamics by S. L. Somasundaran.
+4.   Fundamentals of Engineering Thermodynamics, Michael J. Moran and Howard N. Shapiro,
+John Wiley & Sons.
+
+
+
+
+Course Code :
+510827
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Electronic Circuits-I
+Semiconductor Diode: Introduction to semiconductors, p-type and n-type semiconductors; p-n
+junction diode characteristics, diode load line, Diode application: half and full wave rectifiers,
+clipping and clamping circuits, regulated power supply using Zener diode, LED and photo diodes.
+Bipolar Junction Transistor (BJT): Construction and operation, amplifying action, Transistor
+circuit configurations (CE, CB, CC), BJT biasing, relations between alpha and beta, leakage
+current in a transistor, Thermal runaway of a transistor, I-V characteristics, DC load line and Q
+point,  transistor biasing  factor,  effect  of  bias  variations,  stability  factor  for  CB  and  CE
+configuration, different methods of transistor biasing, AC load line.
+Field Effect Transistors (FET): JFET construction, operation and characteristics, biasing of
+FET, MOSFET construction, operation and characteristics, depletion and enhancement type
+MOSFETs, biasing and application of depletion and enhancement MOSFETs.
+BJT small signal amplifier circuit analysis: BJT Amplifiers CE, CB, CC configurations, DC
+analysis of transistor circuits, Collector feedback configuration, h-parameter model of transistor.
+Relationship between CC, CB, CE parameters, expressions for voltage gain, current gain, input
+resistance and output resistance.Effects of coupling and bypass capacitor. Hybrid Pi equivalent
+circuit, gain band width product, Frequency response, Frequency compensation, Low frequency
+compensation, High frequency compensation, Cascade amjplifier.
+FET small signal amplifier analysis: Amplifier with source resistance, Small signal model, AC
+small signal operation, Loading effect, Source follower (common drain) circuit, Common gate
+circuit, Design of FET amplifier circuits (CS, DC and CG).
+Recommended Books:
+1.   Electronic Devices by Floyd.
+2.   Micro-electronics by Jacob Millman and Arvin Grabel
+3.   Electronics Devices and Circuits Theory by Robert L. Boylestad, Louis Nashelsky.
+4.   OpAmp Applications Handbook, (Analog Devices Inc. edited by Walt Jang)
+5.   Schaum’s Outline of Electronic Devices and Circuits by Jim Cathey.
+Course Code :
+510828
+Credits : 1.5
+Class Hours: ---- hrs.
+Course Title :
+Electronic Circuits-I Lab
+Based on the course ECE-114 Electronic Circuits-I
+
+
+
+
+Course Code :
+510829
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Digital Electronics
+Number Systems and Codes: Decimal, binary, Octal and hexadecimal number systems and
+conversion, BCD, Alphanumeric, Grey, Excess-3, ASCII codes.
+Digital Logic: Boolean algebra, De Morgan’s theorem, Logic gates and their truth tables,
+Canonical form of logic expressions.
+Combinational Logic Circuits: Sum of Products form SOP, Product of Sum form (POS), Max
+term, Min term, Algebraic simplification, designing combinational logic circuits, Simplification,
+using K-map, K-map and don’t care term.
+Flip-Flops and Related Device: Sequential circuits, NAND gate latch, NOR gate latch, Clock
+signal and clocked flip-flops, Asynchronous inputs of flip-flop, Flip-flop applications, Design of
+synchronous and asynchronous counters, Ring counter, Johnson counter, Different types of
+registers, Application of counter.
+Decoding and Encoding: Decoders, BCD to 7 segment decoder, BCD to decimal decoder,
+Encoders, Switch encoder.
+Multiplexing   and   Demultiplexing:   Multiplexer,   Demultiplexer,   MUX   and   DEMUX
+applications, Comparator, Parity generator and checker.
+Arithmetic Circuits: Half adder, Parallel binary adder, Parallel binary adder with register,
+Parallel adder ICs 2’s complement system and circuit BCD adder, Subtract circuit, Multiplier
+circuit.
+Integrated Circuit Logic Families: TTL logic family, Standard TTL and other TTL series
+characteristics, TTL open collector output, Tristate TTL, ECL family and its characteristics,
+MOS, PMOS, NMOS and CMOS families.
+Converters: Digital to Analog Converter (DAC), Weighted register DAC, R-2R ladder, DAC
+specifications, Analog to digital converters (ADC), Digital ramp ADC, Successive approximation
+ADC, Flash ADC, Continuous conversion type ADC, Examples of ADC and DAC ICs, Principle
+of digital instruments, Digital multimeters, Phasemeters, Frequency meters.
+Semiconductor Memories: Memory organization and operation, Expansion of work size and
+work capacity, Classification and Characterization of memory, Organization of RAM and ROM,
+Advancements of semiconductor memories, PLA, PLD, PAL.
+Recommended Books:
+1.   Principles of Digital Electronics by T. J. Tocci.
+2.   Modern Digital Electronics by R. P. Jain.
+3.   Digital electronics by by Morris Mano.
+4.   Digital Systems by M. LutfarRahman.
+Course Code :
+510830
+Credits :1.5
+Class Hours: ---- hrs.
+Course Title :
+Digital Electronics Lab
+Based on the course ECE-116 Digital Electronics.
+
+
+
+
+3rd Semester
+2nd Year
+Course Code :
+520801
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Differential Equations and Complex Variables
+Ordinary Differential Equation: Degree and order of ordinary differential equations, Formation
+of differential equations, Solution of first order differential equations by various methods,
+Solution of first order but higher degree ordinary differential equations, Solution of general linear
+equations of second and higher orders with constant coefficients, Solution of homogeneous linear
+equations and its applications.
+Complex Variables: Complex number system; General functions of complex variable; Limits
+and continuity of a function of complex variable and related theorems; Complex differentiation
+and the Cauchy-Riemann Equations; Mapping by elementary functions; Line integral of a
+complex function; Chuchy’s Integral Theorem; Cauchy’s Integral Formula; Liouville’s Theorem;
+Laurent’s Theorem. Singular points; Residue; Cauchy’s Residue theorem. Evaluation residues;
+Contour integration; Conformal mapping.
+Recommended Books:
+1.   Ordinary Differential Equation by B. D. Sharma
+2.   Complex Variables by Schaum’s Outlines Series
+3.   Function of a Complex Variable by Dewan Abdul Quddus
+4.   Function of a Complex Variable by KedarNath Ram Nath
+Course Code :
+520803
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Electrical Circuits-II
+AC Fundamentals: Basic principles of AC generators, Equations of alternating voltage and
+current, Attributes of a sinusoidal signal, Phase relations, Average value, RMS value, Form
+factor, Vector diagrams, Addition of two AC equations; Response of basic R, L and C elements
+to sinusoidal voltage and current, Frequency response of basic elements, Average power and
+power factor, complex Numbers, Rectangular form, Polar form, conversion between forms,
+Phasors.
+Series and Parallel AC circuits: Impedance and Phasor diagrams, AC through series RL
+circuits, Frequency response of series RL circuits, AC Through series RC circuits, Admittance
+and susceptance, AC power, Power factor, Power triangle, Series R-L-C circuits and resonance;
+Parallel AC circuit with R, L, and C, Resonance in parallel RLC circuit, quality factor.
+AC Network Analysis in Frequency domain: Mesh circuit method, Node voltage method,
+Equivalent Y and ∆ connections.
+Polyphase Circuits: Three-phase generator, Y connected generator with Y connected load Y-∆
+systems, ∆ connected generator, Systems with unbalanced loads.
+
+
+
+
+Filters and Two Port Networks: One port and two port networks, High pass, low pass, band
+pass networks and filters, Hay power frequencies.
+Complex Frequency: Network analysis in the S domain, Network response in the S plane,
+natural response and forced response.
+Fourier Methods: Trigonometric and exponential Fourier series, Waveform symmetry, Line
+spectrum, Effective values and power, Application in circuit analysis.
+The Laplace Transform: Selected Laplace transforms, Initial value and final value theorems,
+Partial fraction expansions, etc.
+Recommended Books:
+1.   Introductory Circuit Analysis by Robert Boylested.
+2.   A Textbook of Electrical Technology by B. L. Theraja.
+3.   Schaums Outline Series on Theory and Problem of Electric Circuits by Joseph A. Edminister.
+Course Code :
+520804
+Credits : 1.5
+Class Hours:------ hrs.
+Course Title :
+Electrical Circuits-II Lab
+Based on the course ECE-202 Electrical Circuits-II.
+Course Code :
+520805
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Electronic Circuits-II
+Feedback  Amplifier:  Principle  of  feedback  amplifier,  Positive  and  negative  feedback,
+Advantages of negative feedback- gain stability, Decreased distortion, increased bandwidth,
+Forms of negative feedback, Practical negative feedback circuits.
+Power Amplifiers:  Classification of large signal amplifiers- class A, AB, B and C, Harmonic
+distortion, efficiency and figure of merit of class A, AB, B; transformer- coupled amplifiers, push
+pull amplifiers, Complementary symmetry amplifiers, Tuned amplifiers- Single tuned circuits
+using BJTs and FETs, Impedance transformations and transformer coupling, Narrow band tuned
+amplifiers, Cascade tuned amplifiers, Synchronous and stagger tuning. Neutralization.
+Oscillators: Sinusoidal oscillators, the Barkhausen criterion, Practical considerations, Analysis
+and  design  of  RC  phase  shift  oscillators,  Hartley  and  Colpitts  oscillators.  Amplitude
+stabilizations, Crystal oscillators, Frequency stability, Stability criterion.
+Operational Amplifiers: Difference amplifier; CMMR; Ideal operational amplifier; Inverting
+amplifier;  Non-inverting  amplifier;  General-purpose  IC  operational  amplifier;  Integrator;
+Differentiator, adder, Voltage follower, Reference voltage source, V to I and I to V converter,
+Current amplifiers, Charge amplifiers, Differential amplifier, Instrumentation amplifier, Log and
+antilog amplifiers, Function generators, Precision rectifiers, Comparators, Window comparators,
+Schmitt trigger, Miller Sweep, Bootstrap sweep, Analog multiplier, Analog divider, Square
+rooters.
+
+
+
+
+Recommended Books:
+1.   Electronic Devices and Circuits Theory by Robert L. Boylestad, Louis Nashelsky.
+2.   Op-Amp and Linear Integrated Circuits by R. L. Bayakawad.
+3.   Op-Amp and Linear Integrated Circuits by R. F. Caoughlin.
+4.   Schaum’s Outline of Electronic Devices and Circuits by Jim Cathey.
+5.   Pulse and Digital Electronics by G. K. Mithal.
+6.   Pulse and Digital Switching Waveforms by Millman and Taub.
+Course Code :
+520806
+Credits : 1.5
+Class Hours: ---- hrs.
+Course Title :
+Electronic Circuits-II Lab
+Based on the course ECE-204 Electronic Circuits-II.
+Course Code :
+520807
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Instrumentation and Measurements
+Introduction: Significance and methods of measurements, Direct and indirect methods and
+standard types of instruments.
+Analog Voltmeters and Ammeters:  Different types of analog voltmeters, Accuracy and error of
+analog voltmeters. Different types of ammeters, Accuracy and errors of analog ammeters.
+Digital Voltmeters: Staircase ramp type, Successive approximation type, Integrating type, Delta
+pulse modulation type.
+Digital Multimeters: DC voltage attenuator, Current to voltage converter, AC/DC converter,
+Resistance to  voltage  converter,  HF/LF  converter,  Automation in Multimeters,  Automatic
+polarity indication and auto ranging digital instrumentations.
+Oscilloscope and Signal Generator: Single beam and dual beam types, Sampling and storage
+types, Sweep frequency generations, Function generators.
+Analyzers: Wave analyzer, Harmonic generators, Frequency synthesizer and spectrum analyzer,
+Analog and digital frequency meters, Recorders and displays.
+Data Acquisition:  Data loggers, Data acquisition and control, PC-based instrumentation.
+Recommended Books:
+1.   Instrumentation, Measurements and Feedback by B.E. Jones.
+2.   Electronics Instrumentation and Measurement Techniques by W. D. Cooper.
+3.   Instrumentation Technology by B. B. Jones and Butterworth.
+4.   Industrial Instrumentation Fundamentals by A.E. Fribance.
+
+
+
+
+Course Code :
+520809
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Statistics and Probability
+Statistics: Frequency distribution of data: Population and sample, Collection and representation
+of statistical data. Tabulation of data.Class intervals.Frequency distribution, discrete, continuous
+and cumulative distributions.Histograms and frequency polygons.Graphical representation of
+data.
+Statistical Measures: Measures of central tendency- arithmetic mean, median, mode, geometric
+mean, weighted average, harmonic mean. Measures of dispersion-range, standard deviation,
+variance, coefficient of variation, moments, skewness, kurtosis.
+Probability: Definition of probability and related concepts. Laws of probability, Conditional
+probability and Baye’s theorem, Discrete and continuous random variables, Probability mass
+functions, probability density function, Joint Distribution, Marginal and conditional distribution,
+Independence  of  Random  Variables,  Mathematical  expectations.  Probability  distributions:
+Binomial, Poisson and Normal distributions and their properties.
+Covariance, correlation and regression: simple correlation, measures of correlation and its
+significance, regression and curve fitting, Linear and non-linear regression.
+Fundamentals of time series: Introduction to time series.
+Recommended Books:
+1.   An Introduction to Statistics by S. P Gupta and M. P Gupta
+2.   Theory and Problem of Statistics by Schaum’s Outlines Series
+3.   Basic Statistics by Abdul Jalil and RezinaFerdouse
+4.   Understanding Statistics by Graham Upton and Ian Cook
+5.   An Introduction to Statistics and Probability by Dr. Nurul Islam
+4th Semester
+Year 2
+Course Code :
+520821
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Engineering Mathematics (Fourier, Laplace and Vector Analysis)
+Fourier Analysis: Real and complex form of Fourier series; Finite transform; Fourier Integral;
+Fourier transforms and their uses in solving boundary value problems of wave equations.
+Laplace Transforms: Definition; Laplace transforms of some elementary functions; Sufficient
+conditions for existence of Laplace transforms; Inverse Laplace transforms; Laplace transforms
+of derivatives. The unit step function. Periodic function. Same special theorems on Laplace
+transform; Solutions of differential equations by Laplace transforms.
+Vector Algebra and Vector Calculus: Additions, subtractions, dot and cross products, triple
+product and their geometrical interpretation and application, differentiation and integration of
+
+
+
+
+vectors,  line  surface  and  volume  integrals,  gradient,  divergence,  curl  and  their  physical
+significance, divergence theorem and Gauss’s theorem and their applications.
+Recommended Books:
+1.
+Mathematical Methods by Abdur Rahmam
+2.   Fourier Transform by Schaum’s Outline
+3.   Laplace Transform by Schaum’s Outline
+4.   Physical Mathematics by B. D. Gupta.
+Course Code :
+520823
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Fundamentals of Communications
+Noise: Shot noise, White noise Gain in decibels, Signal to noise ratio.
+Radio  Communication  Systems:  Amplitude  modulation
+(AM),  AM  broadcast  technical
+standards, Double sideband suppressed carrier (DSBSC), Single sideband suppressed carrier
+(SSB), Vestigial sideband (VSB), Phase modulation (PM) and frequency modulation (FM),
+Envelop  detector,  Product  modulator,  AM  transmitter,  Super  heterodyne  receiver,  FM
+transmitters and receivers.
+Digital  Modulation  Technique:  Modern  communication  systems,  BPSK,  DPSK,  QPSK,
+OQPSK,  MSK,  GMSK,  MFSK,  Spread  spectrum  modulation  techniques,  DS-SS,  FH-SS,
+Multipath channels, intelligent cells, micro and nano cells.
+Pulse and digital signaling: Pulse code modulation (PCM), Delta modulation (DM), Adaptive
+delta modulation (ADM), Differential PCM (DPCM), Adaptive DPCM (ADPCM), Time division
+multiplexing (TDM), Frequency division multiplexing (FDM).
+Telephony: Background and concept, The simple telephone connection, Conventional analog
+switching in telephone networks, Analog telephone versus digital telephone systems, Basic
+switching functions, Introductory switching concepts, Numbering concept for telephony, Digital
+switching- space division and time division.
+Mobile Telephony: Mobile radio systems, Howa cellular telephone call is made, The cellular
+system design fundamentals- Frequency reuse, channel assignment strategies, Handoff strategies,
+Interference and system capacity, Trunking and grade of service, Cell splitting, Multipath
+propagation and fading, Doppler shift, Cellular system standards- AMPS, GSM, CDMZ (IS-95).
+Recommended Books:
+1.   Communication Systems by Simon Haykin.
+2.   Modern Communication Systems Principle and Applications by Loen W. Couch.
+3.   Telecommunication System Engineering by R. L. Freeman.
+4.   Cellular Mobile Systems Engineering by Saleh Faruque.
+5.   Wireless Communication Principles and Practice by T.S. Rappaport.
+
+
+
+
+Course Code :
+520824
+Credits : 1.5
+Class Hours: ---- hrs.
+Course Title :
+Fundamentals of Communications Lab
+Based on the course ECE-213 Fundamentals of Communications.
+Course Code :
+520825
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Signals and Systems
+Signals: Continuous-time and discrete-time signals, Even and odd signals, Periodic and non-
+Periodic signals, Deterministic and random signals, Energy and Power signal, Unit impulse and
+unit impulse functions; Some elementary D-T signals: Unit Sample Sequence, Step signal, Ramp
+& Exponential signal. Simple manipulation of D-T signals. Sampling and aliasing.
+Systems: Digital System, D-T system, Block diagram representation of D-T systems. Different
+types of systems: Relax & Non-Relax system, Static and Dynamic system, Time Invariant and
+Time Variant System, Linear and Non-Linear system, Causal and Non-Causal system, Stable &
+Unstable system. Time Domain Representations for Linear Time Invariant Systems. Convolution
+theorem, Convolution sum; Correlation- Auto correction and Cross correlation, Properties.
+Fourier Representations of Signals: Discrete time periodic signals- the discrete time Fourier
+series Continuous time periodic signals- the Fourier series Discrete time non-periodic signals-the
+discrete time Fourier transform Continuous time non-periodic signals- the Fourier transform
+Properties of Fourier representations.
+Laplace Transform: Region of convergence, Inverse Laplace transform, Analysis of LTI
+systems using Laplace transform.
+Recommended Books:
+1.   Communications Systems by Simon Haykin.
+2.   Digital Signal Processing by Proakis and Monolakis.
+3.   Signals and Systems, A.V. Oppenheim, A.S. Willsky and I.T. Young Prentice Hall.
+4.   Signals and Systems- Continuous and Discrete, R.F. Ziemer, W. H. Tranter and D.R. Fannin,
+Prentice Hall.
+5.   Introduction to Signals and Systems, Douglas K. Lindner, Mc-Graw Hill International
+Edition.
+6.  Signals and Systems, Simon Haykin, Barry van Veen, John Wiley and Sons.
+Course Code :
+520827
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Computer Organization and Architecture
+Overview of Computer Organization and architecture: Organization and Structure, Structure
+and Functions, Simple machine code sequence to illustrate action, system buses, interconnection
+structures (Bus structure and bus types), Interrupts and instruction cycle.
+
+
+
+
+Storage and Input/Output Systems: Overview of memory system, memory chip organization
+and error correction, cache memory, memory storage devices. Overview of I/O, programmed and
+interrupt-driven I/Os, direct memory access (DMA).
+Computer  Arithmetic:  Integer  representation  and  arithmetic,  floating-point  representation
+(IEEE), floating-point arithmetic. Arithmetic and Logic Unit (ALU), Bit Sliced ALU.
+Instruction Set and Register: Computer function (fetch and execute cycles), interrupts, Machine
+instruction characteristics, types of operands and operations, instruction functions, addressing
+modes, instruction formats, instruction pipelining.
+Control Unit: Micro-operations, hardwired control unit, control unit operation, micro-instruction
+sequencing and execution, micro-programmed control unit.
+High performance computer systems: Techniques to achieve high performance, RISC, CISC,
+introduction to superscalar processor, parallel processor, array processor.
+Recommended Books:
+1.   Computer Organization and Architecture by William Stallings.
+2.   Computer Architecture: A Quantitative Approach by John Hennessey.
+3.   The Essentials of Computer Organization and Architecture by Linday Null and Julia Lobur
+4.   Schaum’s Outline of Computer Architecture by Nick Carter
+Course Code :
+520828
+Credits : 1.5
+Class Hours: ------hrs.
+Course Title :
+Engineering Design using AutoCAD
+Engineering Design using AutoCAD
+Course Code :
+520829
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Numerical Analysis
+Solution of equation in one variable (Fixed-point iteration Method, Newton Raphson Method,
+Error Analysis), Interpolation polynomial for equal and unequal interval, Solving Systems of
+Linear Equations (Direct Method, Gaussian elimination with backward substitution, using matrix
+operation), Numerical Solution of Ordinary differential Equation (Euler Method, Runge-Kutta
+Method, Finite Difference Method), Numerical Differentiation and Integration (Richardson’s
+extrapolation  method,  Adaptive  quadrature,  Trapezoidal  and  Simpson’s  rule),  Illustrative
+programming projects and use of computer to implement the projects.
+Recommended Books:
+1.   Numerical Analysis: Richard L Burden, J. Douglas Faires.
+2.   Numerical Analysis: Vipin and Vasishtha.
+3.   Numerical Analysis: J.H. Mathews, Numerical Methods for Computer Science, Engineering
+and Mathematics, Prentice-Hall, 1987
+
+
+
+
+5th Semester
+Year 3
+Course Code :
+530801
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Electromagnetic Fields and Waves
+Static electric field: Postulates of electrostatics, Coulomb’s law for discrete and continuously
+distributed charges, Gauss’s law and its applications, electric potential due to charge distribution,
+conductors and dielectrics in static electric field, flux density-boundary conditions; capacitance-
+electrostatic electrostatic energy and forces, energy in terms of field equations, capacitance
+calculations of different geometries; boundary value problems-Poisson’s and Laplace’s equations
+in different co-ordinate systems steady electric current, Ohm’s law, continuity equation, Joule’s
+law, resistance calculation.
+Static magnetic field: Postulates of magnetostatics, Biot-Sarvart’s law, Ampere’s law and
+applications, vector magnetic potential, magnetic dipole, magnetization, magnetic field intensity
+and relative permeability, boundary conditions for magnetic fields magnetic energy, magnetic
+forces, torque and inductance for different geometries.
+Time varying fields and Maxwell’s equations: Faraday’s law of electromagnetic induction,
+Maxwell’s equations-differential and integral form, boundary conditions, potential functions, time
+harmonic fields and Poynting theorem.
+Plane  electromagnetic  waves:  Propagation  and  reflection  of  electromagnetic  waves  in
+unbounded media, plane waves in loss-less media-Doppler effect, transverse electromagnetic
+waves, polarization of plane waves, plane waves in lossy media, loss-less dielectrics, good
+conductors, group velocity, instantaneous and average power densities, normal and oblique
+incidence of plane waves and plane boundaries for different polarizations.
+Recommended Books:
+1.   Fundamentals of Electromagnetics with Engineering Applications by S.M. Wentworth,
+2.   Fields and Waves in Communication Electronics, Simon Ramo, J.R. Whinnery, T.V. Duzer.
+3.   Elements of Electromagnetics by M.N.O Sadiku, Oxford University Press.
+4.   Electricity and Magnetism, K. K. Tewari. S. Chand & Company Ltd.
+5.   Electromagnetics, J.A. Edminister, TATA McGraw Hill Edition.
+6.   Field and Wave Electromagnetics, David K. Cheng, Addison Wesley Publishing Co.
+Course Code :
+530803
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Digital Signal Processing
+Introduction to digital signal processing: Sampling of continuous-time and discrete-time
+signals, The z-transform, Linear time-invariant model of discrete-time systems, Frequency
+domain representation of discrete-time systems and signals.
+Structure of discrete-time systems: Signal flow graph representation of digital networks, Matrix
+representation of digital networks, Basic network structures for FIR and IIR systems.
+Digital filter design techniques: Design of FIR and IIR filters from analog filters using
+windows, Computer aided design techniques for filters, Discrete Fourier series and discrete
+
+
+
+
+Fourier transforms, Convolution and correlation, Algorithms for the computation of DFT and
+FFT, Power spectrum. Adaptive Filter: characteristics, LMS, NLMS algorithms.
+Digital signal processor architecture: Evolution of DSP architecture, Different architecture,
+Important architectural element of a DSP, Application of DSP in speech and image processing,
+RADAR, Pattern recognition, etc.
+Recommended Books:
+1.   Digital Signal Processing: Principles, Algorithms and Applications by John G. Proakis,
+Dimitris Manolakis.
+2.   Digital Signal Processing: An Overview of Basic Principles, J. Crtinhour
+3.   Signal Processing Algorithms in Matlab, S. D. Stearns and R. A. Davis.
+4.   Digital Signal Processing Using Matlab by Vinay K. Ingle.
+5.   Schaum’s Outline of Digital Signal Processing (Schaum’s) by Monson H. Hayes.
+Course Code :  530805
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Microprocessors and Assembly Language
+Microprocessors:   Evaluation   of   Microprocessors,   register   and   accumulator   based
+microprocessors,  programmable  logic  device,  memory  organization,  I/O  techniques,
+8086
+microprocessor: internal architecture, addressing modes, pin configuration and function, memory
+bank, interrupt interface, maximum minimum mode interface, read/write cycle.
+Advanced Microprocessors: Overview, internal architecture, memory management of 80186,
+80286, 80386 and 80486 microprocessor. Overview of Pentium processor, co-processor, Alpha
+processor and pipeline processor.
+Assembly Language: Types of assembler, assembly programming basics, instruction formats,
+assembly instruction types: Data transfer instruction, Arithmetic and Logic instruction, shift and
+rotate instruction, Transfer control and conditional procession, String processing, Input/Output,
+Interupts, Procedures and macro.
+Recommended Books:
+1.   Microprocessor and microprocessor based system design by M. Rafiquzzaman.
+2.   The 8088 and 8086 microprocessors by W. A. Triebel.
+3.   Introduction to Microprocessors by John Crisp.
+4.   INTEL  Microprocessors
+8086/80188,
+80386,
+80486,  Pentium,  Pentium  ProProcessor,
+Pentium II, III, 4 by Barry B. Brey
+5.   The Art of Assembly Language by Randall Hyde.
+Course Code :
+530806
+Credits : 1.5
+Class Hours: ---- hrs.
+Course Title :
+Microprocessors and Assembly Language Lab
+Based on course ECE-303 Microprocessors and Assembly Language.
+
+
+
+
+Course Code :
+530807
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Data Communicatons
+Introduction: A data communication Model, Data Communication tasks, Data Communication
+networks standards, Introduction to OSI and TCP/IP models.
+Data Transmission: Spectrum and bandwidth, Transmission impairments, Channel capacity and
+data rate, transmission media-coaxial cable, twisted pair, fiber optics, wireless transmission,
+electromagnetic spectrum, microwaves, radio waves, infrared and satellite communication.
+Data Encoding: Digital data and digital signaling, NRZL, NRZI, Bipolar AMI, Manchester and
+differential Manchester encoding. Digital data and digital signaling-PCM, DM.
+Data Transmission techniques: Asynchronous and synchronous data transmission technique,
+EIA 232 & V. 24 interface standard.
+Data Link Control: Flow control, Error Detection-Parity and CRC, Error correction and
+Hamming code, Error Control (Stop and Wait, Go back N ARQ. Selective Reject ARQ), High-
+level Data Link Control (HDLC).
+Multiplexing:  Frequency  Division  Multiplexing,  Synchronous Time-Division  Multiplexing,
+Statistical Time-division Multiplexing, Wavelength division multiplexing.
+Data Communication Networking: Circuit switching, Space division and TDM switching,
+Packet switching, Virtual circuit and datagram.
+Recommended Books:
+1.   Data and Computer Communications, W. Stallings, Macmillan.
+2.   Computer Networks, A. S. Tanenbaum, Prentice Hall.
+3.   Data Communication and Networking by Behrouz A. Forouzan, McGraw-Hill.
+Course Code :  530808
+Credits :1.5
+Class Hours: ------hrs.
+Course Title :
+Data Communicatons Lab
+Based on the course ECE-305 Data Communications.
+Course Code :
+530809
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Electronic Materials
+Structural  properties:  Crystalline,  amorphous,  polymer,  binding  force,  elastic  properties,
+dislocations, defects, etc. Thermal and electrical properties: specific heat, thermal expansion,
+thermal conductivity.
+Dielectric  properties  of  solids:  Basic  relationship  and  parameters,  model  of  dielectric
+polarization, ferroelectricity and piezo-electricity.
+Optical properties of solids: Classical theory, free carrier effects, lattice absorption, electrical
+absorption.
+Magnetic   properties   of   solids:   Atomic   magnetic   moments,   dia   and   paramagnetism,
+ferromagnetism, antiferromagnetism, magnetic resonance.
+Superconductivity: Theory of superconductivity, superconductors and some applications.
+Nano-Tecnology: Carbon as a nano material, structure of carbon, carbon nanotube, quantum dots
+and nanowires.
+
+
+
+
+Recommended Books:
+1.   Electronic Processes in Materials by Azaroff and Brophy.
+2.   Semiconductor and Electronic Devices by Steetman.
+3.   Handbook of Nano-structured Materials and Nano Technology by H S Nawla.
+6th Semester
+Year 3
+Course Code :
+530821
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Optical Fiber Communication
+Introduction: Electromagnetic spectrum, Use of light in communication, Types of fiber Loses if
+fibers, Dispersion, Light sources for fibers, Photo detector, connector and splices, fiber optic
+communication systems, Electro-optical conversion devices (HDs, LEDs, ADDS, PINs, etc.),
+Circuit   considerations,   Repeater,   Receiver,   Optical   switching,   Optical-interconnection,
+Integrated-Optics, Modulation Techniques: Intensity Modulation, Direct Detection, Fiber link,
+OFDM, WDM, DWDM, Free Space Optical link, Broadband optical fiber network, traps-oceanic
+fiber cable.
+Optical fibers: Modes of propagation, transmission characteristics, wave-guide analysis. Optical
+source: light emitting diode (LED) and semiconductor laser diode (SLD); operational principles,
+characteristics curves; optical transmitter design using LED/SLD. Optical amplifiers: laser and
+fiber amplifier. Photodetectors: p-i-N and avalanche photodetectors (APDs), noise sources.
+Transmission link analysis: Point-to-point and point-to-point links, system configuration, link
+power budget, rise time budget, line coding schemes, transmission systems limitations, design of
+fiber-optic systems. Optical data buses, optical networks, fiber distributed data interface (FDDI)
+and  synchronous  optical  network
+(SONET).  SDH.Optical  frequency  division  multiplexing
+(OFDM) and wavelength division multiplexing (WDM) transmission systems.
+Recommended Books:
+1.   Optical Fiber Communications by John Senior Optical Fiber Communications by Cruiser,
+Gerdkiser.
+2.   Opto-Electronic by Wilson and Hawks Laser Electronics by Joseph T Verdeyen.
+3.   Optical Fiber Communications by Senior.
+4.   Optical Communications
+(Wiley Series in Telecommunications and Signal Processing) by
+Robert M. Gagliardi and Sherman Karp.
+Course Code :
+530823
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Microwave Engineering
+Introduction: VHF, UHF and microwave frequency ranges.
+
+
+
+
+Microwave  transmission  lines:  Transmission  line  equation  and  solution,  Reflection  and
+transmission coefficient, Standing wave and standing wave ratio, Smith chart, impedance
+transformation and matching.
+Waveguides  and  components:  Rectangular  waveguide,  Circular  waveguide,  Waveguide
+components, cavities and resonators, Directional couplers, Circulators and isolators.
+Microstrip Lines: Wave propagation and micro strip lines, dielectric constants, characteristic
+impedance, attenuation factors.
+Microwave  Devices: Microwave  transistor, Varactor  diode,  IMPATT diode,  Gunn diode,
+Schottky barrier diode, Backward diode, Point contact diode, Klystron, Reflex Klystron, TWT
+and magnetron.
+Recommended Books:
+1.   Electronic Communication Systems by Kennedy, McGraw-Hill.
+2.   Fields and Waves in Communication Technology, S. Ramo, J.R. Whinnery, Th. Van Duzer,
+John Wiley & Sons, Inc.
+3.   Microwave Transistors, Amplifiers, Analysis and Design by Guillermo Gonzalez, Prentice
+Hall.
+4.   Microwave Engineering by David M Pozar by John Wiley.
+5.   Foundations for Microwave Engineering by R E Collins, McGraw-Hill.
+Course Code :
+530825
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Power Electronics
+Transducers:   Active   and   passive   transducers,   Position   and   displacement   transducers-
+potentiometer,   LVDT;   Pressure   transducer;  Temperature   transducer;   Optical  transducer;
+Ultrasonic transducer; Flow transducer; Strain gauge transducer; Speed transducer.
+Thyristors: Schottky rectifier; Zener diode; Diode and transistor packages; SRC and TRIAC;
+GTO; IGBT, Applications.
+Triggering devices: UJT, UJT relaxation oscillator, phase control circuit programmable UJT
+(PUT); DIAC; Silicon Bilateral Switch (SBS); Asymmetrical AC trigger devices.
+Power Electronic Converters: Fixed output voltage and phase controlled AC/DC converters,
+Single phase, Three phase; DC/DC converters- Chopper regulator, Step-up, Step-down, Switch
+mode regulators, Thyristor chopper circuits; A simplified single phase cycloconverter; DC/AC
+inverter-Push-pull inverter, PWM, Transformer-less inverters, MPPT, Grid-interactive inverters.
+Motor  Devices:DC  and  AC  motor  devices,  speed  and  position  control  of  DC  motor,
+microprocessor based motor drive.
+Recommended Books:
+1.   A course in Electrical and Electronic Instrumentation and Measurement Techniques by A L
+Sohani.
+2.   Power Electronics Converters Applications and Design by Mohan, Undeland and Robbins.
+3.   Electronics in Industry by Chute & Chute.
+4.   Power Electronics, Circuits, Devices and Applications by M H Rashid.
+5.   Industrial Electronics by James T. Humphries and Leslie P. Sheets.
+6.   Principles of Power Electronics by J G Kassakian, M F Schlecht and J C Verghese.
+
+
+
+
+Course Code :
+530826
+Credits : 1.5
+Class Hours: ----hrs.
+Course Title :
+Power Electronics Lab
+Based on the course ECE-313 Power Electronics.
+Course Code :
+530827
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Antenna and Propagation
+Definitions,  Types of antenna: wire antennas, aperture antennas, array antennas, reflector
+antennas  &  lens  antennas.  Radiation  mechanism  of  antenna,  radiation  pattern,  isotropic,
+directional and omnidirectinal pattern, principle pattern, radiation pattern lobes, field regions,
+radian and tertian.
+Parameters:Fundamental parameters of antenna, radiation power density, radiation intensity, gain,
+directive gain, power gain, directivity, antenna efficiency, effective aperture, physical aperture,
+transmission between two antenna, radar equation, front to back ration, antenna band width,
+antenna beam width. Internal-equation methods, current distribution; self and mutual impedances.
+Antenna  arrays,  design  and  sysnthesis.Reflector  type  antennas.Babiner’s  principles  and
+complementary antennas.Application of reaction concept and variational principles in antennas
+and propagation.Frequency independent antennas, Scattering and diffraction.Selected topics in
+microwave  antennas.Antenna  measurements.Application  of  broadcasting,  microwave  links,
+satellite communications and radio astronomy.
+Recommended Books:
+1.   Antenna and Propagation for Wireless Communication systems by Saunders, Simon R. Aleja.
+2.   Radio Antennas and Propagation: Radio Engineering Fundamentals by William Gosling.
+3.   Microwave Engineering, by David M. Pozer.
+4.   Channels, Propagation and Antennas for Mobile Communications by Rodney Vaughan
+Andersen, Jorgen Bach.
+5.   Geometric Theory of Diffraction by Hansen Robert.
+Course Code :
+530829
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Computer Peripherals and Interfacing
+Interfacing: Design and operation of interface between computer and the outside world; sensors,
+transducers and signal conditioning circuits, interfacing memory, system bus, IEEE 488 bus, RS-
+232. Study and applications of peripheral chips: Parallel ports (8255), USART (8251). Interrupt
+controller (8259), DMA controller (8257).
+Peripherals: Keyboards, printers (dot-matrix, laser, ink-jet), VDUs, computer graphics hardware,
+plotters, disc-drivers CD-ROM, A/D converters, stepper motors.
+
+
+
+
+Recommended Books:
+1.   Microprocessors and Interfacing, Douglas V. Hall, McGraw-Hill
+2.   Microprocessors Architecture Programming and Application by Gaonkar.
+3.   Computer Peripherals by Barry Wilkinson.
+Course Code :
+530830
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Computer Peripherals and Interfacing Lab
+Based on the course ECE-316 Computer Peripherals and Interfacing.
+7th Semester
+Year 4
+Course Code :
+540801
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Multimedia Communication
+Fundamentals, Introduction of international standards, Image coding: DCT/subband/VQ, Image
+coding: JPEG, Video coding: ITU-T H. 261, H.263, H.263 Version 2, Video coding: ISO MPEG-
+1, MPEG-2, MPEG audio coding, ITU-T speech coding: G.72x, MPEG-4 Video, Systems: ITU-T
+H.320, H.323, H.324 etc., System: MPEG-1, MPEG-2, MPEG-4 Systems, Multipoint data
+conferencing: T.120, Networking issues: error resilience, network characteristics, Quality of
+Service
+(QoS), Error resilience in video codecs: H.26x and MPEG, Multimedia over IP:
+Multicast,  RTP/RTCP,  packetization,  streaming,  Multimedia  over  ATM,  Multimedia  over
+wireless/mobile networks.
+This course introduces technologies for multimedia communications. We will address how to
+efficiently represent multimedia data, including video, image and audio, and how to deliver them
+over a variety of networks. In the coding aspect, state-of-the-art compression technologies will be
+presented. Emphasis will be given to a number of standards, including H.26x, MPEG and JPEG.
+In the networking aspect special considerations for sending multimedia over ATM, wireless and
+IP networks such as error resilience and quality of service, will be discussed. The H.32x series,
+standards for audiovisual communication systems in various network environments, will be
+described. Current research results in multimedia communications will be reviewed through
+student seminars in the last weeks of the course.
+
+
+
+
+Recommended Books:
+1.   Multimedia Communication Systems: Techniques, Standards, and Networks by K. R. Rao.
+2.   Introduction to Multimedia Systems (Communications, Networking and Multimedia) by
+Sugata Mitra, Gaurav Bhatnagar.
+Course Code :
+540803
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Mobile and Wireless Communication Systems
+Free-space propagation: Propagation model. Multipath propagation, Propagation environment,
+Marine environment.
+Mobile  Communication:  Mobile-Multimedia  traffic,  Flow  control,  Bandwidth  allocation,
+Channels, 1st, 2nd and 3rd generation wireless networks. Cellular mobile system engineering, 4G,
+5G, LTE
+Satellite Communication: Introduction, Orbits, Station Peeping. Satellite altitude, Transmission
+path, Path loss, Noise consideration, Satellite system, Saturation flux density, Effective isotropic
+radiated power, Multiple access methods, Earth station antenna, satellite link, design, frequency
+plan, Satellite communication for Internet, VSAT Network, GNSS-GPS and Galileo Systems,
+GIS, Multiple Access Techniques.
+Microcells: Two Ray Model, Freznel Zone, RF coverage, Indoor coverage, Outdoor coverage,
+computer aided Techniques, Single coverage plot, composite coverage plot, RF survey, Cellular
+traffic, Trunking efficiencies.
+Recommended Books:
+1.   Introduction to Wireless Systems, Shankar P. M, Wiley.
+2.   Fundamentals of Wireless Communication, Tse D. and Viswanath P., Cambridge.
+3.   Wireless Communications and Networking, Stallings W., Prentice Hall.
+4.   Satellite Communication Systems: Systems, Techniques and Technology Maral G. and
+Bousquet M., Wiley.
+5.   Mobile Satellite Communication Networks, Sheriff R.E. and Fun Hun Y., Wiley.
+Course Code :
+540805
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Control Systems
+Introduction:  Introduction to, control, systems, Definitions and Mathematical background.
+
+
+
+
+System Equations: State concepts, Transfer function and block diagram, Mechanical translation
+systems, Mechanical rotational systems.
+Solution of Differential Equations: Standard inputs to control systems, Steady-state response
+and transient response.
+Laplace  Transform:  Definition,  Laplace  transform  theorem,  Application  of  the  Laplace
+transforms to differential equations, inverse, transformation, Heaviside, partial-fraction expansion
+theorems.
+System  Representation:  Block  diagrams,  Determination  of  the  overall  transfer  function,
+Standard block din grain terminology, Simulation diagrams, Signal flow graphs.
+Control System Characteristics: Routh-Hurwitz stability criterion, Feedback system types,
+Analysis of system types, Steady-state error coefficients, Nonunity-feedback system.
+Root Locus: Plotting roots of a characteristics equation, Quantitative analysis of the root locus,
+Open-loop transfer function, Poles of the control ratio, Application of the magnitude and angle
+condition.
+Frequency Response: Correlation of the sinusoidal and time responses, Frequency response
+curves,  Bode  plots
+(Logarithmic  plots),  General  frequency  transfer  function  relationships,
+Nyquist’s stability criterion, Definitions of phase margins and gain margins and their relation of
+stability.
+Recommended Books:
+1.   Linear control systems and design by John J. D. Azzo
+2.   Control engineering by C. C. Bissel
+3.   Modern control systems by RR Dorf
+Course Code :
+540806
+Credits : 1.5
+Class Hours: ----- hrs.
+Course Title :
+Control Systems Lab
+Based on course ECE-403 Control Systems.
+Course Code :
+540807
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Computer Networks
+
+
+
+
+Introduction: Introduction to computer Networks, Protocols and Architecture-TCP/IP protocol
+suit, The OSI Reference Model.
+Local Area Networks and the Medium Access Sublayer: LAN Technology, Architecture,
+Topology, Wireless LAN, Ethernet and Fast-Ethernet, and Gigabit Ethernet Multiple access-
+CSM/CD, CSMA/CA. Token Ring and FDDI, Bridges, Bridges operation, Switches, Wireless
+LAN.
+Frame Relay and Cell Relay: Frame Relay services and protocol, ATM overview, ATM LAN.
+Internetworking:   Principles   of   internetworking,   connectionless   &   connection   oriented
+internetworking. The Internet protocol, Routing Protocol, IPv6, ICMPv6.
+The Transport Layer: The transport service, transport service primitives, socket primitives, TCP
+& UDP.
+Distributed Applications: Simple Network Management Protocol-SNMPv2, Electronic mail-
+SMTP and MIME, Hypertext Transfer Protocol (HTTP), Video on Demand.
+Recommended Books:
+1.   Data and Computer Communications.- W. Stallings, Macmillan, 6th Edition.
+2.   Computer Networks, - A. S. Tanenbaum, Prentice Hall, 1996.
+3.   Data Communications and Networking, 4/e, McGraw-Hill, Behrouz A. Forouzan.
+Course Code :
+540808
+Credits :1.5
+Class Hours: ---- hrs.
+Course Title :
+Computer Networks Lab
+Based on the course ECE-405 Computer Networks.
+Course Code :
+540809
+Credits : 3
+Class Hours: 60 hrs.
+Course Title :
+Industrial Management and Professionalism
+Introduction, evolution, management function, organization.
+Organization: Theory and structure, coordination, span of control, authority delegation, groups,
+committee and task force, manpower planning.
+Personnel  Management:  Scope,  importance,  need  hierarchy,  motivation,  job  redesign,
+leadership, participative management, training, performance appraisal, wages and incentives,
+informal groups, organization change and conflict.
+
+
+
+
+Cost and Financial Management: Elements of costs of products, depreciation, Break-even
+analysis, Investment Analysis, Benefit cost analysis.
+Management   accounting:   Cost   planning   and   control,   budget   and   budgetary   control,
+development planning process.
+Marketing Management: Concepts, strategy, sales promotion, patent laws.
+Technology Management: Management of innovation and changes, technology lifecycle.
+Meaning of ethics and engineering ethics. Ethical theories as tools in assessing ethical dilemmas,
+Codes of ethics of engineering societies as guides in resolving ethical dilemmas, Conflict of
+interest. Intellectual property, patents, trade secrets, confidentiality, Whistle blowing.
+Course Code :
+540810
+Credits : 1.5
+Class Hours: ---- hrs.
+Course Title :
+Project
+8th  Semester
+Year 4
+Course Code :
+540821
+Credits : 3
+Class Hours: 45hrs.
+Course Title :
+Computer Network Security
+Cryptography
+and
+Cryptography
+Algorithms:
+Traditional
+cryptography,
+Cryptanalysis, Private-key
+(Symmetric-key) and Public-key
+(asymmetric-key) cryptographic
+algorithms, DES and Block cipher modes, Advanced Encryption Standard (AES), RSA and other
+public key cryptosystems, Key Management, Diffie-Hellman key exchange, Elliptic curve
+cryptography. Cryptographic hash functions, Secure Hash Algorithms, Message authentication
+codes, Digital signatures and digital signature standard.
+Cryptography and Network Security: Data origin authentication and data integrity, Key
+distribution, Key management, Kerberos and X.509 authentication service, Certificate authority
+(CA) and public key infrastructure (PKI). E-mail security, PGP and S/MIME, IP Security
+(IPSec), Authentication header and ESP, Security associations, key management, Oakley key
+determination protocol and ISAKMP Web security considerations, secure socket layer (SSL) and
+transport layer security (TLS). Secure electronic transactions (SET).
+Recommended Books:
+
+
+
+
+1.   Hand Book of Applied Cryptography-Menezes, Van Oorschot and Vanstone, CRC press.
+2.   Cryptography and Network Security, Principles and Practice-William Stallings, Prentice Hall.
+3.   Applied Cryptography-Bruce Schneier.
+4.   Network Security-Kaufman, Perlman and Speciner.
+Course Code :
+540823
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Information Systems Management
+Information systems management: importance of information systems (IS) management, key trends that
+impacts IS Management, changes in organizational environment, changes in technology environments, IS
+organizational  models,  IS  management's  leadership  role,  New  Roles  of  IT,  Cox  Model  for  IT
+management, Roger Woolfe’s Federal Model for outsourcing, CIO roles in leading, governing, investing
+and managing, strategic uses of IT in B2E, B2C, B2B, G2P, IS planning, IS planning paradox, differences
+between strategic, tactical and operational planning, today’s sense and response strategy, different
+planning techniques including stages of growth, critical success factors, competitive forces model, value
+chain analysis, internet value matrix, linkage analysis planning and scenario planning;
+Managing essential technologies: attributes of distributed systems, different types of distributed systems
+including host-based hierarchy, decentralized standalone systems, peer-to-peer system, hybrid enterprise
+wide systems, client-server systems, internet based computing and web services, Four levels of IT
+infrastructure,   managing   telecommunications,   changes   of   infrastructure   in   telecommunications,
+transformation of telecommunication industries, wireless technology, managing information resources,
+managing data, giving shape to corporate data, enterprise resource planning, managing information
+resources,  types  of  information,  data  warehouses,  document  management,  content  management,
+managing operations, outsourcing IS functions, information security, business continuity planning;
+Managing system development: foundation of system development, structured development, fourth
+generation  language,  software  prototyping,  computer-aided  software  engineering,  object  oriented
+development, ERP systems integration, middleware inter-organizational system development, project
+management,  key  issues  of  IS  system  management,  designing  motivational  works,  rethinking
+maintenance works, improving legacy systems, measuring benefits of IS system as investment;
+Systems for supporting knowledge work: supporting decision-making, decision support systems, data
+mining, executive information systems, expert systems, real customer relationship management, real-time
+enterprise management, managing different types collaboration, groupware, virtual workforce, virtual
+
+
+
+
+organizations, knowledge management, intellectual capital issues, computer ethics and legal jurisdiction,
+information privacy, online contracting;
+Acquisition of hardware, software, networks, and services: request for proposal, acquisition methods
+(buy, rent, or lease) of software acquisition and analysis of alternatives among in-house development,
+outsourcing, purchasing and renting;
+People and technology: new work environment, organizing principles including self-organizing rather
+than designed, processes rather than functions, communities rather than groups, virtual rather than
+physical,  learning  organization,  Internet  mindset,  value  of  role  of  networks,  rules  of  networks,
+understanding users, executives understanding of IT, Technology camel.
+Recommended Books:
+Information Systems Management in Practice, 8th Edition, B McNurlin, R Sprague and T Bui.
+Optional Courses (Any Two)
+Course Code :
+540825
+Credits : 3
+Class Hours: 60 hrs.
+Course Title :
+Neural Networks and Deep Learning
+Preliminaries: Neural computations, Classifiers, Approximators, Simple memory and restoration
+patterns, Optimizing networks, Clustering and feature detecting networks, Development of
+artificial neural systems, Future trends.
+Fundamental concepts and models of artificial neural systems: Biological neuron and their
+artificial models, Models of artificial neural networks, McCulloch’s Pitts neural model, Feed
+forward and feedback network, Neural processing, Learning and adaptation, Neural network
+learning rules, Associative memory, BAM, MAM, FAM, Hopfield networks, Self organizing
+networks, ART networks, Back propagation network.
+Applications of neural algorithm and systems: Character recognition, Control networks, Robot
+kinematics, Expert systems.
+Recommended Books:
+1.   Introduction to Artificial Neural Systems by Jacek M. Zurada.
+2.   Artificial Intelligence by E Rich, McGraw-Hill
+3.   Neural Networks, A Comprehensive Foundation by Simon Haykin, Prentice-Hall, 1999.
+
+
+
+
+4.   Neural Networks: Algorithm, Application, and Programming Techniques, J. Freeman and D.
+Skapura, Addison-Wesley, 1992.
+5.   Adaptive Pattern Recognition and Neural Networks, Y-H Pao, Addison-Wesley, 1989.
+Course Code :
+540827
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Digital Image Processing
+Fundamentals of Digital Image Processing: Formation of an image, Imaging in the ultraviolet
+band, Imaging in the visible band, Imaging in the microwave band, imaging in the radio band, X-
+ray imaging, gamma ray imaging, Components of an image processing system, Steps in DIP.
+Digital Image: Elements of visual perception-structure of the human eye, image formation in the
+eye.
+Image Sensing and Acquisition: Image sensor, Sensor strip, Sensor arrays, Image formation
+model.
+Image Enhancement in the Spatial Domain: Gray level transformations, Histogram processing,
+Enhancement using arithmetic logic operations, spatial filtering, Smoothing and sharpening
+spatial filters.
+Image Enhance in the Frequency Domain: Fourier transform, 1D and 2D FT, Properties of 2D
+FT, DFT, FFT;  Smoothing frequency domain filters, Sharpning frequency domain filters,
+Homomorphic filtering.
+Image Restoration: Model of image restoration process, Restoration in the presence of noise,
+Estimation of the degradation function.
+Color Image Processing: Color models, Color Image processing, Color transformation, Color
+Image compression.
+Wevelet and Multiresolution Processing: Wavelet transforms.
+Image Compression: Image compression models.
+Recommended Books:
+1.   Digital Image Processing by Rafael C. Gonzalez and Richard E. Woods.
+2.   Fundamentals of Digital Image Processing, Anil K. Jain, Prentice Hall, 1989.
+3.   Digital Image Processing, Gonzalez and Woods, 2nd edition, Prentice Hall, 2001.
+4.   Digital Image Processing, William K. Pratt, 3rd Edition, John Wiley, 2001.
+5.   Digital Image Processing, Kenneth R. Castleman, Prentice Hall, 1996.
+
+
+
+
+Course Code :
+540829
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Information Theory and Coding
+Block and Convolutional Codes for High Spectral Efficiency: Trellis Coded Modulation (TCM),
+Coding  with  Diversity.  Turbo  Codes.  And  Iterative  Decoding:  MAP  Algorithms.  ARQ
+schemes.General concept of coding theory.Noise and error correcting codes. Linear codes
+including the Hamming, Golary, the Reed-Muller codes, Finite and Number Fields. Algebraic
+Function fields, algebraic curves and their applications, Cyclic codes (including the BCH, Reed-
+Solomon, Justesen, Goppa, and Quadratic Residue codes). Decoding techniques for some of these
+codes.Application to information processing. Information measures: entropy, relative entropy,
+and mutual information, Asymptotic equiparttition theory, Entropy rates, source coding and data
+compression,  unannei  capacity,  Differential  entropy  and  Gaussian  channel,  Rate-distortion
+theory.
+Recommended Books:
+1.   Information and Coding Theory (Springer Undergraduate Mathematics Series) by Gareth A.
+Jones, J. Mary Jones.
+2.   Theory of Information & Coding by Robert McEliece.
+3.   Fundamentals of Information Theory and Coding Design (Discrete Mathematics and Its
+Applications) by Roberto Togneri, Christopher J. S. Desilva.
+4.   Digital Communication by Simon Haykins.
+5.   Information Theory by Thomas & Cover.
+6.   The Theory of Information and Coding: Student Edition (Encyclopedia of Mathematics and
+its Applications) by R. J. McEliece
+Course Code :  540831
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Biomedical Instrumentation
+Human Anatomy and Physiology: Anatomy & Physiology of major systems of the body-
+generation   &   propagation   of   Bioelectric  potentials.  Transducers,   Leads   &   Electrodes:
+Transducers for biological applications types, properties, characteristics & selection.
+
+
+
+
+Leads & Electrodes: Types, materials, properties, characteristics. Method of application and
+selection-equivalent circuits of leads & electrodes. Fundamentals of biomaterials: Compatibility
+studies  of metals, ceramic plastics used in the implantable devices.
+EEG: Working principles, lead system & clinical applications
+EMG: Working principles, & clinical applications. Evoked potential systems, Audiometry.
+Therapeutic instruments: Diathermy, defibrillator, cardiac pacemakers, stimulators. Power
+source for implantable devices.Laser Applications in machine.
+X-Rays: Production & use in machine, basics of radiography, diagnostic & therapeutic-X-Ray
+film construction and processing, interaction with body. Fundamentals of Radiation Therapy.
+Blood pressure: Diastolic & Systolic measurement by invasive and non invasive methods-Ultra
+sound, Sphygmomanometer Automated methods-direct methods.
+Blood flow: Electro-magnetic, Ultrasound, Blood cell counters. Applications of Ultra sound-
+basic  physics  of  Ultra  sound  generation,  Echo  cardiography,  Modes  of  Scan,  Doppler
+measurements, Biological effects-colourdoppler.
+Recommended Books:
+1.   Principles of Applied Biomedical Instrumentation, Geddes and Baker.
+2.   Biomedical Instrumentation and Measurements, Cromwel.
+3.   Hand book of Bio-medical Instrumentation, R.S. Kandpur.
+4.   Fundamental Physics of Radiography, Massey andMeridith.
+5.   Medical Physics, Christanson.
+6.   Hand book of Analytical Equipment, R. S. Kandpur.
+Course Code :
+540833
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Radar and Navigation
+Fundamentals, Basic principle, Radar development, Applications of radar, Power, Frequencies
+used  in  Radar,  Factors  governing  radar  performance,  Radar  equation  and  range,  Factors
+influencing maximum range, Effect of noise, Types of Radar, CW & FM radar; Doppler effect;
+MTI & Pulse radar; Modulators, Multiple access techniques, Receivers, Duplexers, Radar
+antenna, Tracking radar and radar systems.
+Recommended Books:
+1.   Microwave and Radar Engineering by M. Kulkarni
+2.   Microwave Principle by J Reich
+
+
+
+
+3.   Microwave Devices and Circuits by Y. Liao
+4.   Introduction to Radar System by M. I. Skolnik.
+5.   Microwave Engineering by David M. Rozar.
+Course Code :
+540835
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+Radio and Television Engineering
+Introduction  to radio  frequencies;  Radio  frequency  amplifiers;  Amplitude modulation and
+demodulation, Angle modulation and demodulation, Frequency conversion and Mixing; Radio
+transmitter and receiver, Superheterodyne receiver, Antennas.
+Television fundamentals; Analysis and synthesis of TV pictures, Composite video signal, TV
+picture tube; TV cameras-types, construction and operating principle; Color signal; TV receivers;
+TV measurements; Colorimetry.
+Television transmission systems- PAL, SECAM and NTSC systems, TV signal transmission and
+distribution systems.
+Introduction to satellite TV receiver system-elements of the system and construction, creation and
+operational of the system.
+Recommended Books:
+1.   Standard Handbook of Video and Television Engineering, Author:  Jerry C. Whitaker, Blair
+Benson
+2.   TV and Video Engineer's Reference Book Author : K G Jackson and G B Townsend
+Course Code :
+540837
+Credits : 3
+Class Hours: 45 hrs.
+Course Title :
+VLSI Technology
+IC processing, Wafer production and clean room principles, silicon processing, Lithography,
+Oxidation, Doping techniques, Thin film deposition, Etching, Back-end technology, Layer
+processes used in IC fabrication, Designing a fabrication process to specifically meet physical and
+electrical specifications for the final chip, Integrating the fabrication steps, IC packaging, Yields
+in IC processing, Microsystem products, Microfabrication process, nanotechnology.
+
+
+
+
+CMOS  VLSI  design  process  and  focuses  on  design  at  the  circuit  and  physical  levels,
+Terminologies trends in VLSI design. MOS transistor theory, CMOS processing technology,
+resistance and capacitance estimation, CMOS design styles, NMOS and CMOS inverters, dc,
+transient and transfer characteristics. Designing and testing basic logic gates and other VLSI
+building blocks such as adders, multipliers, counters, barrel shifters, etc. using computer aided
+design tools and hardware in the laboratory.
+Recommended Books:
+1.   Silicon VLSI Technology: Fundamentals, Practice and Modeling by James D. Plummer,
+Michael D. Deal, Peter B. Griffin.
+2.   Solid State Electronic Devices by Ben Streetmen, Sanyay Banerjee, Prentice Hall.
+3.   Silicon VLSI Technology by James D. Plummer, Michael D. Deal, Peter B. Griffin, Prentice
+Hall.
+4.   Principles of CMOS VLSI Design by Neil H. E. Weste and Kamran Eshraghian, Addison
+Wesley.
+Course Code :
+540839
+Credits : 3
+Class Hours: 45hrs.
+Course Title :
+Bioinformatics
+Introduction; Molecular biology basics: DNA, RNA, genes, and proteins; Restriction mapping
+algorithm; Motif in DNA sequences, motif finding algorithms; Genome rearrangements, sorting
+by reversals and breakpoints; DNA sequence alignments; Gene prediction; Space-efficient
+sequence alignments, sub-quadratic alignment; DNA sequencing, genome sequencing, protein
+sequencing, spectrum graphs; Combinatorial pattern matching: Exact pattern matching, heuristic
+similarity  search  algorithms,  approximate  string  matching,  BLAST,  FASTA; Clustering:
+Microarrays, hierarchical clustering, K-means clustering, corrupted cliques problem, CAST
+clustering algorithm; Evolutionary trees.
+Recommended Books:
+1.   Bioinformatics: An Introduction, Authors: Ramsden, Jeremy, Springer Publication.
+2.   Introduction to Bioinformatics, Authors: Teresa Attwood, David Parry-Smith, ; Prentice Hall
+
+
+
+
+Course Code :
+540840
+Credits : 3
+Class Hours: --- hrs.
+Course Title :
+Project Report and Project Defense
+The project work must be started in the 7th semester of the 4th year and it must be completed by
+the end of 8th semester. The project work must be carried out under the supervision of a teacher.
+Group projects may be allowed but a group must not consist of more than two students. A project
+report will be submitted after the completion of the project work. A panel of examiners appointed
+by the National University will conduct the project defense and also evaluate the project report.
+The evaluation of project work carrying 200 marks is as follows:
+a.   Project Report
+100 marks.
+b.   Project Defense
+100 marks.
+
