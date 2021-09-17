@@ -35,7 +35,7 @@ int main() {
 
 string courseTableCreateQuery() {
     string createQuery = "CREATE TABLE IF NOT EXISTS course"
-                         "(id INTEGER PRIMARY KEY, uuid TEXT, sync INTEGER, created_at TEXT, updated_at TEXT,"
+                         "(id INTEGER PRIMARY KEY, uuid TEXT, sync INTEGER, favorite INTEGER, created_at TEXT, updated_at TEXT,"
                          "code TEXT, marks TEXT, hour TEXT, credit TEXT, title TEXT, major TEXT, year TEXT, semester TEXT, department TEXT, content TEXT, book TEXT"
                          ")";
     return createQuery;

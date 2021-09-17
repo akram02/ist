@@ -1,4 +1,6 @@
 #include<bits/stdc++.h>
+#include <sqlite3.h>
+
 #pragma once
 using namespace std;
 

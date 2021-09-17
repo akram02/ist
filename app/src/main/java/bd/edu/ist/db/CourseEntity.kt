@@ -17,6 +17,9 @@ class CourseEntity {
     @ColumnInfo(name = "sync")
     var sync: Boolean? = false
 
+    @ColumnInfo(name = "favorite")
+    var favorite: Boolean? = false
+
     @ColumnInfo(name = "created_at")
     var createdAt: String? = ""
 
