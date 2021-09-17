@@ -1,4 +1,4 @@
-package org.istbd.IST_Syllabus
+package bd.edu.ist
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Column
@@ -9,7 +9,7 @@ import androidx.compose.material.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.painterResource
-import org.istbd.IST_Syllabus.ui.theme.ISTTheme
+import bd.edu.ist.ui.theme.ISTTheme
 
 @Composable
 fun StartActivityContent() {

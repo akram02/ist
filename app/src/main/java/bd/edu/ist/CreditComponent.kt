@@ -1,4 +1,4 @@
-package org.istbd.IST_Syllabus
+package bd.edu.ist
 
 import android.os.Bundle
 import android.widget.TextView
@@ -18,7 +18,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.viewinterop.AndroidView
-import org.istbd.IST_Syllabus.ui.theme.ISTTheme
+import bd.edu.ist.ui.theme.ISTTheme
 
 class Credit : ComponentActivity() {
     public override fun onCreate(savedInstanceState: Bundle?) {

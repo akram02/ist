@@ -1,4 +1,4 @@
-package org.istbd.IST_Syllabus.ui.theme
+package bd.edu.ist.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

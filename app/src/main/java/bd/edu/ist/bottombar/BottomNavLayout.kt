@@ -1,4 +1,4 @@
-package org.istbd.IST_Syllabus
+package bd.edu.ist
 
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.AnimationSpec

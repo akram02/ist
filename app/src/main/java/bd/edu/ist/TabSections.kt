@@ -1,4 +1,4 @@
-package org.istbd.IST_Syllabus
+package bd.edu.ist
 
 enum class TabSections(
     val title: String,

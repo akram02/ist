@@ -9,7 +9,7 @@ android {
     buildToolsVersion "31.0.0"
 
     defaultConfig {
-        applicationId "org.istbd.IST_Syllabus"
+        applicationId "bd.edu.ist"
         minSdkVersion 21
         targetSdkVersion 31
         versionCode 2

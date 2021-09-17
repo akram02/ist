@@ -1,4 +1,4 @@
-package org.istbd.IST_Syllabus
+package bd.edu.ist
 
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.padding
@@ -8,7 +8,7 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import com.google.accompanist.pager.ExperimentalPagerApi
-import org.istbd.IST_Syllabus.db.CourseEntity
+import bd.edu.ist.db.CourseEntity
 
 
 @ExperimentalPagerApi

@@ -1,4 +1,4 @@
-package org.istbd.IST_Syllabus
+package bd.edu.ist
 
 import androidx.annotation.FloatRange
 import androidx.compose.foundation.layout.Box

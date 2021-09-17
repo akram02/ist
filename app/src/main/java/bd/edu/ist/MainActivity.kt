@@ -1,4 +1,4 @@
-package org.istbd.IST_Syllabus
+package bd.edu.ist
 
 import android.os.Bundle
 import androidx.activity.compose.setContent
@@ -10,8 +10,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.lifecycle.ViewModelProvider
 import com.google.accompanist.pager.ExperimentalPagerApi
-import org.istbd.IST_Syllabus.db.CourseEntity
-import org.istbd.IST_Syllabus.ui.theme.ISTTheme
+import bd.edu.ist.db.CourseEntity
+import bd.edu.ist.ui.theme.ISTTheme
 
 var tab = arrayOf(
     "1st Semester" to "1st",

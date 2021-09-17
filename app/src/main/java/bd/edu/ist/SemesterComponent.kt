@@ -1,4 +1,4 @@
-package org.istbd.IST_Syllabus
+package bd.edu.ist
 
 import android.graphics.Color
 import android.widget.TextView
@@ -16,15 +16,13 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.text.SpanStyle
-import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.viewinterop.AndroidView
-import org.istbd.IST_Syllabus.db.CourseEntity
-import org.istbd.IST_Syllabus.ui.theme.WHITE
-import org.istbd.IST_Syllabus.ui.theme.ISTTheme
+import bd.edu.ist.db.CourseEntity
+import bd.edu.ist.ui.theme.ISTTheme
 
 
 @Composable

@@ -1,4 +1,4 @@
-package org.istbd.IST_Syllabus
+package bd.edu.ist
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -17,9 +17,9 @@ import com.google.accompanist.pager.ExperimentalPagerApi
 import com.google.accompanist.pager.HorizontalPager
 import com.google.accompanist.pager.rememberPagerState
 import kotlinx.coroutines.launch
-import org.istbd.IST_Syllabus.db.CourseEntity
-import org.istbd.IST_Syllabus.ui.theme.BLACK
-import org.istbd.IST_Syllabus.ui.theme.WHITE
+import bd.edu.ist.db.CourseEntity
+import bd.edu.ist.ui.theme.BLACK
+import bd.edu.ist.ui.theme.WHITE
 
 
 @ExperimentalPagerApi

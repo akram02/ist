@@ -1,4 +1,4 @@
-package org.istbd.IST_Syllabus.db
+package bd.edu.ist.db
 
 import android.content.Context
 import androidx.room.Database

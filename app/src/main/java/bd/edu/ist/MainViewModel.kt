@@ -1,11 +1,11 @@
-package org.istbd.IST_Syllabus
+package bd.edu.ist
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import kotlinx.coroutines.launch
-import org.istbd.IST_Syllabus.db.CourseEntity
-import org.istbd.IST_Syllabus.db.ISTDatabase
+import bd.edu.ist.db.CourseEntity
+import bd.edu.ist.db.ISTDatabase
 
 class MainViewModel: ViewModel() {
     val course = MutableLiveData<List<CourseEntity>>()

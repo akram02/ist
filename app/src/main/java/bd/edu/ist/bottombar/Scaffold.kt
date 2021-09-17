@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.istbd.IST_Syllabus
+package bd.edu.ist
 
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.shape.RoundedCornerShape

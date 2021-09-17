@@ -1,7 +1,7 @@
-package org.istbd.IST_Syllabus
+package bd.edu.ist
 
 import android.app.Application
-import org.istbd.IST_Syllabus.db.ISTDatabase
+import bd.edu.ist.db.ISTDatabase
 
 class IstApplication : Application() {
     override fun onCreate() {

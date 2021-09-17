@@ -1,4 +1,4 @@
-package org.istbd.IST_Syllabus.ui.theme
+package bd.edu.ist.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

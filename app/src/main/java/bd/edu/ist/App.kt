@@ -1,4 +1,4 @@
-package org.istbd.IST_Syllabus
+package bd.edu.ist
 
 import androidx.compose.material.Scaffold
 import androidx.compose.material.Surface
@@ -8,8 +8,8 @@ import androidx.compose.ui.res.colorResource
 import androidx.navigation.compose.rememberNavController
 import com.google.accompanist.insets.ProvideWindowInsets
 import com.google.accompanist.pager.ExperimentalPagerApi
-import org.istbd.IST_Syllabus.db.CourseEntity
-import org.istbd.IST_Syllabus.ui.theme.ISTTheme
+import bd.edu.ist.db.CourseEntity
+import bd.edu.ist.ui.theme.ISTTheme
 
 
 @ExperimentalPagerApi
