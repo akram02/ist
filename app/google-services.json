@@ -7,6 +7,35 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:23939513733:android:f921b437883332fdc8d8ec",
+        "android_client_info": {
+          "package_name": "bd.edu.ist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23939513733-coif5n42cpqsrqpvchvtq5g5n0h8mjok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATOceQcsMPZwqx3Em-c-m1xrvcESZ4mmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23939513733-coif5n42cpqsrqpvchvtq5g5n0h8mjok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:23939513733:android:d2575f73e13869bac8d8ec",
         "android_client_info": {
           "package_name": "org.istbd.IST_Syllabus"
