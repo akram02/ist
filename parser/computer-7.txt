@@ -1,0 +1,1324 @@
+convert by https://pdf.online/convert-pdf-to-html
+
+
+
+pdf-html
+
+
+
+
+
+
+
+
+
+
+BANGLADESH TECHNICAL EDUCATION BOARD
+Agargaon, Dhaka-1207
+4-YEAR DIPLOMA-IN-ENGINEERING PROGRAM
+SYLLABUS (PROBIDHAN-2016)
+COMPUTER SCIENCE & TECHNOLOGY
+TECHNOLOGY CODE: 685
+7th SEMESTER
+
+
+DIPLOMA IN ENGINEERING
+PROBIDHAN-2016
+COMPUTER SCIENCE & TECHNOLOGY 9685)
+7th SEMESTER
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marks
+ 
+ 
+
+
+
+Sl.
+Subject
+Name of the subject
+T
+P
+C
+Theory
+Practical
+Total
+
+
+
+No
+Code
+Cont.
+Final
+Cont.
+Final
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+assess
+exam
+assess
+exam
+ 
+
+
+
+1
+68571
+Digital Marketing
+2
+3
+3
+40
+60
+25
+25
+150
+
+
+
+Techniques
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+2
+68572
+Information Management &
+2
+3
+3
+40
+60
+25
+25
+150
+
+
+
+Security System
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+3
+68573
+Scripting with Python
+2
+3
+3
+40
+60
+25
+25
+150
+
+
+
+4
+68574
+Computer Science Project
+0
+6
+2
+00
+00
+50
+50
+100
+
+
+
+6
+66671
+System Analysis and Design
+2
+3
+3
+40
+60
+25
+25
+150
+
+
+
+5
+66673
+Apps Development Project
+0
+6
+2
+00
+00
+50
+50
+100
+
+
+
+7
+66853
+Innovation &
+2
+0
+2
+40
+60
+00
+00
+100
+
+
+
+Entrepreneurship
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+Total
+10
+24
+18
+200
+300
+200
+200
+900
+
+
+
+
+
+
+
+
+68571
+Digital Marketing Techniques
+T
+P
+C
+
+
+ 
+ 
+2
+3
+3
+
+
+AIMS
+∙Assess the impact of digital technology on the practice of marketing.
+∙To be able to acquire the knowledge on SEO.
+∙To be able to acquire the knowledge on Web Site Analytics.
+∙To be able to acquire the knowledge of Social Media Marketing.
+∙To be able to acquire the knowledge of Mobile Marketing.
+∙To be able to acquire the knowledge and skills on the Strategy & Planning of Digital Marketing.
+∙To be able to acquire the knowledge and skills on Ad sense.
+∙To be able to acquire the knowledge and skills on Ecommerce and Payment Gateway.
+∙Develop a plan for marketing a product of business online.
+∙Grow your own online business from scratch.
+SHORT DESCRIPTION
+Digital Marketing, SEO, Web site Analytics, Social media marketing, Mobile marketing, Strategy & Planning of Digital Marketing, Ad sense, Ecommerce, Payment Gateway .
+DETAIL DESCRIPTION
+Theory:
+1.Introduction to Digital Marketing.
+1.1Define digital marketing.
+1.2Define digital marketing and traditional marketing.
+1.3Elaborate the history of Digital Marketing.
+1.4Describe the types of digital marketing.
+1.5State about the digital marketing channels.
+1.6Benefit of the digital marketing
+1.7Describe the key elements of a digital marketing strategy
+2.Understand Search Engine Optimization
+2.1Describe search engine optimization.
+2.2Define types of search engine.
+2.3Define SEO tools.
+2.4Explain Content Optimization and Submission
+2.5Explain website performance optimization index.
+2.6Explain expert link building techniques.
+3.Understand Search Marketing (PPC)
+3.1Define Key PPC Concepts.
+3.2Describe Strengths of Pay Per Click.
+3.3Explain Google PPC.
+3.4Describe Research Tools & Search Campaign Process
+3.5Classify Conversion Metrics of CPA, CTR.
+
+
+4.Understand Website Analytics.
+4.1Define analytics for a website.
+4.2Define analytics tools for website.
+4.3Describe the purpose of web analytics
+4.4State the important analytics data first.
+4.5Explain baseline creating and rank checking.
+4.6Explain the importance of keyword selection.
+5.Understand the concept of Social Media Marketing.
+5.1Define social media marketing.
+5.2Define the functionality of LinkedIn, Facebook, and Twitter.
+5.3Explain the benefit of social media marketing.
+5.4Explain The Social Media Marketing Planning Cycle
+5.5Describe Target Market Identification
+5.6Describe Goal Setting and Strategy Development
+5.7Classify Marketing through Podcasts and Webinars
+5.8Describe Marketing through Video and Photo Sharing
+6.Understand the basic concept of Email Marketing.
+6.1Define Email marketing.
+6.2Define types of Email marketing.
+6.3State the email marketing challenges & solutions.
+6.4Describe the complaints and dispute resolution.
+6.5Describe campaign creation.
+6.6Describe Email design and layout.
+6.7Describe Email segmentation
+6.8Describe Email performance metrics and measurement
+7.Understand the Mobile Marketing.
+7.1Define about mobile marketing.
+7.2Describe Mobile Marketing Technology & Reach
+7.3Describe Mobile Marketing Strategy & Polices
+7.4Explain SMS Campaign.
+7.5Classification of mobile marketing.
+8.Understand Display advertising.
+8.1Define Display Advertising.
+8.2Descrive how Display Ads Works.
+8.3Discuss benefits of Display Advertising.
+8.4Describe planning process of Display Advertising.
+8.5List& uses of Display Planner Tools.
+8.6Describe Display campaign reporting.
+9.Link building Techniques
+9.1Quality or Quantity?
+9.2The reasons behind to choose link of quality over quantity
+9.3Social signals and its importance in faster indexing
+9.4The way of creating social signals
+9.5Define blog
+9.6Introduction with Web 2.0 sites and link building Strategy using Web 2.0 sites
+
+
+9.7Define a forum.
+9.8Strategy to getting quality backlinks from forums.
+9.9Different Link building techniques
+10.Understand the Ad sense.
+10.1Understand Affiliate Marketing
+10.2List of sources to Make Money Online.
+10.3Describe selection steps of Affiliate Program.
+10.4Define Applying step for an Affiliate.
+10.5Explain Building Assets for Affiliate.
+10.6Describe Google AdSense Account Setup process.
+10.7State Allowing and Blocking Ads.
+10.8Explain AdSense Administration.
+11.Manipulate the Strategy & Planning of Digital Marketing.
+11.1Define digital strategy and planning.
+11.2Describe appropriate tools.
+11.3State the Targeting and segmentation.
+11.4Describe proposition and the marketing mix.
+11.5Explain Content and engagement strategy.
+11.6Classification of Iteration & Enhancement.
+12.Ecommerce and Payment Gateway.
+12.1Define eCommerce Business.
+12.2Describe planning eCommerce Website.
+12.3Explain a effective eCommerce Website layout.
+12.4Describe various online payment methods
+PRACTICAL:
+1.Domain &Web site hosting activities.
+1.1Purchase a corporate domain.
+1.2Register a domain.
+1.3Renew a registered domain.
+1.4Manage a online hosting server.
+1.5Publish a corporate web site on online hosting server.
+2.Works on SEO.
+2.1Analysis & Review of web site.
+2.2Perform Keyword Research & Selection.
+2.3Update Content & Layout.
+2.4Create Meta Tags.
+2.5Design SEO Site Map.
+2.6Use SEO Webmaster Tools.
+2.7Perform Off-Page Optimisation.
+2.8Perform Inbound Links & Link Building.
+2.9Implement Laws & Guidelines.
+
+
+3.Works on Social media marketing.
+3.1Setup social media accounts for Facebook, Twitter, Google Plus, Linkedin etc .
+3.2Manage social media accounts.
+3.3Create posts for various social media
+3.4Publish, manage & update posts on social media.
+3.5Analysis user responses & take necessary actions.
+3.6Create & manage Facebook events.
+3.7Plan for Ads (Free & Paid).
+3.8Publish & boosting Ads.
+4.Perform Display advertising activities.
+4.1Track your Campaign
+4.2Optimize the Campaign
+4.3Campaign Planning
+4.4Run Effective Ad
+5.Manage Video Marketing.
+5.1Create Account and Channel in YouTube, Meta Cafe etc
+5.2Design the YouTube Channel
+5.3Create &Promote videos on YouTube
+5.4Customize the YouTube Channel
+5.5Perform live broadcast.
+6.Perform Email Marketing.
+6.1Setup& manage email accounts.
+6.2Setup & manage email client software.
+6.3Manage email lists.
+6.4Plan & design email templates for campaign.
+6.5Perform email marketing.
+7.Works on Mobile Marketing.
+7.1Plan SMS Strategy.
+7.2Plan Mobile Advertising.
+7.3Analyze Mobile Optimized Websites.
+7.4Step Process for Mobile Apps.
+7.5Proximity Marketing.
+7.6Implement Strategic Steps.
+7.7Develop a corporate mobile app.
+7.8Review & Testing.
+8.Works Affiliate Marketing and AdSense.
+8.1Select Affiliate Program.
+8.2Apply for an Affiliate.
+8.3Build Assets for Affiliate Promotion.
+8.4Select Payments and Payouts.
+8.5Choose CPC, CPA, CPI and other metrics.
+8.6Perform Day to Day Work Scheduling.
+8.7Manage Affiliate Accounts.
+8.8Setup & manage Google AdSense Account.
+
+
+9.Perform Strategy & Planning activities.
+9.1Perform Situation Analysis, Planning, Budget& Measurement.
+9.2Perform Information Gathering & Research activities.
+9.3Works on Key Strategy & Planning Concepts & Methodologies.
+9.4Best Practice Case Studies.
+10.Project (Any one):
+10.1Develop Complete SEO Audit with Keywords Research.
+10.2Develop AdWords Campaign: Search, Display, Video, Remarketing.
+10.3Develop a Complete Social Media Asset.
+Note: Prepare a PowerPoint Presentation (PPT) on project report.
+REFERENCE BOOK:
+1.Social Media Explained: Untangling the World’s Most Misunderstood Business Trend, Revised and Expanded -Mark Schaefer
+2.Inbound Marketing: Get Found Using Google, Social Media, and Blogs-Brian Halligan, Dharmesh Shah
+3.The Art of Social Media: Power Tips for Power Users-Guy Kawasaki, Peg Fitzpatrick
+REFERENCE WEB SITE:
+1.https://www.tutorialspoint.com/social_media_marketing/
+2.https://www.eduonix.com/complete-guide-to-social-media-marketing
+3.https://neilpatel.com/what-is-affiliate-marketing/
+4.https://ads.google.com/home/
+5.https://www.youtube.com/creators/
+6.https://neilpatel.com/
+
+
+
+
+
+
+
+68572
+Information Management & Security System
+T
+P
+C
+
+
+ 
+ 
+2
+3
+3
+
+
+AIMS
+∙To be able to explain various Information Management Security System threat and controls.
+∙To be able to analyze a security incidents and design countermeasures.
+∙To be able to explain information management security system incident response.
+∙To be able to explain the usage of Common Key cryptography and Public Key cryptography.
+∙To be able to explain the mechanism to protect confidentiality and completeness of data.
+SHORT DESCRIPTION
+Fundamentals of information management security, in both management and technical aspect//Different kinds of security incidents and attacks//Techniques to prevent, detect and react on incidents and attacks//Basics of cryptography// Key technology to implement security//Presentation of their study project for a topic related to information management security.
+DETAIL DESCRIPTION
+THEORY
+1.Overview of Information Management Security
+1.1Define Information Management System
+1.2Define Information Security System
+1.3Define Information Management Security
+1.4Define Information Security Strategy Development
+1.5Discuss the examples of Information Management Security Incidents
+1.6Discuss relevant information on security policies, standards, frameworks, & issuing bodies
+2.Discuss Basics of Information Security and Human aspects
+2.1Describe the three concepts of Information Security (Confidentiality, Integrity, Availability)
+2.2Explain the basic terminologies in Information Security
+2.3Describe Human Aspect of Information Security
+2.4Describe Social Engineering
+3.Explain Information Security for Server system
+3.1Discuss Attacks to Server Systems connected to the Internet and counter measures
+3.2Discuss Attacks to Web Servers and counter measure
+3.3Explain Denial of Service Attack
+3.4Describe Attacks to Network Systems
+4.Explain Information Security for Client Devices
+4.1Explain Attacks for Personal Computers and Smart phones, and counter measure
+4.2Discuss how the malicious software intrudes the device
+4.3Describe what are the malicious software does to the system
+4.4Define and Discuss about Stolen and Lost Devices
+
+
+5.Discuss Information Security Risk Management
+5.1Define Risk Management Concepts, Process and Framework
+5.2Identify Threat and Vulnerability
+5.3Explain Risk, threat, & vulnerability management life cycle
+5.4Discuss Information Assets
+5.5Discuss Security Risk and evaluation
+5.6Explain risk assessment analysis, methodologies
+5.7Discuss Risk treatment
+6.Discuss Security Risk Management as an Organization
+6.1Overview of Information Security Governance
+6.2Discuss Information Security Management System (ISMS)
+6.3Explain Information Security Policy, Standards and Procedures
+6.4Explain Information Security Evaluation
+7.Discuss Security Incident Response
+7.1Define Security Incident Response
+7.2Define Computer Security Incident Response Team
+7.3Discuss Incident Response Process
+7.4Discuss Response Team Activities
+8.Discuss Information Security and Cryptography
+8.1Describe the requirement for secure communication.
+8.2Define Cryptography
+8.3Discuss Classic Cryptography
+8.4Explain Modern Cryptography
+8.5Discuss Common Key Cryptography algorithm: DES, Triple DES, AES
+8.6Explain Encryption modes
+9.Discuss Public Key Cryptography
+9.1Discuss problems of key distribution for common key cryptography
+9.2Define Public Key Cryptography
+9.3Discuss RSA
+9.4Explain Hybrid Encryption
+9.5Explain Recommended Ciphers
+10.Discuss Data Integrity and Digital Signature
+10.1Discuss Integrity of Data
+10.2Explain Hash Function
+10.3Discuss Digital Signature
+11.Discuss Public Key Certificate and PKI
+11.1Discuss Digital Signature of Public Key
+11.2Explain Public Key Infrastructure
+11.3Discuss Certificate Authority
+12.Discuss Cyber Security
+12.1Define Cyber Security
+12.2Explain the importance of Cyber Security
+12.3Describe the types of Cyber Security Threats
+
+
+12.4Describe the elements of Cyber Security
+12.5.Describe Cyber Security Challenges
+PRACTICAL
+1.Perform Information Security Risk Management Exercise
+1.1Identify Information Assets
+1.2Identify Security Risk and evaluation
+1.3Perform listing Risk Treatment
+1.4Prepare presentation of exercise result
+2.Perform Security Incident Response Exercise
+2.1Identify Security Incident Events
+2.2Identify Response Lists
+2.3Perform Response Tasks
+2.4Prepare Presentation of exercise result
+3.Perform Common Key Cryptography exercise
+3.1Exercise on Common Key Cryptography
+3.2Work with Key Selection File
+3.3Work with Encoding
+3.4Prepare Plaintext and Cipher Text File
+3.5Prepare Decoding Sheet
+4.Perform Public Key Cryptography Exercise
+4.1Exercise on Public Key Cryptography
+4.2Work with Key Selection File
+4.3Work with Encoding
+4.4Prepare Plaintext and Cipher Text File
+4.5Prepare Decoding Sheet
+4.6Exercise on Hybrid Encryption
+5.Perform PKI Exercise
+5.1Establishing the Standalone CA and subordinate CA
+5.2Install a stand-alone root certification authority
+5.2.1Logon to the system
+5.2.2Step by step to install the certificate
+5.3Install a stand-alone subordinate certification authority
+5.3.1Logon to the system and Obtain the certificate for the subordinate
+5.3.2Step by step to install the certificate
+6.Perform Malware Investigation Exercise
+6.1Use web browser to investigate the technical difference a virus, a worm and a Trojan horse.
+6.2Identify results by searching separately and all together
+6.3Identify the search result differences.
+6.4Add word “computer” and perform the job again.
+6.5Prepare a work definition of each.
+6.6Run “netstat –an” command on different computer.
+
+
+6.7Consider the output, identify the differences.
+6.8Prepare a presentation of exercise result
+7.Perform Firewall and Intrusion Detection System Exercise
+7.1Install Ubuntu as Operating System
+7.2Install Snort
+7.3Configure and Start the Snort IDS
+7.4Write and Add some Snort Rules
+7.5Triggering an Alert for new rule
+REFERENCE BOOKS
+1.Title: Principles of Information Security
+Author: Michael E. Whitman and Herbert J. Mattord
+Publisher: Cengage Learning;
+ISBN: 1285448367
+2.Title: Understanding Cryptography: A Textbook for Students and Practitioners
+Author: Christof Paa and Jan Pelzl
+Publisher: Springer
+ISBN: 3642041000
+REFERENCE WEBSITES
+1.www.cca.gov.bd
+2.www.snort.org
+3.www.isaca.org/pages/default.aspx
+4.www.en.wikipedia.org/wiki/Public_key_infrastructure
+5.www.en.wikipedia.org/wiki/Cryptography
+6.www.en.wikipedia.org/wiki/Security_information_management
+7.www.scholar.google.com/scholar?q=information+management+and+security+system
+8.https://searchsecurity.techtarget.com/definition/cybersecurity
+
+
+
+
+
+
+
+68573
+Scripting with Python
+T
+P
+C
+
+
+ 
+ 
+2
+3
+3
+
+
+OBJECTIVES
+∙To develop knowledge and skill on Scripting with Python.
+∙To develop knowledge and skill to write non trivial Python programs dealing with a wide variety of subject matter domains.
+∙To develop knowledge and skill on language components, the IDLE/IDE environment, control flow constructs, strings, I/O, collections, classes, modules, and regular expressions, Database Access, Network Programming, Web Scraping
+SHORT DESCRIPTION
+Execute Python code in a variety of environments; Correct Python syntax; Control flow construct; Collection data types; Home grown Python functions; Modules such as os, sys, math, and time; Python Exception Handling model; IO model; Python classes; Regular Expression capabilities for data verification, Database Access, Network Programming, Web Scraping.
+DETAIL DESCRIPTION
+Theory:
+1.Basic Python Syntax
+1.1.Describe the Basic Syntax
+1.2.Explain Python Comments
+1.3.Explain String Methods
+1.4.Explain String Values
+1.5.State the format Method
+1.6.Explain String Operators
+1.7.Describe the Numeric Data Types
+1.8.Explain Conversion Functions
+1.9.State Simple Input /Output
+2.Language Components
+2.1.State indenting Requirements
+2.2.Explain the if Statement
+2.3.Describe Relational and Logical Operators
+2.4.Describe Bit Wise Operators
+2.5.State the while Loop
+2.6.State break and continue
+2.7.State the for Loop
+3.Understand Collections
+3.1.State the basic concept of collection
+3.2.Define Lists and its type
+3.3.Assigning values in Tuples
+3.4.Define Sets
+3.5.State Dictionaries
+3.6.State Sorting Dictionaries
+
+
+3.7.State Copying Collections
+4.Understand Functions
+4.1.Define Parameters
+4.2.Explain Keyword and Optional Parameters
+4.3.Explain Passing Collections to a Function
+4.4.Define the Scope of function
+4.5.Define map and filter
+4.6.Describe the Mapping Functions in a Dictionary
+4.7.Define Lambda
+4.8.Discuss Inner Functions
+4.9.Define Closures
+5.Understand Modules
+5.1.Define Modules
+5.2.State Standard Modules - sys
+5.3.State Standard Modules - math
+5.4.State Standard Modules - time
+5.5.State the dir Function
+6.Understand Exceptions
+6.1.Define Errors
+6.2.Describe Runtime Errors
+6.3.Discuss the Exception Model
+6.4.Define Exception Hierarchy
+6.5.Describe Handling Multiple Exceptions
+6.6.Define Raise
+6.7.Define assert
+7.Understand Input and Output
+7.1.Discuss the basic concept of I/O
+7.2.Define Data Streams
+7.3.Creating Your Own Data Streams
+7.4.State Access Modes
+7.5.Writing Data to a File
+7.6.Reading Data From a File
+7.7.State the Additional File Methods
+7.8.Using Pipes as Data Streams
+7.9.Handling IO Exceptions
+8.Understand Classes in Python
+8.1.Define Class
+8.2.Describe Principles of Object Orientation
+8.3.Creating Classes
+8.4.State Instance Methods
+8.5.State File Organization
+8.6.State Special Methods
+8.7.State Class Variables
+8.8.Explain Inheritance
+8.9.Explain Polymorphism
+
+
+9.Understand Regular Expressions
+9.1.State Quantifiers
+9.2.Define the Dot Character
+9.3.Define Greedy Matches
+9.4.Define Grouping
+9.5.State Matching at Beginning or End
+9.6.State Match Objects
+9.7.Define Substituting
+9.8.Splitting a String
+9.9.Compiling Regular Expressions
+10.Understand Database Access
+10.1.Create Database Connection
+10.2.Creating Database Table
+10.3.INSERT Operation
+10.4.READ Operation
+10.5.Update Operation
+10.6.DELETE Operation
+10.7.Performing Transactions
+10.8.COMMIT Operation
+10.9.ROLLBACK Operation
+11.Understand Network Programming
+11.1.Define Sockets
+11.2.State the Socket Module
+11.3.Explain Server Socket Methods
+11.4.Explain Client Socket Methods
+11.5.Explain General Socket Methods
+11.6.Define A Simple Server
+11.7.Define A Simple Client
+11.8.State Python Internet modules
+12.Understand Web Scraping
+12.1.Define Web Scraping
+12.2.Origin of Web Scraping
+12.3.Web Crawling v/s Web Scraping
+12.4.Uses of Web Scraping
+12.5.Components of a Web Scraper
+12.6.Working of a Web Scraper
+12.7.Create Dynamic Website
+12.8.Approaches for Scraping data from Dynamic Websites
+PRACTICAL:
+Perform the tasks to develop the following projects using Python programming language:
+1. A Simple Calculator
+2. Alarm clock using Python
+3. Currency convertor app using Python
+4. Digital display application using Python
+5. Password Generator Solutions
+6. List Remove Duplicates Solutions
+7. XML parsing in Python
+
+
+8.Twitter Sentiment Analysis using Python
+9.Working with Images in Python
+10.Simple Chat Room using Python
+11.Implementing Web Scraping in Python with Beautiful Soup
+12.Computer Vision module application for finding a target in a live camera
+Each Project must follow the following steps:
+∙Write the objectives of the proposed project.
+∙Design the user interface of the proposed project in paper.
+∙Create different forms, buttons, label, text box, check box, combo box and menus according to the need of the project.
+∙Create table if necessary.
+∙Write codes for the above objects.
+∙Run and test the program.
+∙Debug and modify the program if needed.
+∙Prepare user manual.
+∙Write a detail report about the developed project.
+∙Prepare a Power Point Presentation for Submit the project
+REFERENCE BOOKS:
+1.Learning Python by Mark Lutz; Pratham Books, Bangalore
+2.Foundations of Python Network Programming by John Goerzen and Brandeu Rhodes; Apress-eBook distributed by Springer Science and Business Media, New York
+3.Dive Into Python by Mark Pilgrim; Pratham Books, Bangalore
+4.Think Python by Allen B. Downey; O’Reily Media
+5.Python Programming For Beginners: A Must Read Introduction to Python Programming by Robert Richards; Pratham Books, Bangalore
+6.e-books/e-tools/relevant software to be used as recommended by
+AICTE/HSBTE/NITTTR.
+Websites for Reference:
+1.http:// python.howtocode.com.bd
+2.http:// www.learnpython.org
+3.http://pythontutor.com
+
+
+
+
+
+
+
+68574
+Computer Science Project
+T
+P
+C
+
+
+ 
+ 
+0
+6
+2
+
+
+AIMS
+•To be able to understand the project concept paper (PCP)
+•To be able to develop knowledge, skill and attitude of preparing different stages of computer software related project
+•To be able to gather experience of writing report on project work.
+SHORT DESCRIPTION
+Information management system, Control system, Packages, Educational software.
+DETAIL DESCRIPTION
+PROJECT:
+1.Perform the tasks to develop any one of the following software using standard programming language and necessary tools (Python/ Java/ C/C++/C#/Visual programming/ MySQL/PostgreSQL/Oracle/ HTML/XML/JS/CSS etc.).
+∙Polytechnic institute management system
+∙School management system
+∙Hotel management system
+∙Accounting software
+∙Transport ticketing management system
+∙Departmental store management system
+∙Admission management system
+∙Billing management system.
+∙Library management system
+∙Online voting system
+∙Any other computerized system/control system/ network system/ packages/ educational software.
+1.1.State the abstract PCP of the proposed software.
+1.2.Write the objectives of the proposed software.
+1.3.Design the user interface of the proposed software in paper.
+1.4.Choose an appropriate programming language.
+1.5.Create different forms, buttons, label, text box, check box, combo box and menus according to the need of the software.
+1.6.Create table if necessary.
+1.7.Write codes for the above objects.
+1.8.Run and test the program.
+1.9.Debug and modify the program if needed.
+1.10.Prepare user manual.
+1.11.Write a detail/complete report about the developed software.
+1.12.Prepare a Power Point Presentation (PPT) on the Project Report.
+
+
+REFERENCE WEB ADDRESS AND BOOKS
+1.https://www.postgresql.org/
+2.https://www.oracle.com
+3.https://dotnet.microsoft.com/
+4.https://www.java.com/en/
+5.https://www.mysql.com/
+6.https://www.w3schools.com/html/
+7.https://isocpp.org/
+8.https://www.python.org/
+
+
+
+
+
+
+
+66671
+SYSTEM ANALYSIS & DESIGN
+T
+P
+C
+
+
+ 
+ 
+2
+3
+3
+
+
+AIMS
+To provide the students with an opportunity to acquire knowledge, skill and attitude in the fields of system analysis, design and computer based development with special emphasis on system concept, system development life cycle, system analysis, system design & Development, implementation & Information security and object-oriented system design.
+SHORT DESCRIPTION
+System concept, system development life cycle, system analysis, system design & Development, implementation& Information security and object-oriented system design.
+.
+DETAIL DESCRIPTION
+Theory:
+1.Understand the elements of information systems and management.
+1.1Define system and information systems.
+1.2Mention the characteristics of systems.
+1.3Describe the key elements of a system.
+1.4Define open and closed system.
+1.5Describe the characteristics of open system.
+1.6Describe the categories of information.
+1.7State the qualities of information.
+1.8State the need of computer based information system.
+2.Understand the Organizational functions and system development life cycle.
+2.1State the common functions of an organization.
+2.2State the various functions an educational institution.
+2.3State the functions of various departments of a manufacturing organization.
+2.4Describe the Management and Information System levels in an organization.
+2.5State the meaning of system development life cycle.
+2.6Describe the function of each stages of system development life cycle (SDLC).
+3.Understand the roles of system analyst and functions of MIS facility center.
+3.1State the meaning of systems Analyst and system analysis
+3.2Describe the skills required for a system analyst.
+3.3Describe the relationship between interpersonal and technical skills required in different stages of system development.
+3.4Mention the primary functions of an MIS facility center.
+3.5State the activities of administrator in an MIS facility center.
+3.6Describe different structures of systems analysis.
+3.7Describe different functions, responsibilities and duties of system analyst, programmers and operators.
+4.Understand the process of initial investigation and information gathering.
+4.1Mention the steps of systems analysis.
+4.2State the meaning of system planning.
+
+
+4.3List the probable fields of a user request form.
+4.4Describe the steps of initial investigation process.
+4.5Mention the sources and categories of information.
+4.6List the information gathering tools.
+4.7Mention the phases of information gathering.
+4.8Describe the information gathering methods.
+4.9State the guideline of a successful interview.
+4.10State the types of questionnaires.
+5.Understand the tools of structured analysis.
+5.1State the meaning of structured analysis.
+5.2List the name of tools of structured analysis.
+5.3Define physical document flow diagram and logical data flow diagram (DFD).
+5.4State the meaning and functions of DFD symbols.
+5.5Mention the thumb rules of drawing DFDs.
+5.6Draw sample document flow diagram and data flow diagram (DFD).
+5.7State the meaning of decision trees, decision table, structured English and data dictionary.
+5.8Prepare DFD, decision trees, decision table, structured English and data dictionary for sample small process like store/purchase/accounts /order/receive etc.
+6.Understand the feasibility analysis.
+6.1Mention the meaning of feasibility study.
+6.2Describe the economic, technical and behavioral feasibility.
+6.3Describe the steps in feasibility analysis.
+6.4State the categories of cost and benefit.
+6.5State the procedure for cost/benefit determination.
+6.6State the alternating solutions to be examined during feasibility analysis.
+6.7State the content of feasibility report.
+7.Understand the system design and development.
+7.1Mention the meaning of systems design and development.
+7.2Distinguish between logical design and physical design.
+7.3Mention activities covered in systems design and development.
+7.4Mention the steps in physical systems design and design methodologies.
+7.5Mention the meaning of input/output design.
+7.6Mention the characteristics of different forms.
+7.7Describe the factors to be considered to design a form.
+7.8Describe the objectives of database and steps of database design.
+7.9State the structure and general principles to be used in designing output reports.
+8.Understand the process of systems testing and security.
+8.1Describe the objectives of control and testing the information systems.
+8.2Describe different types of systems test.
+8.3Describe the quality factor specification.
+8.4State the term Information Security Management System (ISMS)
+8.5Explain the information security risk management process.
+8.6State the requirements to be met to ensure security of information systems.
+9.Understand the implementation and software maintenance activities.
+9.1Mention the activities considered in systems conversion.
+
+
+9.2Describe the need of user training.
+9.3Describe the post implementation activities.
+9.4State the points to be mentioned for requesting proposal from vendors.
+9.5Prepare a feature form to make a comparative evaluation of vendors’ proposal for computer system.
+10.Understand the concept of object-oriented approach.
+10.1Define object oriented analysis and design.
+10.2State the elements of Object-Oriented system.
+10.3Distinguish between structured approach and object-oriented approach.
+10.4Define Unified Modeling Language (UML).
+10.5State the ways to apply UML.
+10.6Describe the perspectives to apply UML.
+10.7Describe the object-oriented system development life cycle.
+PRACTICAL:
+Perform the tasks to develop any one of the following software using standard programming language and necessary tools (using Python/ Java/ C/C++ /C#/Visual programming/ MySQL/PostgreSQL/Oracle/ HTML/XML/JS/CSS or any other necessary software).
+∙Polytechnic institute management system
+∙School management system
+∙Hotel management system
+∙Accounting software
+∙Transport ticketing management system
+∙Departmental store management system
+∙Admission management system
+∙Billing management system.
+∙Library management system
+∙Online voting system
+∙Student attendance system
+∙Any other computerized system/control system/operating system/ network system/ packages/ educational/ entertainment software.
+STEPS:
+Step-1: Perform the collection of documents to recognize the need of a new computerized system.
+Step-2: Perform the collection of information of the personnel currently solving the problem into the manual system.
+Step-3: Perform the observation of existing system process & gather information by interview and questionnaires.
+Step-4: Perform the preparation of end-user’s requirements & select the feasible solution for the alternative candidate systems.
+Step-5: Perform the design of external forms, input & dialogue screens.
+Step-6: Perform the design of reports, display screens & databases.
+Step-7: Perform the design of test plan & procedure.
+Step-8: Perform the selection of tools, databases and development of menus.
+
+
+Step-9: Perform the development of input screens and dialogues.
+Step-10: Perform the development of modules for data entry & processing.
+Step-11: Perform the development of modules for output display and printing.
+Step-12: Perform the integration & testing of the developed systems.
+Step-13: Perform the preparation of manuals & documentations.
+REFERENCE BOOKS
+1.System Analysis and Design - Elias M. Awad
+2.Analysis and Design of Information Systems - V. Rajaraman
+3.System Analysis and Design Methods - Whitten, Bently, Barlow
+
+
+
+
+
+
+
+66673
+Apps Development Project
+T P C
+
+
+ 
+ 
+0 6 2
+
+
+AIMS
+After completion of the course students will be able to acquire knowledge, skill, attitude in the area of Apps Development emphasizes on:
+∙Skills to design and build an Android application from scratch.
+∙Thorough understanding of main components of an Android application and its entire life cycle.
+∙Ability to use tools to debug and maintain your Android applications.
+∙Using external resources, manifesting adapters and file intents.
+∙Understand storage tools and techniques: files, preferences, databases, and content providers.
+∙Using background processing techniques available in Android.
+SHORT DESCRIPTION
+Introduction to Android Programming, Fundamentals, Classes, Layout, Exception Handling, Android Components, Content providers, Messaging, Connectivity, Location services, Build and App Publish.
+DETAIL DESCRITION
+1.Create Android Environment for App Development.
+1.1Install the latest Android Studio.
+1.2Install Android SDK.
+1.3Configure the IDE.
+1.4Find your configuration files.
+1.5Explore the IDE.
+1.6Define Android Scope.
+1.7Features of Android.
+1.8Understand SDK, AVD and Emulator.
+2.Create an Application and understand the Anatomy.
+2.1Explore Application Framework.
+2.2Explore Application Component.
+2.3Create a Hello World Program.
+2.4Explore Anatomy of Application – Folder, File & Description.
+2.5Describe Main Activity File, Manifest File, Strings File, Layout File.
+2.6Debug and Exception handle procedure.
+3.Work with Activities.
+3.1Define Android Activity and Understand Activity life cycle.
+3.2Handle Activity State Changes.
+3.3Create an Android application and test your app's activities.
+3.4Create an activity.
+3.5Drive the activity to a new state.
+3.6Recreate the activity.
+3.7Trigger actions in the activity.
+4.Work with Fragment.
+4.1Explore fragmentlife cycle, use and types of fragments.
+4.2Create a Fragment Class.
+4.3Build a flexible UI.
+4.4Add a Fragment to an Activity at Runtime.
+
+
+4.5Replace One Fragment with Another.
+4.6Communicate with other fragments.
+4.7Deliver a Message to a Fragment.
+5.Work with Android Intents and Filters.
+5.1Understand the intent object and fundamental use cases.
+5.2Explore Intent types.
+5.3Data transfer between activities.
+5.4Register an Activity for the Intent which is triggered when someone wants to open a webpage.
+5.5Build a service in your app to download a file from the web.
+6.Create Android User Interface.
+6.1Understand the basic building block for user interface.
+6.2Explore the Frame layout, Linear layout, Table layout, Relative layout, Frame layout, List View, Grid View
+6.3Adapt layout attributes.
+6.4Build Layouts with an Adapter.
+6.5Improve layout performance.
+7.Design user Interface with views.
+7.1Add Text, Buttons, checkboxes, radio buttons, toggle buttons, spinners, pickers, tooltips to the layout files.
+7.2Create and manage notifications and channels, modify notification badges.
+7.3Create an activity from a notification.
+7.4Add app bar.
+7.5Dim system bars, Hide status bar and navigation bar.
+8.Work with Navigation.
+8.1Design effective navigation.
+8.2Create swipe view with tabs.
+8.3Create a navigation drawer.
+8.4Implement proper Back navigation.
+9.Display Pictures and Menus with Views.
+9.1UseImageView, ImageSwitcher to Display Pictures.
+9.2Use GridView to Display Pictures.
+9.3ExploreMenus with Views.
+10.Work with App data & files.
+10.1Save files on device storage - Internal Storage, External Storage (SD Card).
+10.2Save data in a local database.
+10.3Send data to other apps.
+10.4Share files.
+10.5Retrieve file information.
+11.Use Content Providers.
+11.1Understand content providers and advantages.
+11.2Accessing and retrieving data from a provider.
+11.3Creating Own Content Providers.
+11.4Create an address book using the Content Provider.
+
+
+12.Work with Messaging.
+12.1Understand Sms Manager API.
+12.2Analyze Method & Description.
+12.3Send an SMS to the given mobile number.
+12.4Analyze Email Messaging.
+12.5Analyze Extra Data &Description.
+12.6Send an Email to the given recipients.
+13.Illustrate Location Based Services.
+13.1Display Maps.
+13.2Get the current location.
+13.3Get the Updated Location.
+13.4Displaying a Location Address.
+13.5Project – Build a Location Tracker.
+14.Establish Connectivity.
+14.1Learn how to connect to the network, choose an HTTP client, and perform network operations outside of the UI thread.
+14.2Learn how to check a device's network connection, create a preferences UI for controlling network usage, and respond to connection changes.
+14.3Optimize network data usage.
+14.4Parse XML data.
+14.5Reduce network battery drain.
+15.Develop Android Services.
+15.1Creating Own Services - Long Running Task and Services, Repeated Task in a Service, Execute a synchronous Task on separate.
+15.2Establishing Communication Between a Service and Activity.
+15.3Bind activities to services.
+15.4Understand Threading.
+16.Configure your build
+16.1The build process.
+16.2Custom build configurations.
+16.3Build configuration files.
+16.4Set the application ID.
+16.5Add build dependencies, Dependency types, configurations.
+16.6Optimize your build speed.
+16.7Configure build variants.
+17.Publish your App
+17.1Prepare for release, Gather materials and resources.
+17.2Set application version information.
+17.3Create Certificates and key stores, Manage keys.
+17.4Upload your app bundle.
+17.5Update your App.
+18.Create a Contact Book.
+18.1Understand the project scope and requirement analysis.
+18.2Create a Form that will take username, gender, email, phone number.
+18.3Upload user image.
+18.4Store data to database.
+18.5Update and Delete a contact.
+
+
+18.6Display user information in List View.
+18.7Test your App with UI-Testing and with testing tools.
+19.Create a BMI Tracker.
+19.1Understand the project scope and requirement analysis.
+19.2Create a calculator that will take user height, weight and age.
+19.3Create BMI Standard to compare.
+19.4Show user BMI and give status.
+19.5Store BMI result.
+19.6Display monthly BMI.
+19.7Test your App with UI-Testing and with testing tools.
+20.Create a Location based App.
+20.1Understand the project scope and requirement analysis
+20.2Create a form that will take name of type like Hospital, Institute, Fire station.
+20.3Create a form that will take information about Address, contact number, latitude, longitude of the address, basic service related information.
+20.4Create a signup form for user and store.
+20.5Filter nearby locations stored in database.
+20.6Test your App with UI-Testing and with testing tools.
+Reference Books
+1.Beginning Android programming with Android Studio By - J F DIMarjio
+2.Hello Android Introducing Google’s Mobile Development Platform
+By - ED Burnette
+Essential Links
+1.developer.android.com
+2.www.tutorialspoint.com/android
+
+
+
+
+
+
+
+65853
+INNOVATION & ENTREPRENEURSHIP
+T
+P
+C
+
+
+ 
+ 
+2
+0
+2
+
+
+AIMS
+•To be able to understand the concept of entrepreneurship & entrepreneur.
+•To be able to understand the concept of environment for entrepreneurship.
+•To be able to understand the sources of venture ideas in Bangladesh.
+•To be able to understand the project selection.
+•To be able to understand business planning.
+•To be able to understand the insurance and premium.
+•To be able to understand the MDG & SDG.
+SHORT DESCRIPTION
+Concepts of entrepreneurship & entrepreneur; Entrepreneurship & economic development; Environment for entrepreneurship; Entrepreneurship in the theories of economic growth; Sources of ventures ideas in Bangladesh; Evaluation of venture ideas; Financial planning; Project selection; Self employment; Entrepreneurial motivation; Business plan; Sources of assistance & industrial sanctioning procedure;
+Concept of SDG; SDG 4,8 .
+DETAIL DESCRIPTION
+Theory :
+1.Understand the basic concept of entrepreneurship & entrepreneur.
+1.1Define entrepreneurship & entrepreneur.
+1.2Discuss the characteristics and qualities of an entrepreneur.
+1.3Mention the classification of entrepreneur.
+1.4Discuss the necessity of entrepreneurship as a career.
+1.5Discuss the prospect of entrepreneurship development in Bangladesh.
+2.Understand the concept of entrepreneurship and economic development.
+2.1Define economic development.
+2.2Discuss the economic development process.
+2.3Discuss the capital accumulation or rate of savings.
+2.4Discuss the role of entrepreneur in the technological development and their introduction into production Process.
+2.5Discuss the entrepreneur in the discovery of new product.
+2.6Discuss the discovery of new markets.
+3.Environment for entrepreneurship development:
+3.1Define the micro environment.
+3.2Discuss individual income, savings and consumption.
+3.3Define macro environment.
+3.4Discuss political, socio-cultural, economical, legal and technological environment.
+3.5Difference between micro and macro environment .
+4.Understand the concept of entrepreneurship in the theories of economic growth.
+4.1Define entrepreneurship in the theories of economic growth.
+4.2Discuss the Malthusian theory of population and economic growth.
+4.3Discuss the stage theory of growth.
+4.4Discuss the Schumpeterian theory of economic development.
+4.5Discuss the entrepreneurship motive in economic development.
+
+
+5.Understand the sources and evaluation of venture ideas in Bangladesh.
+5.1Define sources of venture ideas in Bangladesh.
+5.2Discuss different types of sources of venture ideas in Bangladesh.
+5.3Define evaluation of venture ideas.
+5.4Discuss the factors that influence the selection of venture idea.
+6.Understand the concept of project selection and financial planning.
+6.1Define project.
+6.2Discuss the idea of project.
+6.3Describe the guide lines for project ideas.
+6.4Discuss the sources of project ideas.
+6.5Discuss the evaluation of project ideas.
+6.6Describe the technical aspect of project.
+6.7Define financial planning.
+6.8Discuss the long term financial plan.
+6.9Discuss the short term financial plan.
+7.Understand the concept of self employment.
+7.1Define self employment.
+7.2Describe different types of employment.
+7.3Describe the importance of business as a profession.
+7.4Discuss the reasons for success and failure in business.
+8.Understand the business plan and the concept of the environment for entrepreneurship.
+8.1Define business plan.
+8.2Describe the importance of business plan.
+8.3Discuss the contents of business plan.
+8.4Define environment of business.
+8.5Describe the factors which effect environment on entrepreneurship
+9.Understand the concept of sources of assistance & industrial sanctioning procedure.
+9.1Define sources of assistance.
+9.2Describe different types of sources of assistance.
+9.3Discuss the aid of sources.
+9.4Discuss the industrial policy.
+9.5Define foreign aid.
+10.Understand the insurance and premium.
+10.1Define insurance and premium
+10.2Describe the essential conditions of insurance contract.
+10.3Discuss various types of insurance.
+10.4Distinguish between life insurance and general insurance.
+11.Understand the concept of Sustainable Development Goals (SDG)
+11.1Define Sustainable development
+11.2State UN targets of MDG
+11.3State UN targets of SDG
+11.4Describe the importance of SDG
+11.5Explain the objectives of SDG
+11.6State the Challenges to achieve SDGs
+11.7Explain the actions to face the challenges of SDGs
+11.8State the of 7th 5 years plan
+11.9Mention the link of 7th 5 years plan with SDGs
+11.10Write down the 5 ps of sustainable development goals
+
+
+12.Understand SDG 4,8 and 17
+12.1Describe SDG 4 and its targets
+12.2State the elements of Quality education for TVET
+12.3Describe the gender equality and equal access of TVET for economic growth
+12.4Describe SDG 8 and its targets
+12.5Explain Green development, Green Economy, Green TVET & Green Jobs
+12.6Explain the role an entrepreneur for achieving SDG
+Reference book :
+1. A hand book of new entrepreneur-by p.c jain.
+2.A manual on business opportunity Identification and selection-by j.B patel and S S modi. 3.Uddokta unnoyan Nirdeshika -Md.Sabur khan.
+4.Entrepreneurship- bashu and mollik. 5.Business Entrepreneurship-kage faruke.
+6. Website, Youtube and Google
+
+
+
